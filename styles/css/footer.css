@@ -1,0 +1,93 @@
+/* ==========================================================================
+        DEFAULT - SMALL SCREEN
+========================================================================== */
+footer {
+  text-align: center;
+  background: #333333;
+  padding: 24px 10px;
+  margin-top: 30px;
+}
+footer .copyright {
+  font-size: 0.75rem;
+  color: #666;
+  margin: 6px 0 0;
+}
+footer .footer__social-links {
+  float: none;
+  text-align: center;
+  height: 35px;
+  display: inline-block;
+  margin: 0 0 20px 0;
+}
+footer .footer__social-links li {
+  list-style: none;
+  display: block;
+  float: left;
+  margin-left: 10px;
+}
+footer .footer__social-links li a {
+  display: block;
+  height: 50px;
+  width: 50px;
+  color: #707070;
+}
+footer .footer__social-links li a .fa-inverse {
+  color: #333333;
+}
+footer .footer__social-links li a:hover {
+  opacity: 0.8;
+}
+footer .footer__lps-links {
+  display: inline-block;
+  padding-bottom: 0;
+  margin: 10px 0 0 0;
+}
+footer .footer__lps-links li {
+  display: block;
+  /*float          : left;*/
+  text-align: center;
+  /*margin-left    : 6px;*/
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 0.75rem;
+  margin-bottom: 10px;
+}
+footer .footer__lps-links li a {
+  color: #666;
+  padding: 3px 6px;
+}
+footer .footer__lps-links li a:hover {
+  color: #777;
+}
+
+/* ==========================================================================
+        MEDIUM SCREEN
+========================================================================== */
+@media print, screen and (min-width: 40em) {
+  footer {
+    text-align: left;
+    padding: 24px;
+  }
+  footer .footer__social-links {
+    display: block;
+    float: right;
+    margin-bottom: 8px;
+  }
+  footer .footer__social-links li a {
+    font-size: 1.2rem;
+  }
+  footer .footer__lps-links li {
+    display: block;
+    float: left;
+    margin-left: 6px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 0.75rem;
+  }
+  footer .footer__lps-links li:first-child {
+    margin-left: 0;
+  }
+}
+/* ==========================================================================
+        LARGE SCREEN
+========================================================================== */

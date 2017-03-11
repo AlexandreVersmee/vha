@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Arsenal|PT+Serif');
+@import "variables";
+
+
+/* ==========================================================================
+        DEFAULT - SMALL SCREEN
+========================================================================== */
+
+body {
+  font-family: "Roboto", "Arsenal", Arial, sans-serif !important;
+  text-rendering: optimizeLegibility;
+}
+
+
+/* ==========================================================================
+        MEDIUM SCREEN
+========================================================================== */
+
+@media print, screen and (min-width: 40em) {
+
+}
+
+/* ==========================================================================
+        LARGE SCREEN
+========================================================================== */
+
+@media print, screen and (min-width: 64em) {
+}

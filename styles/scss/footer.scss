@@ -1,0 +1,121 @@
+@import "variables";
+
+
+/* ==========================================================================
+        DEFAULT - SMALL SCREEN
+========================================================================== */
+
+footer {
+  text-align: center;
+  background: $background-color-footer;
+  padding: 24px 10px;
+  margin-top: 30px;
+
+  .copyright {
+    font-size: 0.75rem;
+    color: #666;
+    margin: 6px 0 0;
+  }
+
+  .footer__social-links {
+    float: none;
+    text-align: center;
+    height: 35px;
+    display: inline-block;
+    margin: 0 0 20px 0;
+
+    li {
+      list-style: none;
+      display: block;
+      float: left;
+      margin-left: 10px;
+
+      a {
+        display: block;
+        height: 50px;
+        width: 50px;
+        color: $font-color-social-bg;
+
+        .fa-inverse {
+          color: $font-color-social-icon;
+        }
+
+        &:hover {
+          opacity: 0.8;
+        }
+      }
+    }
+  }
+
+  .footer__lps-links {
+    display: inline-block;
+    padding-bottom: 0;
+    margin: 10px 0 0 0;
+
+    li {
+      display: block;
+      /*float          : left;*/
+      text-align: center;
+      /*margin-left    : 6px;*/
+      text-transform: uppercase;
+      font-weight: 700;
+      font-size: 0.75rem;
+      margin-bottom: 10px;
+
+      a {
+        color: #666;
+        padding: 3px 6px;
+
+        &:hover {
+          color: #777;
+        }
+      }
+    }
+  }
+}
+
+/* ==========================================================================
+        MEDIUM SCREEN
+========================================================================== */
+
+@media print, screen and (min-width: 40em) {
+  footer {
+    text-align: left;
+    padding: 24px;
+
+    .footer__social-links {
+      display: block;
+      float: right;
+      margin-bottom: 8px;
+
+      li {
+        a {
+          font-size: 1.2rem;
+        }
+      }
+    }
+
+    .footer__lps-links {
+
+      li {
+        display: block;
+        float: left;
+        margin-left: 6px;
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: 0.75rem;
+
+        &:first-child {
+          margin-left: 0;
+        }
+      }
+    }
+  }
+}
+
+/* ==========================================================================
+        LARGE SCREEN
+========================================================================== */
+
+@media print, screen and (min-width: 64em) {
+}

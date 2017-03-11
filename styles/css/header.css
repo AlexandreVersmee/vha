@@ -1,0 +1,107 @@
+/* ==========================================================================
+        DEFAULT - SMALL SCREEN
+========================================================================== */
+.header {
+  text-align: center;
+  background: #FFFFFF;
+  background-size: cover;
+  position: relative;
+  overflow: visible;
+  padding-top: 1.5rem;
+  padding-bottom: 1.9rem;
+}
+.header .headline {
+  font-family: "PT Serif", Helvetica, Arial, sans-serif;
+  font-size: 3.5rem;
+  color: #004CD9;
+  line-height: 1;
+}
+.header .headline small {
+  font-size: 55%;
+}
+.header .headline-main {
+  display: block;
+}
+
+.underHeader-contact-informations {
+  margin-bottom: 30px;
+  padding: 7px 0 !important;
+  font-size: 80%;
+  color: #EEF5F3;
+  background: #333333;
+}
+.underHeader-contact-informations a {
+  color: #004CD9;
+}
+.underHeader-contact-informations a:hover {
+  text-decoration: dotted;
+}
+
+.assuranceBarreCouleur {
+  width: 80px;
+  height: 6px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.assuranceBarreCouleur.assuranceParticuliersBarreSoulignement {
+  background-color: cadetblue;
+}
+.assuranceBarreCouleur.assuranceProfessionnelsBarreSoulignement {
+  background-color: #A0000D;
+}
+.assuranceBarreCouleur.assuranceEntreprisesBarreSoulignement {
+  background-color: #59A017;
+}
+.assuranceBarreCouleur.assurancePatrimoineBarreSoulignement {
+  background-color: #A09411;
+}
+
+/* ==========================================================================
+        MEDIUM SCREEN
+========================================================================== */
+@media print, screen and (min-width: 40em) {
+  .header {
+    padding-bottom: 3.9rem;
+  }
+  .header .header-subnav {
+    float: none;
+    position: absolute;
+    text-align: center;
+    margin: 0 auto;
+    bottom: 0;
+    width: 100%;
+  }
+  .header .header-subnav li {
+    float: none;
+    display: inline-block;
+  }
+  .header .header-subnav li a {
+    padding: 0.9rem 0.33rem;
+    font-size: 0.75rem;
+    color: #004CD9;
+    text-transform: uppercase;
+    display: block;
+    font-weight: bold;
+    letter-spacing: 1px;
+    transition: all 0.35s ease-in-out;
+  }
+  .header .header-subnav li a.is-active {
+    background: rgba(250, 250, 250, 0.15);
+  }
+  .header .header-subnav li a:hover {
+    background: rgba(250, 250, 250, 0.15);
+    transition: all 0.35s ease-in-out;
+  }
+}
+/* ==========================================================================
+        LARGE SCREEN
+========================================================================== */
+@media print, screen and (min-width: 64em) {
+  .header {
+    padding-bottom: 4.9rem;
+  }
+  .header .header-subnav li a {
+    padding: 0.9rem 1rem;
+  }
+}

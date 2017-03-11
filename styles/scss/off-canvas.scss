@@ -1,0 +1,55 @@
+@import "variables";
+
+
+/* ==========================================================================
+        DEFAULT - SMALL SCREEN
+========================================================================== */
+
+.off-canvas {
+  background-color: #2C3840;
+  padding: 15px 0;
+  max-height: 100%;
+  overflow-y: auto;
+
+  .off-canvas__title {
+    font-family: "PT Serif", Helvetica, Arial, sans-serif;
+    color: #00719A;
+    font-size: 2.3rem;
+    font-weight: 900;
+  }
+
+  li {
+    padding: 0 15px;
+    list-style-type: none;
+  }
+
+  a {
+    color: #FFF;
+    font-weight: 600;
+    opacity: .75;
+    font-size: 1.125rem;
+    line-height: 38px;
+  }
+}
+
+.title-bar {
+  background-color: #2C3840;
+
+  .title-bar__icon {
+    color: #AAAFB2;
+  }
+}
+
+/* ==========================================================================
+        MEDIUM SCREEN
+========================================================================== */
+
+@media print, screen and (min-width: 40em) {
+}
+
+/* ==========================================================================
+        LARGE SCREEN
+========================================================================== */
+
+@media print, screen and (min-width: 64em) {
+}
