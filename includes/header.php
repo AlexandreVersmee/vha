@@ -11,7 +11,7 @@
         </h1>
     </div>
     <div class="small-2 columns">
-     <i class="fa fa-phone"></i> 03 27 46 42 04
+     <i class="fa fa-phone"></i> 03 27 46 42 04 03 27 42 18 34
     </div>
 </div>
 
