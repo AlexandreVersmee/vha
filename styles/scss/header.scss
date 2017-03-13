@@ -15,7 +15,7 @@
 
   .headline {
     font-family: "PT Serif", Helvetica, Arial, sans-serif;
-    font-size: 3.5rem;
+    font-size: 1.9rem;
     color: #003781;  /* couleur VERSMEE  c100m57j0n49 */
     line-height: 1;
 
@@ -42,27 +42,21 @@
       text-decoration: dotted;
     }
   }
-}
 
-.assuranceBarreCouleur {
-  width: 80px;
-  height: 6px;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+  .particulier{
+    color: $particulier;
+  }
 
-  &.assuranceParticuliersBarreSoulignement {
-    background-color: #0b00e6;
+  .professionnels{
+    color: $professionnels;
   }
-  &.assuranceProfessionnelsBarreSoulignement {
-    background-color: #ce0037;
+
+  .entreprise{
+    color: $entreprise;
   }
-  &.assuranceEntreprisesBarreSoulignement {
-    background-color: #004f24;
-  }
-  &.assurancePatrimoineBarreSoulignement {
-    background-color: #3b038a;
-	/*c57m98j0n10*/
+
+  .patrimoine{
+    color: $patrimoine;
   }
 }
 
@@ -73,6 +67,10 @@
 @media print, screen and (min-width: 40em) {
   .header {
     padding-bottom: 3.9rem;
+
+    .headline {
+      font-size: 3.5rem;
+    }
 
     .header-subnav {
       float: none;
@@ -88,7 +86,7 @@
 
         a {
           padding: 0.9rem 0.33rem;
-          font-size: 1.2rem;
+          font-size: 1.1rem;
           color: #004CD9;
           text-transform: uppercase;
           display: block;
@@ -106,6 +104,28 @@
           }
         }
       }
+    }
+  }
+
+  .barreSoulignement {
+    /*c57m98j0n10*/
+    width: 80px;
+    height: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+    &.particuliersBarreSoulignementCouleur {
+      background-color: $particulier;
+    }
+    &.professionnelsBarreSoulignementCouleur {
+      background-color: $professionnels;
+    }
+    &.entreprisesBarreSoulignementCouleur {
+      background-color: $entreprise;
+    }
+    &.patrimoineBarreSoulignementCouleur {
+      background-color: $patrimoine;
     }
   }
 }

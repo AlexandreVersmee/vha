@@ -1,3 +1,7 @@
+/*$particulier:  #0b00e6;
+$professionnels: #ce0037;
+$entreprise: #004f24;
+$patrimoine: #3b038a;*/
 /* ==========================================================================
         DEFAULT - SMALL SCREEN
 ========================================================================== */
@@ -12,7 +16,7 @@
 }
 .header .headline {
   font-family: "PT Serif", Helvetica, Arial, sans-serif;
-  font-size: 3.5rem;
+  font-size: 1.9rem;
   color: #003781;
   /* couleur VERSMEE  c100m57j0n49 */
   line-height: 1;
@@ -37,26 +41,17 @@
 .underHeader-contact-informations a:hover {
   text-decoration: dotted;
 }
-
-.assuranceBarreCouleur {
-  width: 80px;
-  height: 6px;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+.underHeader-contact-informations .particulier {
+  color: #40ABE3;
 }
-.assuranceBarreCouleur.assuranceParticuliersBarreSoulignement {
-  background-color: #0b00e6;
+.underHeader-contact-informations .professionnels {
+  color: #07C5AB;
 }
-.assuranceBarreCouleur.assuranceProfessionnelsBarreSoulignement {
-  background-color: #ce0037;
+.underHeader-contact-informations .entreprise {
+  color: #F9A912;
 }
-.assuranceBarreCouleur.assuranceEntreprisesBarreSoulignement {
-  background-color: #004f24;
-}
-.assuranceBarreCouleur.assurancePatrimoineBarreSoulignement {
-  background-color: #3b038a;
-  /*c57m98j0n10*/
+.underHeader-contact-informations .patrimoine {
+  color: #EF634C;
 }
 
 /* ==========================================================================
@@ -65,6 +60,9 @@
 @media print, screen and (min-width: 40em) {
   .header {
     padding-bottom: 3.9rem;
+  }
+  .header .headline {
+    font-size: 3.5rem;
   }
   .header .header-subnav {
     float: none;
@@ -80,7 +78,7 @@
   }
   .header .header-subnav li a {
     padding: 0.9rem 0.33rem;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     color: #004CD9;
     text-transform: uppercase;
     display: block;
@@ -94,6 +92,27 @@
   .header .header-subnav li a:hover {
     background: rgba(250, 250, 250, 0.15);
     transition: all 0.35s ease-in-out;
+  }
+
+  .barreSoulignement {
+    /*c57m98j0n10*/
+    width: 80px;
+    height: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  .barreSoulignement.particuliersBarreSoulignementCouleur {
+    background-color: #40ABE3;
+  }
+  .barreSoulignement.professionnelsBarreSoulignementCouleur {
+    background-color: #07C5AB;
+  }
+  .barreSoulignement.entreprisesBarreSoulignementCouleur {
+    background-color: #F9A912;
+  }
+  .barreSoulignement.patrimoineBarreSoulignementCouleur {
+    background-color: #EF634C;
   }
 }
 /* ==========================================================================

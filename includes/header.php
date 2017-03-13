@@ -1,17 +1,14 @@
 
 <header class="header">
 <div class="row">
-    <div class="small-2 columns">
+    <div class="hide-for-small-only medium-2 columns">
         <img src="images/assurance_versmee_hautcoeur_logo.jpg" </div>
     </div>
-    <div class="small-8 end columns">
+    <div class="small-12 medium-8 end columns">
         <h1 class="headline">
             <span class="headline-main">Versmée & Hautcœur</span>
-            <small>Maison fondée en 1929<br>L'assurance d'être bien assuré</small>
+           <!-- <small>Maison fondée en 1929<br>L'assurance d'être bien assuré</small>-->
         </h1>
-    </div>
-    <div class="small-2 columns">
-     <i class="fa fa-phone"></i> 03 27 46 42 04
     </div>
 </div>
 

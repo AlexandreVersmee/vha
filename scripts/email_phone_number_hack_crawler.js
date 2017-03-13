@@ -6,9 +6,9 @@ var emailMailTo = "mailto:" + emailString;
 
 var linktext = "<a href='" + emailMailTo + "'>" + emailString + "</a>" ;
 
-var phoneNumber = "07 60 00 17 12";
+var phoneNumber = "03 27 46 42 04";
 
 
-$("#phoneNumberLPS").html(phoneNumber);
-$("#emailHeaderLPS").html(linktext);
-$("#emailFooterLPS").attr("href", emailMailTo);
+$("#phoneNumber").html(phoneNumber);
+$("#emailHeader").html(linktext);
+$("#emailFooter").attr("href", emailMailTo);
