@@ -12,8 +12,9 @@
         <li><a id="header-link-index" href="index.php" tabindex=1 >Accueil</a></li>
         <li><a id="header-link-" href=".php" tabindex=2>Nos Agences</a></li>
         <li><a id="header-link-" href=".php" tabindex=3>Notre Expertise</a></li>
+		<li><a id="header-link-" href=".php" tabindex=5>Notre Equipe</a></li>
         <li><a id="header-link-" href=".php" tabindex=4>Devis en ligne</a></li>
-
+		<li><a id="header-link-" href=".php" tabindex=6>Espace Assuré</a></li>
     </ul>
 
     <hr>

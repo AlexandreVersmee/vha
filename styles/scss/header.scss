@@ -16,7 +16,7 @@
   .headline {
     font-family: "PT Serif", Helvetica, Arial, sans-serif;
     font-size: 3.5rem;
-    color: #004CD9;
+    color: #003781;  /* couleur VERSMEE  c100m57j0n49 */
     line-height: 1;
 
     small {
@@ -32,7 +32,7 @@
 .underHeader-contact-informations {
   margin-bottom: 30px;
   padding: 7px 0 !important;
-  font-size: 80%;
+  font-size: 90%;
   color: #EEF5F3;
   background: $background-color-footer;
 
@@ -52,16 +52,17 @@
   display: block;
 
   &.assuranceParticuliersBarreSoulignement {
-    background-color: cadetblue;
+    background-color: #0b00e6;
   }
   &.assuranceProfessionnelsBarreSoulignement {
-    background-color: #A0000D;
+    background-color: #ce0037;
   }
   &.assuranceEntreprisesBarreSoulignement {
-    background-color: #59A017;
+    background-color: #004f24;
   }
   &.assurancePatrimoineBarreSoulignement {
-    background-color: #A09411;
+    background-color: #3b038a;
+	/*c57m98j0n10*/
   }
 }
 

@@ -7,7 +7,7 @@
     <div class="small-8 end columns">
         <h1 class="headline">
             <span class="headline-main">Versmée & Hautcœur</span>
-            <small>L'assurance d'être bien assuré</small>
+            <small>Maison fondée en 1929<br>L'assurance d'être bien assuré</small>
         </h1>
     </div>
     <div class="small-2 columns">
@@ -20,7 +20,8 @@
         <li><a id="header-link-" href=".php" tabindex=2>Nos Agences</a></li>
         <li><a id="header-link-" href=".php" tabindex=3>Notre Expertise</a></li>
         <li><a id="header-link-" href=".php" tabindex=4>Devis en ligne</a></li>
-        <li><a id="header-link-" href=".php" tabindex=7>Espace assuré</a></li>
+        <li><a id="header-link-" href=".php" tabindex=5>Notre Equipe</a></li>
+		<li><a id="header-link-" href=".php" tabindex=6>Espace Assuré</a></li>
     </ul>
 
 </header>
