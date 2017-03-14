@@ -1,5 +1,5 @@
-var username = "lesptitssoins";
-var hostname = "gmail.com";
+var username = "versmee-hautcoeur.59300";
+var hostname = "allianz.fr";
 
 var emailString =  username + "@" + hostname;
 var emailMailTo = "mailto:" + emailString;
