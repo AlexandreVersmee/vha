@@ -8,6 +8,7 @@
 	<?php include 'includes/styles.php' ?>
 
 	<link rel="stylesheet" href="styles/css/index.css">
+    <link rel="stylesheet" href="styles/css/agences.css">
 </head>
 <body>
 
@@ -36,10 +37,65 @@
 			<!-- CONTENU PRINCIPAL -->
 			<main>
 				<div class="row">
-					<div class="large-12 columns text-center presentation">
-						<h1>Nos agences</h1>
+					<div class="small-12 columns">
+						<h1 class="text-center">Nos agences</h1>
 					</div>
 				</div>
+                <div class="row">
+                    <div class="small-12 columns content">
+                        <div class="small-12 medium-6 columns">
+                            <h3>
+                                <span class="fa-stack fa-lg">
+                                  <i class="fa fa-square fa-stack-2x"></i>
+                                  <i class="fa fa-map-marker fa-stack-1x fa-inverse"></i>
+                                </span>
+                                Valenciennes
+                            </h3>
+                            <div class="informations">
+                                <address>
+                                    <p>44 Avenue de Saint Amand<br/>
+                                    59300 - Valenciennes</p>
+                                </address>
+                                <p>Tél. : 03 27 46 42 04</p>
+                            </div>
+                            <hr>
+
+                            <h3>
+                                <span class="fa-stack fa-lg">
+                                  <i class="fa fa-square fa-stack-2x"></i>
+                                  <i class="fa fa-map-marker fa-stack-1x fa-inverse"></i>
+                                </span>
+                                Douchy-Les-Mines
+                            </h3>
+                            <div class="informations">
+                                <address>
+                                    <p>142 Avenue de la République<br/>
+                                       59282 - Douchy-les-Mines </p>
+                                </address>
+                                <p>Tél. : 03 27 46 42 04</p>
+                            </div>
+                            <hr>
+
+                            <h4>
+                                <span class="fa-stack fa-lg">
+                                  <i class="fa fa-square fa-stack-2x"></i>
+                                  <i class="fa fa-clock-o fa-stack-1x fa-inverse"></i>
+                                </span>
+                                Horaires de nos agences
+                            </h4>
+                            <div class="informations">
+                                <p>Lundi 13h45 - 18h00<br/>
+                                Mardi au Vendredi<br/>
+                                9h - 12h15 et 13h45 - 18h<br/>
+                                Samedi 9h - 12h<br/>
+                                et sur rendez-vous si vous le souhaitez.</p>
+                            </div>
+                        </div>
+                        <div class="small-12 medium-6 columns">
+                            <div id="map"></div>
+                        </div>
+                    </div>
+                </div>
 			</main>
 
 			<?php include 'includes/footer.php' ?>
@@ -50,6 +106,8 @@
 
 <!-- SCRIPTS -->
 <?php include 'includes/scripts.php' ?>
+<script src="scripts/google_map_agences.js"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUa7nbQoszbkns9Zle_s1iHSXcbAVj5JY&libraries=places&callback=initAutocomplete"></script>
 
 </body>
 </html>
