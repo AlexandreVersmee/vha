@@ -88,7 +88,7 @@
                                 Mardi au Vendredi<br/>
                                 9h - 12h15 et 13h45 - 18h<br/>
                                 Samedi 9h - 12h<br/>
-                                et sur rendez-vous si vous le souhaitez.</p>
+                                Sur rendez-vous si vous le souhaitez.</p>
                             </div>
                         </div>
                         <div class="small-12 medium-6 columns">
