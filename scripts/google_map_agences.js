@@ -4,11 +4,21 @@
 // Valenciennes : {lat:50.366515, lng: 3.512481}
 
 function initAutocomplete() {
+    console.log("w: "+window.innerWidth +" - h :"+window.innerHeight);
 
-    var cfg = {
-        center: {lat: 50.338573, lng: 3.458409},
-        zoom: 12
-    };
+    var cfg = {};
+    if (window.innerWidth > 1600){
+        cfg = {
+            center: {lat: 50.338573, lng: 3.458409},
+            zoom: 12
+        };
+    }else {
+        cfg = {
+            center: {lat: 50.338573, lng: 3.458409},
+            zoom: 11
+        };
+    }
+
 
     var map = new google.maps.Map(document.getElementById('map'), {
         center: cfg.center,

@@ -11,7 +11,7 @@
   position: relative;
   overflow: visible;
   padding-top: 1.5rem;
-  padding-bottom: 1.9rem;
+  padding-bottom: 1rem;
 
   .headline {
     font-family: "PT Serif", Helvetica, Arial, sans-serif;
@@ -33,7 +33,6 @@
 }
 
 .underHeader-contact-informations {
-  margin-bottom: 30px;
   padding: 7px 0 !important;
   font-size: 90%;
   color: #EEF5F3;
@@ -56,10 +55,12 @@
 
   .entreprise{
     color: $entreprise-font-color;
+    margin-top: 7px;
   }
 
   .patrimoine{
     color: $patrimoine-font-color;
+    margin-top: 7px;
   }
 }
 
@@ -110,24 +111,14 @@
     }
   }
 
-  .barreSoulignement {
-    width: 80px;
-    height: 6px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
+  .underHeader-contact-informations {
+    margin-bottom: 30px;
 
-    &.particuliersBarreSoulignementCouleur {
-      background-color: $particulier-font-color;
+    .entreprise{
+      margin: 0;
     }
-    &.professionnelsBarreSoulignementCouleur {
-      background-color: $professionnels-font-color;
-    }
-    &.entreprisesBarreSoulignementCouleur {
-      background-color: $entreprise-font-color;
-    }
-    &.patrimoineBarreSoulignementCouleur {
-      background-color: $patrimoine-font-color;
+    .patrimoine{
+      margin: 0;
     }
   }
 }

@@ -7,7 +7,6 @@
 
 	<?php include 'includes/styles.php' ?>
 
-	<link rel="stylesheet" href="styles/css/index.css">
 </head>
 <body>
 

@@ -15,7 +15,7 @@ footer .copyright {
 footer .footer__social-links {
   float: none;
   display: inline-block;
-  margin: 0 0 20px 0;
+  margin: 10px 0;
 }
 footer .footer__social-links li {
   list-style: none;
@@ -31,24 +31,24 @@ footer .footer__social-links li a .fa-inverse {
 footer .footer__social-links li a:hover {
   opacity: 0.8;
 }
-footer .footer__lps-links {
+footer .footer__vha-links {
   display: inline-block;
   padding-bottom: 0;
   margin: 10px 0 0 0;
 }
-footer .footer__lps-links li {
+footer .footer__vha-links li {
   display: block;
   text-align: center;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 0.75rem;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
-footer .footer__lps-links li a {
+footer .footer__vha-links li a {
   color: #a1a3a4;
   padding: 3px 6px;
 }
-footer .footer__lps-links li a:hover {
+footer .footer__vha-links li a:hover {
   color: #777;
 }
 footer .footer__phoneNumber {
@@ -90,7 +90,7 @@ footer .footer__phoneNumber li a:hover {
   footer .footer__social-links li a {
     font-size: 1.2rem;
   }
-  footer .footer__lps-links li {
+  footer .footer__vha-links li {
     display: block;
     float: left;
     margin-left: 6px;
@@ -98,7 +98,7 @@ footer .footer__phoneNumber li a:hover {
     font-weight: 700;
     font-size: 0.75rem;
   }
-  footer .footer__lps-links li:first-child {
+  footer .footer__vha-links li:first-child {
     margin-left: 0;
   }
   footer .footer__phoneNumber {

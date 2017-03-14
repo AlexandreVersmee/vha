@@ -5,11 +5,11 @@
 
         <div class="medium-4 columns" data-equalizer-watch>
 
-            <ul class="footer__lps-links">
+            <ul class="footer__vha-links">
                 <li><a href="contact.php">Nous contacter</a></li>
                 <li><a href="#">Mentions légales</a></li>
             </ul>
-            <p class="copyright">© Copyright Versmée & Hautcoeur 2017.</p>
+            <p class="copyright hide-for-small-only">© Copyright Versmée & Hautcoeur 2017.</p>
         </div>
 
       <!--  <div class="medium-4 columns text-center" data-equalizer-watch>
@@ -57,6 +57,7 @@
                 </li>
             </ul>
 
+            <span class="copyright show-for-small-only"><br/>© Copyright Versmée & Hautcoeur 2017.</span>
         </div>
 
     </div>

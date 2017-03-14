@@ -8,6 +8,14 @@ body {
   background-color: #e4e4e4;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto", "Arsenal", Arial, sans-serif !important;
+}
+
+.main-title {
+  margin: 13px 0;
+}
+
 .content {
   background-color: #F2F2F2;
   padding: 15px 0;
@@ -16,6 +24,11 @@ body {
 /* ==========================================================================
         MEDIUM SCREEN
 ========================================================================== */
+@media print, screen and (min-width: 40em) {
+  .main-title {
+    margin: 13px 0;
+  }
+}
 /* ==========================================================================
         LARGE SCREEN
 ========================================================================== */

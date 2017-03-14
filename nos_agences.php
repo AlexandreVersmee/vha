@@ -7,7 +7,6 @@
 
 	<?php include 'includes/styles.php' ?>
 
-	<link rel="stylesheet" href="styles/css/index.css">
     <link rel="stylesheet" href="styles/css/agences.css">
 </head>
 <body>
@@ -38,7 +37,7 @@
 			<main>
 				<div class="row">
 					<div class="small-12 columns">
-						<h1 class="text-center">Nos agences</h1>
+						<h1 class="text-center main-title">Nos agences</h1>
 					</div>
 				</div>
                 <div class="row">
