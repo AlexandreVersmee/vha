@@ -33,7 +33,7 @@ $patrimoine: #3b038a;*/
   padding: 7px 0 !important;
   font-size: 90%;
   color: #EEF5F3;
-  background: #333333;
+  background: #76797b;
 }
 .underHeader-contact-informations a {
   color: #004CD9;
@@ -42,7 +42,7 @@ $patrimoine: #3b038a;*/
   text-decoration: dotted;
 }
 .underHeader-contact-informations .particulier {
-  color: #40ABE3;
+  color: #113388;
 }
 .underHeader-contact-informations .professionnels {
   color: #07C5AB;
@@ -103,7 +103,7 @@ $patrimoine: #3b038a;*/
     display: block;
   }
   .barreSoulignement.particuliersBarreSoulignementCouleur {
-    background-color: #40ABE3;
+    background-color: #113388;
   }
   .barreSoulignement.professionnelsBarreSoulignementCouleur {
     background-color: #07C5AB;
