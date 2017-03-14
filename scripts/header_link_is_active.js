@@ -1,8 +1,6 @@
-var tabs = ["index.php", "soin_visage.php", "soin_corps.php", "epilation.php", "beaute_mains_et_pieds.php",
-    "maquillage.php", "offres.php" ];
+var tabs = ["index.php", "nos_agences.php", "notre_expertise.php", "notre_equipe.php", "devis_en_ligne.php" ];
 
-var ids = ["header-link-index", "header-link-soinVisage", "header-link-soinCorps", "header-link-epilation",
-    "header-link-beaute", "header-link-maquillage", "header-link-offres"];
+var ids = ["header-link-index","header-link-agences","header-link-expertise","header-link-equipe","header-link-devis"];
 
 var pathArray = window.location.pathname.split( '/' );
 

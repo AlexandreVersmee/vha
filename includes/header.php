@@ -1,24 +1,27 @@
 
 <header class="header">
-<div class="row">
-    <div class="hide-for-small-only medium-2 columns">
-        <img src="images/assurance_versmee_hautcoeur_logo.jpg" </div>
+
+    <div class="row">
+        <div class="hide-for-small-only medium-2 columns">
+            <a href="index.php" title="Retour à la page d'accueil">
+                <img src="images/assurance_versmee_hautcoeur_logo.png" alt="Logo de l'assurance Versmée & Hautcoeur" >
+            </a>
+        </div>
+        <div class="small-12 medium-8 end columns">
+            <h1 class="headline">
+                <span class="headline-main">Versmée & Hautcœur</span>
+                <small>Maison fondée en 1929</small>
+            </h1>
+        </div>
     </div>
-    <div class="small-12 medium-8 end columns">
-        <h1 class="headline">
-            <span class="headline-main">Versmée & Hautcœur</span>
-           <!-- <small>Maison fondée en 1929<br>L'assurance d'être bien assuré</small>-->
-        </h1>
-    </div>
-</div>
 
     <ul class="header-subnav show-for-medium">
         <li><a id="header-link-index" href="index.php" tabindex=1 >Accueil</a></li>
-        <li><a id="header-link-" href=".php" tabindex=2>Nos Agences</a></li>
-        <li><a id="header-link-" href=".php" tabindex=3>Notre Expertise</a></li>
-        <li><a id="header-link-" href=".php" tabindex=4>Devis en ligne</a></li>
-        <li><a id="header-link-" href=".php" tabindex=5>Notre Equipe</a></li>
-		<li><a id="header-link-" href=".php" tabindex=6>Espace Assuré</a></li>
+        <li><a id="header-link-agences" href="nos_agences.php" tabindex=2>Nos Agences</a></li>
+        <li><a id="header-link-expertise" href="notre_expertise.php" tabindex=3>Notre Expertise</a></li>
+        <li><a id="header-link-devis" href="devis_en_ligne.php" tabindex=5>Notre Equipe</a></li>
+        <li><a id="header-link-equipe" href="notre_equipe.php" tabindex=4>Devis en ligne</a></li>
+		<li><a target="_blank" href="https://www.allianz.fr/espace-client/accueil/index.html" tabindex=6>Espace Assuré</a></li>
     </ul>
 
 </header>

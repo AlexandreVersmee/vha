@@ -6,7 +6,7 @@
 
 .header {
   text-align: center;
-  background: $background-color-header;
+  background: $header-background-color;
   background-size: cover;
   position: relative;
   overflow: visible;
@@ -16,11 +16,11 @@
   .headline {
     font-family: "PT Serif", Helvetica, Arial, sans-serif;
     font-size: 1.9rem;
-    color: #003781;  /* couleur VERSMEE  c100m57j0n49 */
+    color: #FFE;  /* couleur VERSMEE  c100m57j0n49 */
     line-height: 1;
 
     small {
-      font-size: 55%;
+      font-size: 50%;
     }
   }
 
@@ -34,7 +34,7 @@
   padding: 7px 0 !important;
   font-size: 90%;
   color: #EEF5F3;
-  background: $background-color-footer;
+  background: $footer-background-color;
 
   a {
     color: #004CD9;
@@ -44,19 +44,19 @@
   }
 
   .particulier{
-    color: $particulier;
+    color: $particulier-font-color;
   }
 
   .professionnels{
-    color: $professionnels;
+    color: $professionnels-font-color;
   }
 
   .entreprise{
-    color: $entreprise;
+    color: $entreprise-font-color;
   }
 
   .patrimoine{
-    color: $patrimoine;
+    color: $patrimoine-font-color;
   }
 }
 
@@ -69,7 +69,7 @@
     padding-bottom: 3.9rem;
 
     .headline {
-      font-size: 3.5rem;
+      font-size: 2.9rem;
     }
 
     .header-subnav {
@@ -86,8 +86,8 @@
 
         a {
           padding: 0.9rem 0.33rem;
-          font-size: 1.1rem;
-          color: #004CD9;
+          font-size: 1rem;
+          color: #FFE;
           text-transform: uppercase;
           display: block;
           font-weight: bold;
@@ -108,7 +108,6 @@
   }
 
   .barreSoulignement {
-    /*c57m98j0n10*/
     width: 80px;
     height: 6px;
     margin-left: auto;
@@ -116,16 +115,16 @@
     display: block;
 
     &.particuliersBarreSoulignementCouleur {
-      background-color: $particulier;
+      background-color: $particulier-font-color;
     }
     &.professionnelsBarreSoulignementCouleur {
-      background-color: $professionnels;
+      background-color: $professionnels-font-color;
     }
     &.entreprisesBarreSoulignementCouleur {
-      background-color: $entreprise;
+      background-color: $entreprise-font-color;
     }
     &.patrimoineBarreSoulignementCouleur {
-      background-color: $patrimoine;
+      background-color: $patrimoine-font-color;
     }
   }
 }
