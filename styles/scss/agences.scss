@@ -1,3 +1,4 @@
+@import "variables";
 
 $font-size-icon : 1.5rem;
 
@@ -30,6 +31,10 @@ h4 {
 
 .informations{
   padding-left: 54px;
+}
+
+.fa-square{
+  color: $particulier-font-color;
 }
 
 /* ==========================================================================

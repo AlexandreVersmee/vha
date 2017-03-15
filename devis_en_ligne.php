@@ -35,10 +35,32 @@
 			<!-- CONTENU PRINCIPAL -->
 			<main>
 				<div class="row">
-					<div class="large-12 columns text-center presentation">
+					<div class="large-12 columns text-center">
 						<h1>Devis en Ligne</h1>
 					</div>
 				</div>
+                <div class="row">
+                    <div class="large-6 columns">
+                        <div class="row">
+                            <div class="large-6 columns">
+                                1
+                            </div>
+                            <div class="large-6 columns">
+                                2
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="large-6 columns">
+                                3
+                            </div>
+                            <div class="large-6 columns">
+                                4
+                            </div>
+                        </div>
+                    </div>
+                    <div class="large-6 columns">
+                        contact
+                    </div>
 			</main>
 
 			<?php include 'includes/footer.php' ?>

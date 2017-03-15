@@ -32,15 +32,15 @@
 
             <ul class="footer__social-links">
                 <li>
-                    <a href="#">
+                    <a href="https://www.linkedin.com/company-beta/10381297/" target="_blank">
                         <span class="fa-stack fa-lg">
                           <i class="fa fa-circle fa-stack-2x"></i>
-                          <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
                         </span>
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="https://www.facebook.com/assurance.versmee.valenciennes" target="_blank">
                         <span class="fa-stack fa-lg">
                           <i class="fa fa-circle fa-stack-2x"></i>
                           <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
