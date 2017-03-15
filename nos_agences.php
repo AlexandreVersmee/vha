@@ -71,7 +71,7 @@
                                     <p>142 Avenue de la République<br/>
                                        59282 - Douchy-les-Mines </p>
                                 </address>
-                                <p>Tél. : 03 27 46 42 04</p>
+                                <p>Tél. : 03 27 44 18 32</p>
                             </div>
                             <hr>
 
