@@ -1,34 +1,29 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto|Arsenal|PT+Serif");
 /* ==========================================================================
         DEFAULT - SMALL SCREEN
 ========================================================================== */
-body {
-  font-family: "Roboto", "Arsenal", Arial, sans-serif !important;
-  text-rendering: optimizeLegibility;
-  background-color: #E4E4E4;
+.devis-image-block {
+  position: relative;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Roboto", "Arsenal", Arial, sans-serif !important;
-}
-
-.main-title {
-  margin: 13px 0;
-}
-
-.content {
-  background-color: #F2F2F2;
-  padding: 15px 0;
+.devis-text-block {
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  padding: 15px 7px;
+  background-color: rgba(255, 255, 255, 0.25);
+  color: #002F6C;
+  height: 150px;
+  width: 150px;
+  z-index: 99999;
 }
 
 /* ==========================================================================
         MEDIUM SCREEN
 ========================================================================== */
-@media print, screen and (min-width: 40em) {
-  .main-title {
-    margin: 0 0 13px 0;
-  }
-}
 /* ==========================================================================
         LARGE SCREEN
 ========================================================================== */

@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto|Arsenal|PT+Serif');
 @import "variables";
 
-
 /* ==========================================================================
         DEFAULT - SMALL SCREEN
 ========================================================================== */
@@ -9,18 +8,18 @@
 body {
   font-family: "Roboto", "Arsenal", Arial, sans-serif !important;
   text-rendering: optimizeLegibility;
-  background-color: #e4e4e4;
+  background-color: #E4E4E4;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", "Arsenal", Arial, sans-serif !important;
 }
 
-.main-title{
+.main-title {
   margin: 13px 0;
 }
 
-.content{
+.content {
   background-color: #F2F2F2;
   padding: 15px 0;
 }
@@ -30,7 +29,7 @@ h1, h2, h3, h4, h5, h6 {
 ========================================================================== */
 
 @media print, screen and (min-width: 40em) {
-  .main-title{
+  .main-title {
     margin: 0 0 13px 0;
   }
 }

@@ -3,13 +3,13 @@
 ========================================================================== */
 footer {
   text-align: center;
-  background: #54585a;
+  background: #54585A;
   padding: 24px 10px;
   margin-top: 30px;
 }
 footer .copyright {
   font-size: 0.75rem;
-  color: #a1a3a4;
+  color: #A1A3A4;
   margin: 6px 0 0;
 }
 footer .footer__social-links {
@@ -23,10 +23,10 @@ footer .footer__social-links li {
   margin-left: 10px;
 }
 footer .footer__social-links li a {
-  color: #a1a3a4;
+  color: #A1A3A4;
 }
 footer .footer__social-links li a .fa-inverse {
-  color: #54585a;
+  color: #54585A;
 }
 footer .footer__social-links li a:hover {
   opacity: 0.8;
@@ -45,14 +45,14 @@ footer .footer__vha-links li {
   margin-bottom: 15px;
 }
 footer .footer__vha-links li a {
-  color: #a1a3a4;
+  color: #A1A3A4;
   padding: 3px 6px;
 }
 footer .footer__vha-links li a:hover {
   color: #777;
 }
 footer .footer__phoneNumber {
-  color: #a1a3a4;
+  color: #A1A3A4;
   border-top: solid 1px rgba(255, 255, 255, 0.2);
   border-bottom: solid 1px rgba(255, 255, 255, 0.2);
   height: 35px !important;
@@ -65,10 +65,10 @@ footer .footer__phoneNumber li {
   margin-left: 10px;
 }
 footer .footer__phoneNumber li a {
-  color: #a1a3a4;
+  color: #A1A3A4;
 }
 footer .footer__phoneNumber li a .fa-inverse {
-  color: #54585a;
+  color: #54585A;
 }
 footer .footer__phoneNumber li a:hover {
   opacity: 0.8;
