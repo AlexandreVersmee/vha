@@ -34,13 +34,17 @@
 
             <!-- CONTENU PRINCIPAL -->
             <main>
+
+
+
                 <div class="row">
                     <div class="large-12 columns text-center">
                         <h1>Devis en Ligne</h1>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="large-6 columns">
+                    <!-- COLONNE DE GAUCHE -->
+                    <div class="large-6 columns content">
                         <div class="row">
                             <div class="large-6 columns thumbnail devis-image-block">
                                 <a href="#">
@@ -78,8 +82,67 @@
                             </div>
                         </div>
                     </div>
-                    <div class="large-6 columns">
-                        contact
+                    <!-- COLONNE DE DROITE -->
+                    <div class="large-6 columns content">
+						<?php include 'includes/send_email.php' ?>
+
+                        <form method="post" action="devis_en_ligne.php">
+                            <div class="row">
+                                <div class="small-12 columns">
+                                    <label for="nom">Nom</label>
+                                    <div class="input-group">
+                                        <input class="input-group-field" type="text" name="nom" id="nom" aria-label="Nom"
+                                               placeholder="Veulliez saisir votre nom">
+                                        <span class="input-group-label"><i class="fa fa-user"></i></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="small-12 columns">
+                                    <label for="email">Adresse email</label>
+                                    <div class="input-group">
+                                        <input class="input-group-field" type="text" name="email" id="email" aria-label="Adresse Email"
+                                               placeholder="Veulliez saisir votre adresse email">
+                                        <span class="input-group-label"><i class="fa fa-at"></i></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="small-12 columns">
+                                    <label for="tel">Numéro de téléphone</label>
+                                    <div class="input-group">
+                                        <input class="input-group-field" type="text" name="tel" id="tel" aria-label="Numéro de téléphone"
+                                               placeholder="Veulliez saisir votre numéro de téléphone">
+                                        <span class="input-group-label"><i class="fa fa-phone"></i></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="small-12 columns">
+                                    <label>Type d'assurance
+                                        <select name="typeAssurance">
+                                            <option value="aucun">Choisissez le type contrat</option>
+                                            <option value="Auto">Assurance Auto</option>
+                                            <option value="Habitation">Assurance Habitation</option>
+                                            <option value="Santé">Assurance Santé</option>
+                                            <option value="Emprunteur">Assurance Emprunteur</option>
+                                        </select>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="small-12 columns">
+                                    <label>Description
+                                        <textarea name="message" placeholder="Décrivez votre besoin"></textarea>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="small-12 columns text-right">
+                                    <input type="submit" class="button" value="Envoyer">
+                                </div>
+                            </div>
+                        </form>
                     </div>
             </main>
 
@@ -91,6 +154,6 @@
 
 <!-- SCRIPTS -->
 <?php include 'includes/scripts.php' ?>
-
+<script>setTimeout(function(){ $('.callout').trigger('close').fadeOut(4500); }, 7000);</script>
 </body>
 </html>
