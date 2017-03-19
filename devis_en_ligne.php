@@ -8,6 +8,8 @@
 	<?php include 'includes/styles.php' ?>
 
     <link rel="stylesheet" href="styles/css/devis.css">
+	$Code_agence_Valenciennes = "h98069" ;
+	$Allianz_path_devis = "https://www.allianz.fr/monagence.html?codeAgence="&$code_agenc_Valenciennes&"&urlRedirect=" ;
 </head>
 <body>
 
@@ -47,7 +49,7 @@
                     <div class="large-6 columns content">
                         <div class="row">
                             <div class="large-6 columns thumbnail devis-image-block">
-                                <a href="#">
+                                <a href="$Allianz_path_devis"&"devis-assurance.allianz.fr/devis-rapide-auto/">
                                     <img src="https://placehold.it/2000x2000&text=Image"/>
                                     <div class="devis-text-block text-center">
                                         <p>utem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius </p>
@@ -55,7 +57,7 @@
                                 </a>
                             </div>
                             <div class="large-6 columns thumbnail devis-image-block">
-                                <a href="#">
+                                <a href="$Allianz_path_devis"&"https://devis-assurance.allianz.fr/tarif-express-habitation/">
                                     <img src="https://placehold.it/2000x2000&text=Image"/>
                                     <div class="devis-text-block text-center">
                                         <p>utem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius </p>
@@ -65,7 +67,6 @@
                         </div>
                         <div class="row">
                             <div class="large-6 columns thumbnail devis-image-block">
-                                <a href="#">
                                     <img src="https://placehold.it/2000x2000&text=Image"/>
                                     <div class="devis-text-block text-center">
                                         <p>utem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius </p>
@@ -73,7 +74,6 @@
                                 </a>
                             </div>
                             <div class="large-6 columns thumbnail devis-image-block">
-                                <a href="#">
                                     <img src="https://placehold.it/2000x2000&text=Image"/>
                                     <div class="devis-text-block text-center">
                                         <p>utem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius </p>
