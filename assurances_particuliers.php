@@ -6,6 +6,7 @@
 	<title>Assurance Versmée & Hautcoeur Valenciennes</title>
 
 	<?php include 'includes/styles.php' ?>
+	$Allianz_path_devis = "https://www.allianz.fr/monagence.html?codeAgence=559932&urlRedirect="
 
 </head>
 <body>
@@ -41,8 +42,11 @@
 				</div>
 
 				<div class="row">
+
 					<div class="small-12 medium-6 large-4 columns">
+
 					<img src="https://placehold.it/2000x2000&text=Image1"/>
+					<a href=$allianz_path_devis &"https://www.allianz.fr/tarif-express-habitation" target="_blank">
 					</div>
 					<div class="small-12 medium-6 large-4 columns">
 					<img src="https://placehold.it/2000x2000&text=Image2"/>
