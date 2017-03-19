@@ -10,7 +10,7 @@
                     <i class="fa fa-user fa-stack-1x"></i>
                 </span>
                 <span id=header-link-entreprises">
-                    <span class="hide-for-small-only">Assurances</span> Particuliers
+                    <span class="show-for-large">Assurances</span> Particuliers
                 </span>
             </a>
         </div>
@@ -22,7 +22,7 @@
                     <i class="fa fa-briefcase fa-stack-1x"></i>
                 </span>
                 <span id="header-link-professionnels">
-                    <span class="hide-for-small-only">Assurances</span> Professionnels
+                    <span class="show-for-large">Assurances</span> Professionnels
                 </span>
             </a>
         </div>
@@ -34,7 +34,7 @@
                     <i class="fa fa-industry fa-stack-1x"></i>
                 </span>
                 <span id="header-link-entreprises">
-                    <span class="hide-for-small-only">Assurances</span> Entreprises
+                    <span class="show-for-large">Assurances</span> Entreprises
                 </span>
             </a>
         </div>
@@ -46,8 +46,8 @@
                     <i class="fa fa-line-chart fa-stack-1x"></i>
                 </span>
                 <span id="header-link-patrimoine">
-                    <span class="hide-for-small-only">Votre</span> Patrimoine
-                    <span class="hide-for-small-only">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="show-for-large">Votre</span> Patrimoine
+                    <span class="show-for-large">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 </span>
             </a>
         </div>

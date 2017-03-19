@@ -50,6 +50,8 @@
                         <div class="small-12 large-6 columns">
                             <div class="row">
                                 <div class="small-12 medium-6 columns devis-image-block">
+
+
 										<a href="<?php echo $Allianz_path_devis.'/devis-rapide-auto' ?>" target="_blank">
                                         <img class="thumbnail" src="images/famille.jpg"/>
                                         <div class="devis-text-block text-center">
@@ -58,7 +60,8 @@
                                     </a>
                                 </div>
                                 <div class="small-12 medium-6 columns devis-image-block">
-										<a href="<?php echo $Allianz_path_devis.'/tarif-express-habitation' ?>" target="_blank">
+								https://www.allianz.fr/monagence.html?codeAgence=559932&urlRedirect=https://www.allianz.fr/tarif-express-habitation
+										<a href="<?php echo $Allianz_path_devis.'/tarif-express-habitation/' ?>" target="_blank">
                                         <img class="thumbnail" src="https://placehold.it/2000x2000&text=Image"/>
                                         <div class="devis-text-block text-center">
                                             <p>utem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius </p>
@@ -68,7 +71,7 @@
                             </div>
                             <div class="row">
                                 <div class="small-12 medium-6 columns devis-image-block">
-                                    	<a href="<?php echo $Allianz_path_devis.'/redirect/tarif-sante.html' ?>" target="_blank">
+                                    <a href="#">
                                         <img class="thumbnail" src="https://placehold.it/2000x2000&text=Image"/>
                                         <div class="devis-text-block text-center">
                                             <p>utem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius </p>
@@ -76,7 +79,7 @@
                                     </a>
                                 </div>
                                 <div class="small-12 medium-6 columns devis-image-block">
-                                    <a href="<?php echo $Allianz_path_devis.'/simulateurs/simulateur-aae//' ?>" target="_blank">
+                                    <a href="#">
                                         <img class="thumbnail" src="https://placehold.it/2000x2000&text=Image"/>
                                         <div class="devis-text-block text-center">
                                             <p>utem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius </p>

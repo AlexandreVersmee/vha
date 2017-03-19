@@ -34,11 +34,12 @@
 
 			<!-- CONTENU PRINCIPAL -->
 			<main>
-				<div class="row">
-					<div class="large-12 columns text-center presentation">
-						<h1>Contact</h1>
-					</div>
-				</div>
+                <div class="row">
+                    <div class="large-12 columns page-title">
+                        <h1><span>Contact</span></h1>
+                    </div>
+                </div>
+
 			</main>
 
 			<?php include 'includes/footer.php' ?>

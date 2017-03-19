@@ -1,4 +1,14 @@
+
+
 // Colors
+$bleu-versmee: #004C92;
+$default-font-color: #0a0a0a;
+$content-background-color: #F2F2F2;
+$body-background-color: #E4E4E4;
+$bleu-foundation: #1779ba;
+
+$assurance-pages-link-color: #EEF5F3;
+
 $particulier-font-color: #002F6C;
 $professionnels-font-color: #339575;
 $entreprise-font-color: #F5BA33;
@@ -7,7 +17,7 @@ $patrimoine-font-color: #D8335F;
 // Header
 // C100M65J0N15 -> #004CD9
 $header-background-color: #EFEFEF;
-$header-font-color: #004C92;
+$header-font-color: $bleu-versmee;
 
 // Footer
 $footer-font-color-social-bg: #A1A3A4;

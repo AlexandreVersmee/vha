@@ -16,10 +16,10 @@
     </div>
 
     <ul class="header-subnav show-for-medium">
-        <li><a id="header-link-index" href="index.php" tabindex=1 >Accueil</a></li>
-        <li><a id="header-link-agences" href="nos_agences.php" tabindex=2>Nos Agences</a></li>
+        <li class="hide-for-medium-only"><a id="header-link-index" href="index.php" tabindex=1 >Accueil</a></li>
+        <li><a id="header-link-agences" href="nos_agences.php" tabindex=2><span class="show-for-large">Nos</span> Agences</a></li>
         <li><a id="header-link-expertise" href="notre_expertise.php" tabindex=3>Notre Expertise</a></li>
-        <li><a id="header-link-equipe" href="notre_equipe.php" tabindex=4>Notre Equipe</a></li>
+        <li><a id="header-link-equipe" href="notre_equipe.php" tabindex=4><span class="show-for-large">Notre</span> Equipe</a></li>
         <li><a id="header-link-devis" href="devis_en_ligne.php" tabindex=5>Devis en ligne</a></li>
 
 		<li><a target="_blank" href="https://www.allianz.fr/espace-client/accueil/index.html" tabindex=6>Espace Assuré</a></li>

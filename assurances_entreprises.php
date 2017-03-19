@@ -34,11 +34,11 @@
 
 			<!-- CONTENU PRINCIPAL -->
 			<main>
-				<div class="row">
-					<div class="large-12 columns text-center">
-						<h1>Assurances Entreprises</h1>
-					</div>
-				</div>
+                <div class="row">
+                    <div class="large-12 columns page-title">
+                        <h1><span>Assurances Entreprises</span></h1>
+                    </div>
+                </div>
 
 				<div class="row">
 					<div class="large-12 columns">
