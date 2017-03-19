@@ -34,11 +34,12 @@
 
 			<!-- CONTENU PRINCIPAL -->
 			<main>
-				<div class="row">
-					<div class="large-12 columns text-center">
-						<h1>Assurance Particuliers</h1>
-					</div>
-				</div>
+                <div class="row">
+                    <div class="large-12 columns page-title">
+                        <h1><span>Assurances Particuliers</span></h1>
+                    </div>
+                </div>
+
 
 				<div class="row">
 					<div class="large-12 columns">

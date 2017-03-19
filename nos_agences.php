@@ -35,11 +35,12 @@
 
 			<!-- CONTENU PRINCIPAL -->
 			<main>
-				<div class="row">
-					<div class="small-12 columns">
-						<h1 class="text-center main-title">Nos agences</h1>
-					</div>
-				</div>
+                <div class="row">
+                    <div class="large-12 columns page-title">
+                        <h1><span>Nos agences</span></h1>
+                    </div>
+                </div>
+
                 <div class="row">
                     <div class="small-12 columns content">
                         <div class="small-12 medium-6 columns">

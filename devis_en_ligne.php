@@ -34,115 +34,111 @@
 
             <!-- CONTENU PRINCIPAL -->
             <main>
-
-
+                <div class="row"><div class="small-12 columns"><?php include 'includes/send_email.php' ?></div></div>
 
                 <div class="row">
-                    <div class="large-12 columns text-center">
-                        <h1>Devis en Ligne</h1>
+                    <div class="large-12 columns page-title">
+                        <h1><span>Devis en ligne</span></h1>
                     </div>
                 </div>
-                <div class="row">
-                    <!-- COLONNE DE GAUCHE -->
-                    <div class="large-6 columns content">
-                        <div class="row">
-                            <div class="large-6 columns thumbnail devis-image-block">
-                                <a href="#">
-                                    <img src="https://placehold.it/2000x2000&text=Image"/>
-                                    <div class="devis-text-block text-center">
-                                        <p>utem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius </p>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="large-6 columns thumbnail devis-image-block">
-                                <a href="#">
-                                    <img src="https://placehold.it/2000x2000&text=Image"/>
-                                    <div class="devis-text-block text-center">
-                                        <p>utem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius </p>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="large-6 columns thumbnail devis-image-block">
-                                <a href="#">
-                                    <img src="https://placehold.it/2000x2000&text=Image"/>
-                                    <div class="devis-text-block text-center">
-                                        <p>utem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius </p>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="large-6 columns thumbnail devis-image-block">
-                                <a href="#">
-                                    <img src="https://placehold.it/2000x2000&text=Image"/>
-                                    <div class="devis-text-block text-center">
-                                        <p>utem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius </p>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- COLONNE DE DROITE -->
-                    <div class="large-6 columns content">
-						<?php include 'includes/send_email.php' ?>
 
-                        <form method="post" action="devis_en_ligne.php">
+                <div class="row">
+                    <div class="small-12 columns content">
+                        <!-- COLONNE DE GAUCHE -->
+                        <div class="large-6 columns">
                             <div class="row">
-                                <div class="small-12 columns">
-                                    <label for="nom">Nom</label>
-                                    <div class="input-group">
-                                        <input class="input-group-field" type="text" name="nom" id="nom" aria-label="Nom"
-                                               placeholder="Veulliez saisir votre nom">
-                                        <span class="input-group-label"><i class="fa fa-user"></i></span>
+                                <div class="large-6 columns devis-image-block">
+                                    <a href="#">
+                                        <img class="thumbnail" src="images/famille.jpg"/>
+                                        <div class="devis-text-block text-center">
+                                            <p>utem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius </p>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="large-6 columns devis-image-block">
+                                    <a href="#">
+                                        <img class="thumbnail" src="https://placehold.it/2000x2000&text=Image"/>
+                                        <div class="devis-text-block text-center">
+                                            <p>utem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius </p>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="large-6 columns devis-image-block">
+                                    <a href="#">
+                                        <img class="thumbnail" src="https://placehold.it/2000x2000&text=Image"/>
+                                        <div class="devis-text-block text-center">
+                                            <p>utem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius </p>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="large-6 columns devis-image-block">
+                                    <a href="#">
+                                        <img class="thumbnail" src="https://placehold.it/2000x2000&text=Image"/>
+                                        <div class="devis-text-block text-center">
+                                            <p>utem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius </p>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- COLONNE DE DROITE -->
+                        <div class="large-6 columns">
+
+                            <h3 class="text-center">Demande d'informations</h3><br/>
+
+
+
+                            <form method="post" action="devis_en_ligne.php">
+                                <div class="row">
+                                    <div class="small-12 medium-offset-1 medium-10 columns">
+                                        <label for="nom">Nom</label>
+                                        <div class="input-group">
+                                            <input class="input-group-field" type="text" name="nom" id="nom" aria-label="Nom"
+                                                   placeholder="Veuillez saisir votre nom" pattern=".{2,}" title="Deux caractéres minimum">
+                                            <span class="input-group-label"><i class="fa fa-user"></i></span>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="row">
-                                <div class="small-12 columns">
-                                    <label for="email">Adresse email</label>
-                                    <div class="input-group">
-                                        <input class="input-group-field" type="text" name="email" id="email" aria-label="Adresse Email"
-                                               placeholder="Veulliez saisir votre adresse email">
-                                        <span class="input-group-label"><i class="fa fa-at"></i></span>
+                                <div class="row">
+                                    <div class="small-12 medium-offset-1 medium-10 columns">
+                                        <label for="email">Adresse email</label>
+                                        <div class="input-group">
+                                            <input class="input-group-field" type="text" name="email" id="email" aria-label="Adresse Email"
+                                                   placeholder="Veuillez saisir votre adresse email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$"
+                                                   title="example@gmail.com">
+                                            <span class="input-group-label"><i class="fa fa-at"></i></span>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="row">
-                                <div class="small-12 columns">
-                                    <label for="tel">Numéro de téléphone</label>
-                                    <div class="input-group">
-                                        <input class="input-group-field" type="text" name="tel" id="tel" aria-label="Numéro de téléphone"
-                                               placeholder="Veulliez saisir votre numéro de téléphone">
-                                        <span class="input-group-label"><i class="fa fa-phone"></i></span>
+                                <div class="row">
+                                    <div class="small-12 medium-offset-1 medium-10 columns">
+                                        <label for="tel">Numéro de téléphone</label>
+                                        <div class="input-group">
+                                            <input class="input-group-field" type="text" name="tel" id="tel" aria-label="Numéro de téléphone"
+                                                   placeholder="Veuillez saisir votre numéro de téléphone"
+                                                   title="Uniquement les chiffres de 0 à 9 sont admits." pattern="[0-9]">
+                                            <span class="input-group-label"><i class="fa fa-phone"></i></span>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="row">
-                                <div class="small-12 columns">
-                                    <label>Type d'assurance
-                                        <select name="typeAssurance">
-                                            <option value="aucun">Choisissez le type contrat</option>
-                                            <option value="Auto">Assurance Auto</option>
-                                            <option value="Habitation">Assurance Habitation</option>
-                                            <option value="Santé">Assurance Santé</option>
-                                            <option value="Emprunteur">Assurance Emprunteur</option>
-                                        </select>
-                                    </label>
+                                <div class="row">
+                                    <div class="small-12 medium-offset-1 medium-10 columns">
+                                        <label>Description
+                                            <textarea name="message" placeholder="Décrivez votre besoin" rows="5"></textarea>
+                                        </label>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="row">
-                                <div class="small-12 columns">
-                                    <label>Description
-                                        <textarea name="message" placeholder="Décrivez votre besoin"></textarea>
-                                    </label>
+                                <div class="row">
+                                    <div class="small-12 medium-offset-1 medium-10 columns text-right">
+                                        <button type="submit" class="button">
+                                            <i class="fa fa-send fa-padding"></i> Rappelez moi
+                                        </button>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="row">
-                                <div class="small-12 columns text-right">
-                                    <input type="submit" class="button" value="Envoyer">
-                                </div>
-                            </div>
-                        </form>
+                            </form>
+                        </div>
                     </div>
             </main>
 
@@ -154,6 +150,7 @@
 
 <!-- SCRIPTS -->
 <?php include 'includes/scripts.php' ?>
-<script>setTimeout(function(){ $('.callout').trigger('close').fadeOut(4500); }, 7000);</script>
+<script src="scripts/devis.js"></script>
+
 </body>
 </html>
