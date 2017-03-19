@@ -29,6 +29,7 @@
   /* Safari et Chrome */
   -o-animation: fadein 2s;
   /* Opera */
+  margin-top: 15px !important;
 }
 
 @keyframes fadein {
@@ -66,9 +67,22 @@
     opacity: 1;
   }
 }
+.required-input {
+  color: red;
+}
+
+hr {
+  border-bottom: 3px solid #cacaca;
+}
+
 /* ==========================================================================
         MEDIUM SCREEN
 ========================================================================== */
+@media print, screen and (min-width: 40em) {
+  .callout {
+    margin-top: 0 !important;
+  }
+}
 /* ==========================================================================
         LARGE SCREEN
 ========================================================================== */

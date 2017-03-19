@@ -45,9 +45,9 @@
                 <div class="row">
                     <div class="small-12 columns content">
                         <!-- COLONNE DE GAUCHE -->
-                        <div class="large-6 columns">
+                        <div class="small-12 large-6 columns">
                             <div class="row">
-                                <div class="large-6 columns devis-image-block">
+                                <div class="small-12 medium-6 columns devis-image-block">
                                     <a href="#">
                                         <img class="thumbnail" src="images/famille.jpg"/>
                                         <div class="devis-text-block text-center">
@@ -55,7 +55,7 @@
                                         </div>
                                     </a>
                                 </div>
-                                <div class="large-6 columns devis-image-block">
+                                <div class="small-12 medium-6 columns devis-image-block">
                                     <a href="#">
                                         <img class="thumbnail" src="https://placehold.it/2000x2000&text=Image"/>
                                         <div class="devis-text-block text-center">
@@ -65,7 +65,7 @@
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="large-6 columns devis-image-block">
+                                <div class="small-12 medium-6 columns devis-image-block">
                                     <a href="#">
                                         <img class="thumbnail" src="https://placehold.it/2000x2000&text=Image"/>
                                         <div class="devis-text-block text-center">
@@ -73,7 +73,7 @@
                                         </div>
                                     </a>
                                 </div>
-                                <div class="large-6 columns devis-image-block">
+                                <div class="small-12 medium-6 columns devis-image-block">
                                     <a href="#">
                                         <img class="thumbnail" src="https://placehold.it/2000x2000&text=Image"/>
                                         <div class="devis-text-block text-center">
@@ -83,20 +83,21 @@
                                 </div>
                             </div>
                         </div>
+
                         <!-- COLONNE DE DROITE -->
-                        <div class="large-6 columns">
+                        <div class="small-12 large-6 columns">
+
+                            <div class="small-offset-2 small-8 hide-for-large"><hr></div>
 
                             <h3 class="text-center">Demande d'informations</h3><br/>
-
-
 
                             <form method="post" action="devis_en_ligne.php">
                                 <div class="row">
                                     <div class="small-12 medium-offset-1 medium-10 columns">
-                                        <label for="nom">Nom</label>
+                                        <label for="nom">Nom <span class="required-input">&#42;</span></label>
                                         <div class="input-group">
                                             <input class="input-group-field" type="text" name="nom" id="nom" aria-label="Nom"
-                                                   placeholder="Veuillez saisir votre nom" pattern=".{2,}" title="Deux caractéres minimum">
+                                                   placeholder="Veuillez saisir votre nom" pattern=".{2,}" title="Deux caractéres minimum" required>
                                             <span class="input-group-label"><i class="fa fa-user"></i></span>
                                         </div>
                                     </div>
@@ -106,19 +107,18 @@
                                         <label for="email">Adresse email</label>
                                         <div class="input-group">
                                             <input class="input-group-field" type="text" name="email" id="email" aria-label="Adresse Email"
-                                                   placeholder="Veuillez saisir votre adresse email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$"
-                                                   title="example@gmail.com">
+                                                   placeholder="Veuillez saisir votre adresse email">
                                             <span class="input-group-label"><i class="fa fa-at"></i></span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="small-12 medium-offset-1 medium-10 columns">
-                                        <label for="tel">Numéro de téléphone</label>
+                                        <label for="tel">Numéro de téléphone <span class="required-input">&#42;</span></label>
                                         <div class="input-group">
                                             <input class="input-group-field" type="text" name="tel" id="tel" aria-label="Numéro de téléphone"
                                                    placeholder="Veuillez saisir votre numéro de téléphone"
-                                                   title="Uniquement les chiffres de 0 à 9 sont admits." pattern="[0-9]">
+                                                   title="Uniquement 10 chiffres de 0 à 9 sont admits." pattern="[0-9]{10}" required>
                                             <span class="input-group-label"><i class="fa fa-phone"></i></span>
                                         </div>
                                     </div>
