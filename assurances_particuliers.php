@@ -5,7 +5,7 @@
 
 	<title>Assurance Versmée & Hautcoeur Valenciennes</title>
 
-	<?php include 'includes/styles.php' ?>
+	<?php include 'includes/styles.php'?>
 
 </head>
 <body>
@@ -42,7 +42,9 @@
 
 
 				<div class="row">
+
 					<div class="small-12 medium-6 large-4 columns">
+
 					<img src="https://placehold.it/2000x2000&text=Image1"/>
 					</div>
 					<div class="small-12 medium-6 large-4 columns">

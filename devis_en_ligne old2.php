@@ -36,10 +36,10 @@
 
             <!-- CONTENU PRINCIPAL -->
             <main>
-                <div class="row"><div class="small-12 columns"><?php include 'scripts-php/send_email.php' ?></div></div>
+                <div class="row"><div class="small-12 columns"><?php include 'includes/send_email.php' ?></div></div>
 
                 <div class="row">
-                    <div class="small-12 columns page-title">
+                    <div class="large-12 columns page-title">
                         <h1><span>Devis en ligne</span></h1>
                     </div>
                 </div>
@@ -50,6 +50,8 @@
                         <div class="small-12 large-6 columns">
                             <div class="row">
                                 <div class="small-12 medium-6 columns devis-image-block">
+
+
 										<a href="<?php echo $Allianz_path_devis.'/devis-rapide-auto' ?>" target="_blank">
                                         <img class="thumbnail" src="images/famille.jpg"/>
                                         <div class="devis-text-block text-center">
@@ -58,7 +60,8 @@
                                     </a>
                                 </div>
                                 <div class="small-12 medium-6 columns devis-image-block">
-										<a href="<?php echo $Allianz_path_devis.'/tarif-express-habitation' ?>" target="_blank">
+								https://www.allianz.fr/monagence.html?codeAgence=559932&urlRedirect=https://www.allianz.fr/tarif-express-habitation
+										<a href="<?php echo $Allianz_path_devis.'/tarif-express-habitation/' ?>" target="_blank">
                                         <img class="thumbnail" src="https://placehold.it/2000x2000&text=Image"/>
                                         <div class="devis-text-block text-center">
                                             <p>utem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius </p>
@@ -68,7 +71,7 @@
                             </div>
                             <div class="row">
                                 <div class="small-12 medium-6 columns devis-image-block">
-                                    	<a href="<?php echo $Allianz_path_devis.'/redirect/tarif-sante.html' ?>" target="_blank">
+                                    <a href="#">
                                         <img class="thumbnail" src="https://placehold.it/2000x2000&text=Image"/>
                                         <div class="devis-text-block text-center">
                                             <p>utem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius </p>
@@ -76,7 +79,7 @@
                                     </a>
                                 </div>
                                 <div class="small-12 medium-6 columns devis-image-block">
-                                    <a href="<?php echo $Allianz_path_devis.'/simulateurs/simulateur-aae//' ?>" target="_blank">
+                                    <a href="#">
                                         <img class="thumbnail" src="https://placehold.it/2000x2000&text=Image"/>
                                         <div class="devis-text-block text-center">
                                             <p>utem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut nullius </p>
@@ -120,7 +123,7 @@
                                         <div class="input-group">
                                             <input class="input-group-field" type="text" name="tel" id="tel" aria-label="Numéro de téléphone"
                                                    placeholder="Veuillez saisir votre numéro de téléphone"
-                                                   title="Uniquement 10 chiffres de 0 à 9 sont admis." pattern="[0-9]{10}" required>
+                                                   title="Uniquement 10 chiffres de 0 à 9 sont admits." pattern="[0-9]{10}" required>
                                             <span class="input-group-label"><i class="fa fa-phone"></i></span>
                                         </div>
                                     </div>
@@ -135,7 +138,7 @@
                                 <div class="row">
                                     <div class="small-12 medium-offset-1 medium-10 columns text-right">
                                         <button type="submit" class="button">
-                                            <i class="fa fa-send fa-padding"></i> Appelez moi
+                                            <i class="fa fa-send fa-padding"></i> Rappelez moi
                                         </button>
                                     </div>
                                 </div>
