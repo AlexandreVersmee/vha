@@ -1,5 +1,5 @@
 <?php
-require 'PHPMailer/PHPMailerAutoload.php';
+require 'assets/PHPMailer/PHPMailerAutoload.php';
 
 $mail = new PHPMailer;
 
@@ -12,6 +12,7 @@ $mail->Username = 'versmee_alexandre@hotmail.fr';                 // SMTP userna
 $mail->Password = 'XXXXXXXXXXXXX';                           // SMTP password
 $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587;                                    // TCP port to connect to
+$mail->CharSet = "UTF-8";
 
 $mail->setFrom('versmee_alexandre@hotmail.fr', 'Mailer');
 $mail->addAddress('versmee_alexandre@hotmail.fr', 'Joe User');     // Add a recipient

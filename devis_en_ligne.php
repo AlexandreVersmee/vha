@@ -34,10 +34,10 @@
 
             <!-- CONTENU PRINCIPAL -->
             <main>
-                <div class="row"><div class="small-12 columns"><?php include 'includes/send_email.php' ?></div></div>
+                <div class="row"><div class="small-12 columns"><?php include 'scripts-php/send_email.php' ?></div></div>
 
                 <div class="row">
-                    <div class="large-12 columns page-title">
+                    <div class="small-12 columns page-title">
                         <h1><span>Devis en ligne</span></h1>
                     </div>
                 </div>
@@ -133,7 +133,7 @@
                                 <div class="row">
                                     <div class="small-12 medium-offset-1 medium-10 columns text-right">
                                         <button type="submit" class="button">
-                                            <i class="fa fa-send fa-padding"></i> Rappelez moi
+                                            <i class="fa fa-send fa-padding"></i> Appelez moi
                                         </button>
                                     </div>
                                 </div>

@@ -34,7 +34,7 @@
             <!-- CONTENU PRINCIPAL -->
             <main>
                 <div class="row">
-                    <div class="large-12 columns page-title">
+                    <div class="small-12 columns page-title">
                         <h1><span>Assurances Patrimoine</span></h1>
                     </div>
                 </div>

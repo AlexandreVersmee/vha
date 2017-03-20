@@ -1,117 +1,68 @@
-/* ==========================================================================
-        DEFAULT - SMALL SCREEN
-========================================================================== */
-.header {
-  text-align: center;
-  background: #EFEFEF;
-  background-size: cover;
-  position: relative;
-  overflow: visible;
-  padding-top: 1.5rem;
-  padding-bottom: 1rem;
-}
-.header .headline {
-  font-family: "PT Serif", Helvetica, Arial, sans-serif;
-  font-size: 1.9rem;
-  color: #004C92;
-  line-height: 1;
-}
-.header .headline small {
-  font-family: "Roboto", Arial, sans-serif;
-  font-style: italic;
-  font-size: 48%;
-  color: #637D8E;
-}
-.header .headline-main {
-  display: block;
-}
+/*
+Error: Invalid CSS after "dumont": expected "{", was ""
+        on line 29 of C:/ProgramData/wamp64/www/vha/styles/scss/_variables.scss
+        from line 1 of C:/ProgramData/wamp64/www/vha/styles/scss/header.scss
 
-.underHeader-contact-informations {
-  margin-bottom: 15px;
-  padding: 7px 0 !important;
-  font-size: 90%;
-  color: #EEF5F3;
-  background: #54585A;
-}
-.underHeader-contact-informations a {
-  color: #EEF5F3;
-}
-.underHeader-contact-informations a:hover {
-  text-decoration: dotted;
-}
-.underHeader-contact-informations .particulier {
-  color: #002F6C;
-}
-.underHeader-contact-informations .professionnels {
-  color: #339575;
-}
-.underHeader-contact-informations .entreprise {
-  color: #F5BA33;
-  margin-top: 7px;
-}
-.underHeader-contact-informations .patrimoine {
-  color: #D8335F;
-  margin-top: 7px;
-}
+24: $footer-font-color-social-icon: #54585A;
+25: 
+26: $footer-background-color: #54585A;
+27: $footer-font-color: #A1A3A4;
+28: dumont
 
-/* ==========================================================================
-        MEDIUM SCREEN
-========================================================================== */
-@media print, screen and (min-width: 40em) {
-  .header {
-    padding-bottom: 3.9rem;
-  }
-  .header .headline {
-    font-size: 2.9rem;
-  }
-  .header .header-subnav {
-    float: none;
-    position: absolute;
-    text-align: center;
-    margin: 0 auto;
-    bottom: 0;
-    width: 100%;
-  }
-  .header .header-subnav li {
-    float: none;
-    display: inline-block;
-  }
-  .header .header-subnav li a {
-    padding: 0.9rem 0.33rem;
-    font-size: 1rem;
-    color: #004C92;
-    text-transform: uppercase;
-    display: block;
-    font-weight: bold;
-    letter-spacing: 1px;
-    transition: all 0.35s ease-in-out;
-  }
-  .header .header-subnav li a.is-active {
-    background: rgba(0, 76, 147, 0.15);
-  }
-  .header .header-subnav li a:hover {
-    background: rgba(0, 76, 147, 0.15);
-    transition: all 0.35s ease-in-out;
-  }
-
-  .underHeader-contact-informations {
-    margin-bottom: 30px;
-  }
-  .underHeader-contact-informations .entreprise {
-    margin: 0;
-  }
-  .underHeader-contact-informations .patrimoine {
-    margin: 0;
-  }
-}
-/* ==========================================================================
-        LARGE SCREEN
-========================================================================== */
-@media print, screen and (min-width: 64em) {
-  .header {
-    padding-bottom: 4.9rem;
-  }
-  .header .header-subnav li a {
-    padding: 0.9rem 1rem;
-  }
-}
+Backtrace:
+C:/ProgramData/wamp64/www/vha/styles/scss/_variables.scss:29
+C:/ProgramData/wamp64/www/vha/styles/scss/header.scss:1
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:1207:in `expected'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:1137:in `expected'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:1132:in `tok!'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:665:in `block'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:658:in `ruleset'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:684:in `block_child'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:677:in `block_contents'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:125:in `stylesheet'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/scss/parser.rb:41:in `parse'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/engine.rb:406:in `_to_tree'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/engine.rb:312:in `to_tree'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/tree/visitors/perform.rb:326:in `block in visit_import'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/stack.rb:88:in `block in with_import'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/stack.rb:115:in `with_frame'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/stack.rb:88:in `with_import'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/tree/visitors/perform.rb:325:in `visit_import'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/tree/visitors/base.rb:36:in `visit'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/tree/visitors/perform.rb:160:in `block in visit'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/stack.rb:79:in `block in with_base'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/stack.rb:115:in `with_frame'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/stack.rb:79:in `with_base'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/tree/visitors/perform.rb:160:in `visit'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/tree/visitors/base.rb:52:in `map'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/tree/visitors/base.rb:52:in `visit_children'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/tree/visitors/perform.rb:169:in `block in visit_children'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/tree/visitors/perform.rb:181:in `with_environment'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/tree/visitors/perform.rb:168:in `visit_children'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/tree/visitors/base.rb:36:in `block in visit'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/tree/visitors/perform.rb:188:in `visit_root'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/tree/visitors/base.rb:36:in `visit'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/tree/visitors/perform.rb:159:in `visit'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/tree/visitors/perform.rb:8:in `visit'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/tree/root_node.rb:36:in `css_tree'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/tree/root_node.rb:20:in `render'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/engine.rb:281:in `render'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-import-once-1.0.5/lib/compass/import-once/engine.rb:17:in `block in render'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-import-once-1.0.5/lib/compass/import-once/engine.rb:29:in `with_import_scope'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-import-once-1.0.5/lib/compass/import-once/engine.rb:16:in `render'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/plugin/compiler.rb:494:in `update_stylesheet'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/plugin/compiler.rb:215:in `block in update_stylesheets'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/plugin/compiler.rb:209:in `each'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/plugin/compiler.rb:209:in `update_stylesheets'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/plugin/compiler.rb:473:in `on_file_changed'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/lib/sass/plugin/compiler.rb:331:in `block in watch'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/vendor/listen/lib/listen/listener.rb:252:in `on_change'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/vendor/listen/lib/listen/listener.rb:290:in `block in initialize_adapter'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/vendor/listen/lib/listen/adapters/polling.rb:48:in `poll_changed_directories'
+C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/sass-3.4.23/vendor/listen/lib/listen/adapter.rb:299:in `block in start_poller'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid CSS after \"dumont\": expected \"{\", was \"\"\A         on line 29 of C:/ProgramData/wamp64/www/vha/styles/scss/_variables.scss\A         from line 1 of C:/ProgramData/wamp64/www/vha/styles/scss/header.scss\A \A 24: $footer-font-color-social-icon: #54585A;\A 25: \A 26: $footer-background-color: #54585A;\A 27: $footer-font-color: #A1A3A4;\A 28: dumont"; }
