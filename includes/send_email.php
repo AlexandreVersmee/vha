@@ -9,7 +9,7 @@ $mail->isSMTP();                                      // Set mailer to use SMTP
 $mail->Host = 'smtp.live.com;';  // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
 $mail->Username = 'versmee_alexandre@hotmail.fr';                 // SMTP username
-$mail->Password = 'XXXXXXXXXXXXXXXX';                           // SMTP password
+$mail->Password = 'XXXXXXXXXXXXX';                           // SMTP password
 $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587;                                    // TCP port to connect to
 
@@ -35,8 +35,8 @@ if (isset($_POST["nom"]) &&
 	$mail->Body = $message;
 	$mail->AltBody = $message;
 
-//!$mail->send()
-	if (!isset($_POST["nom"])) {
+//
+	if (!$mail->send()) {
 		echo '<div class="callout alert small" data-closable>
 				<p>Une erreur est survenue, veulliez réessayer ultériement.</p>
 				<button class="close-button" aria-label="Dismiss alert" type="button" data-close>

@@ -1,27 +1,36 @@
+@import "variables";
+
 /* ==========================================================================
         DEFAULT - SMALL SCREEN
 ========================================================================== */
-.underHeader-contact-informations {
+.underHeader-contact-informations{
   margin-bottom: 10px;
 }
 
-.slider-row {
+.slider-row{
   margin-bottom: 20px;
 }
 
-.photo-presentation-partners img {
-  border-radius: 3rem;
-  margin-bottom: 20px;
+.photo-presentation-partners {
+  img {
+    border-radius: 3rem;
+    margin-bottom: 20px;
+  }
 }
 
 /* ==========================================================================
         MEDIUM SCREEN
 ========================================================================== */
+
 @media print, screen and (min-width: 40em) {
-  .underHeader-contact-informations {
+  .underHeader-contact-informations{
     margin-bottom: 0;
   }
 }
+
 /* ==========================================================================
         LARGE SCREEN
 ========================================================================== */
+
+@media print, screen and (min-width: 64em) {
+}
