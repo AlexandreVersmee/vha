@@ -56,7 +56,7 @@
                                     <p>44 Avenue de Saint Amand<br/>
                                     59300 - Valenciennes</p>
                                 </address>
-                                <p>Tél. : 03 27 46 42 04</p>
+                                <p>Tél. : 03 27 46 42 04 <br>Sinistre <br>Tél. : 03 27 29 89 27</p>
                             </div>
                             <hr>
 
@@ -84,7 +84,7 @@
                                 Horaires de nos agences
                             </h4>
                             <div class="informations">
-                                <p>Lundi 13h45 - 18h00<br/>
+                                <p>Lundi 13h45 - 18h<br/>
                                 Mardi au Vendredi<br/>
                                 9h - 12h15 et 13h45 - 18h<br/>
                                 Samedi 9h - 12h<br/>

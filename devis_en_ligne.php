@@ -120,7 +120,7 @@
                                         <div class="input-group">
                                             <input class="input-group-field" type="text" name="tel" id="tel" aria-label="Numéro de téléphone"
                                                    placeholder="Veuillez saisir votre numéro de téléphone"
-                                                   title="Uniquement 10 chiffres de 0 à 9 sont admits." pattern="[0-9]{10}" required>
+                                                   title="Uniquement 10 chiffres de 0 à 9 sont admis." pattern="[0-9]{10}" required>
                                             <span class="input-group-label"><i class="fa fa-phone"></i></span>
                                         </div>
                                     </div>
