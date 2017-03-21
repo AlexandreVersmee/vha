@@ -93,48 +93,76 @@
 
                             <h3 class="text-center">Demande d'informations</h3><br/>
 
-                            <form method="post" action="devis_en_ligne.php">
+                            <form method="post" action="devis_en_ligne.php" data-abide novalidate>
+                                <div data-abide-error class="alert callout" style="display: none;">
+                                    <p>
+                                        <i class="fi-alert"></i>
+                                        Le formulaire est incorrect. Verifiez que vous avez bien rempli les champs
+                                        obligatoires (<span class="required-input">&#42;</span>).
+                                    </p>
+                                </div>
+
                                 <div class="row">
                                     <div class="small-12 medium-offset-1 medium-10 columns">
-                                        <label for="nom">Nom <span class="required-input">&#42;</span></label>
-                                        <div class="input-group">
-                                            <input class="input-group-field" type="text" name="nom" id="nom" aria-label="Nom"
-                                                   placeholder="Veuillez saisir votre nom" pattern=".{2,}" title="Deux caractéres minimum" required>
-                                            <span class="input-group-label"><i class="fa fa-user"></i></span>
-                                        </div>
+                                        <label>Nom <span class="required-input">&#42;</span>
+                                            <div class="input-group">
+                                                <input class="input-group-field" type="text" name="nom" aria-label="Nom" aria-describedby="HelpName"
+                                                       placeholder="Veuillez saisir votre nom" pattern=".{2,}" title="Deux caractéres minimum" required>
+                                                <span class="input-group-label"><i class="fa fa-user"></i></span>
+
+                                                <span class="input-group-error">
+                                                    <span class="input-group-cell"><span class="form-error">Le champs doit contenir au moins 2 caractères.</span></span>
+                                                    <span class="input-group-cell"></span>
+                                                </span>
+                                            </div>
+                                        </label>
+                                        <p class="help-text hide" id="HelpName">Champs du formulaire dans lequel vous devez saisir votre nom</p>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="small-12 medium-offset-1 medium-10 columns">
-                                        <label for="email">Adresse email</label>
-                                        <div class="input-group">
-                                            <input class="input-group-field" type="text" name="email" id="email" aria-label="Adresse Email"
-                                                   placeholder="Veuillez saisir votre adresse email">
-                                            <span class="input-group-label"><i class="fa fa-at"></i></span>
-                                        </div>
+                                        <label>Adresse email
+                                            <div class="input-group">
+                                                <input class="input-group-field" type="text" name="email" aria-label="Adresse Email" aria-describedby="HelpEmail"
+                                                       placeholder="Veuillez saisir votre adresse email">
+                                                <span class="input-group-label"><i class="fa fa-at"></i></span>
+                                            </div>
+                                        </label>
+                                        <p class="help-text hide" id="HelpEmail">Champs du formulaire dans lequel vous devez saisir votre adresse email</p>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="small-12 medium-offset-1 medium-10 columns">
-                                        <label for="tel">Numéro de téléphone <span class="required-input">&#42;</span></label>
-                                        <div class="input-group">
-                                            <input class="input-group-field" type="text" name="tel" id="tel" aria-label="Numéro de téléphone"
-                                                   placeholder="Veuillez saisir votre numéro de téléphone"
-                                                   title="Uniquement 10 chiffres de 0 à 9 sont admis." pattern="[0-9]{10}" required>
-                                            <span class="input-group-label"><i class="fa fa-phone"></i></span>
-                                        </div>
+                                        <label>Numéro de téléphone <span class="required-input">&#42;</span>
+                                            <div class="input-group">
+                                                <input class="input-group-field" type="text" name="tel" aria-label="Numéro de téléphone" aria-describedby="HelpPhone"
+                                                       placeholder="Veuillez saisir votre numéro de téléphone" title="Uniquement 10 chiffres de 0 à 9 sont admis."
+                                                       pattern="number" required>
+                                                <span class="input-group-label"><i class="fa fa-phone"></i></span>
+
+                                                <span class="input-group-error">
+                                                    <span class="input-group-cell"><span class="form-error">Le champs doit contenir un numéro de télèphone valide.</span></span>
+                                                    <span class="input-group-cell"></span>
+                                                </span>
+                                            </div>
+                                        </label>
+                                        <p class="help-text hide" id="HelpEmail">Champs du formulaire dans lequel vous devez saisir votre numéro de télèphone</p>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="small-12 medium-offset-1 medium-10 columns">
                                         <label>Description
-                                            <textarea name="message" placeholder="Décrivez votre besoin" rows="5"></textarea>
+                                            <textarea name="message" aria-label="Description" aria-describedby="HelpDescription"
+                                                      placeholder="Décrivez votre besoin" rows="5"></textarea>
                                         </label>
+                                        <p class="help-text hide" id="HelpDescription">
+                                            Champs du formulaire dans lequel vous devez pouvez expliquer ce pourquoi vous voulez être rappelé.
+                                        </p>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="small-12 medium-offset-1 medium-10 columns text-right">
-                                        <button type="submit" class="button">
+                                        <button type="submit" class="button" aria-label="Demander à être rappelé">
                                             <i class="fa fa-send fa-padding"></i> Appelez moi
                                         </button>
                                     </div>

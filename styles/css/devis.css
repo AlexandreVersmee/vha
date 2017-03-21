@@ -75,6 +75,18 @@ hr {
   border-bottom: 3px solid #cacaca;
 }
 
+.input-group-error {
+  display: table-row;
+}
+
+.input-group-cell {
+  display: table-cell;
+}
+
+.input-group-error .form-error {
+  margin-top: 0.5rem;
+}
+
 /* ==========================================================================
         MEDIUM SCREEN
 ========================================================================== */
