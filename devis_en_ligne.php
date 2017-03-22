@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="styles/css/devis.css">
 	<?php $code_agence_valenciennes = "h98069" ;
 	$Allianz_path_devis = "https://www.allianz.fr/monagence.html?codeAgence=".$code_agence_valenciennes."&urlRedirect=https://www.allianz.fr"; ?>
+    <!--https://www.allianz.fr/monagence.html?codeAgence=h98069&urlRedirect=https://www.allianz.fr//devis-rapide-auto-->
 </head>
 <body>
 
