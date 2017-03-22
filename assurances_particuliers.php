@@ -57,8 +57,8 @@
                                 </div>
 
                                 <div class="back">
-                                    <h5>Vous êtes jeune.</h5>
-                                    <p>Assurer votre premier logement ou votre assurance voiture ?
+                                    <h5>Assurer votre premier logement</h5>
+                                    <p> ou votre assurance voiture ?
                                        Une solution pour votre logement étudiant, meublé ou pas avec les garanties essentielles et vos objets connectés.
                                        Pour votre voiture des conditions très avantageuses sont réservées si vos parents sont chez Allianz...
                                        Pour la santé vous pouvez continuer à bénéficier du contrat de vos parents tant que vous restez étudiant.</p>
@@ -129,25 +129,25 @@
                     </div>
                     <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
                         <a href="produits/Assurances-Particuliers/resilie-malus-alcoolemie.php" title="Assurance Résilié, Malus, Alcoolémie">
-                             <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image10"/>
+                             <img class="thumbnail" src="images/particulier/assurance-auto-resiliee400x250.jpg"/>
                              <p class="text-center">Assurance Résilié, Malus, Alcoolémie</p>
                         </a>
                     </div>
                     <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
                         <a href="produits/Assurances-Particuliers/emprunteur.php" title="Assurance Emprunteur">
-                            <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image4"/>
+                            <img class="thumbnail" src="images/particulier/Assurance-emprunteur400x250.jpg"/>
                             <p class="text-center">Assurance Emprunteur</p>
                         </a>
                     </div>
                     <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
                         <a href="produits/Assurances-Particuliers/garanties-des-accidents-de-la-vie.php" title="Assurance Garantie des Accidents de la vie">
-                            <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image5"/>
+                            <img class="thumbnail" src="images/particulier/fotolia_7436718%20400x250.jpg"/>
                             <p class="text-center">Assurance Garantie des Accidents de la vie</p>
                         </a>
                     </div>
                     <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
                         <a href="produits/Assurances-Particuliers/sante.php" title="Assurance Santé">
-                            <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image6"/>
+                            <img class="thumbnail" src="images/particulier/fotolia_107798537%20400x250.jpg"/>
                             <p class="text-center">Assurance Santé</p>
                         </a>
                     </div>
@@ -159,13 +159,13 @@
                     </div>
                     <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
                         <a href="produits/Assurances-Particuliers/retraite.php" title="Assurance Retraite">
-                            <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image8"/>
+                            <img class="thumbnail" src="images/particulier/fotolia_85504735%20400x250.jpg""/>
                             <p class="text-center">Assurance Retraite</p>
                         </a>
                     </div>
                     <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
                         <a href="produits/Assurances-Particuliers/protection-juridique" title="Assurance Protection Juridique">
-                            <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image9"/>
+                            <img class="thumbnail" src="images/particulier/allianz-protection-juridique-particuliers%20400x250.jpg"/>
                             <p class="text-center">Assurance Protection Juridique</p>
                         </a>
                     </div>
@@ -177,7 +177,7 @@
                     </div>
                     <div class="small-12 medium-6 large-4 end columns" data-equalizer-watch>
                         <a href="produits/Assurances-Particuliers/chiens-et-chats.php" title="Assurance Chiens et Chats">
-                            <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image12"/>
+                            <img class="thumbnail" src="images/particulier/"/>
                             <p class="text-center">Assurance Chiens et Chats</p>
                         </a>
                     </div>

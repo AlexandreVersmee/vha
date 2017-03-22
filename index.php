@@ -42,18 +42,22 @@
                                 <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>&#9664;&#xFE0E;</button>
                                 <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9654;&#xFE0E;</button>
                                 <li class="is-active orbit-slide">
-                                    <img class="orbit-image" src="https://placehold.it/2000x500&text=Image" alt="Space">
+                                    <div> Actualité
+                                    Nouveauté en matière d'assurance emprunteur....
+
+                                    Vous pouvez désormais résilier vos assurances emprunteur tous les ans....</div>
+
                                     <figcaption class="orbit-caption">Space, the final frontier.</figcaption>
                                 </li>
                                 <li class="orbit-slide">
                                     <iframe width="100%" height="292" src="https://www.youtube.com/embed/V9gkYw35Vws" frameborder="0" allowfullscreen></iframe>
                                 </li>
                                 <li class="orbit-slide">
-                                    <img class="orbit-image" src="https://placehold.it/2000x500&text=Image" alt="Space">
+                                    <iframe width="100%" height="292" src="https://www.youtube.com/embed/VAoGOKuxAE8" frameborder="0" allowfullscreen></iframe>
                                     <figcaption class="orbit-caption">Encapsulating</figcaption>
                                 </li>
                                 <li class="orbit-slide">
-                                    <img class="orbit-image" src="https://placehold.it/2000x500&text=Image" alt="Space">
+                                    <img class="orbit-image" src="images/auto-petit-rouleur-280x165%20400x250.jpg" alt="Space">
                                     <figcaption class="orbit-caption">Outta This World</figcaption>
                                 </li>
                             </ul>
@@ -72,30 +76,22 @@
                 <div class="row">
                     <div class="small-6 columns">
                         <div class="row">
-                            <div class="small-6 columns photo-presentation-partners">
-                                <img src="https://placehold.it/2000x500&text=Photo" alt="" title=""/>
+                            <div class=" small-6 columns photo-presentation-partners">
+                                <img class="thumbnail" src="images/FV2016-06-10%2013.34.13_pp.jpg" alt="" title=""/>
                             </div>
                         </div>
                         <h3>Frédéric VERSMEE</h3>
-                        <p> Cyprum itidem insulam procul a continenti discretam et portuosam inter municipia crebra urbes duae faciunt claram Salamis et Paphus,
-                            altera Iovis delubris altera Veneris templo insignis. tanta autem tamque multiplici fertilitate abundat rerum omnium eadem Cyprus ut
-                            nullius externi indigens adminiculi indigenis viribus a fundamento ipso carinae ad supremos usque carbasos aedificet onerariam navem
-                            omnibusque armamentis instructam mari committat.
-
-                            Ibi victu recreati et quiete, postquam abierat timor, vicos opulentos adorti equestrium adventu cohortium, quae casu propinquabant,
-                            nec
-                            resistere planitie porrecta conati digressi sunt retroque concedentes omne iuventutis robur relictum in sedibus acciverunt.
-
-                            Sed laeditur hic coetuum magnificus splendor levitate paucorum incondita, ubi nati sunt non reputantium, sed tamquam indulta
-                            licentia
-                            vitiis ad errores lapsorum ac lasciviam. ut enim Simonides lyricus docet, beate perfecta ratione vieturo ante alia patriam esse
-                            convenit
-                            gloriosam.</p>
+                        <p> Tombé dans le métier de l'assurance dès son plus jeune "âge", petit fils du fondateur, Raymond Versmée, formé à l'école de son père
+                            Pierre Versmée.
+                            <br>Plus de 33 ans d'expérience dans l'Assurance.
+                            Diplomé de l'A.E.A.<br>
+                            A repris le cabinet en 2004, puis l'agence de Douchy-les-Mines en 2016 en vue de l'association avec Johan Hautcoeur.
+                           .</p>
                     </div>
                     <div class="small-6 columns">
                         <div class="row">
-                            <div class="small-offset-3 small-6 columns photo-presentation-partners">
-                                <img class="thumbnail" src="https://placehold.it/2000x500&text=Photo" alt="" title=""/>
+                            <div class="small-offset-5 small-6 columns photo-presentation-partners">
+                                <img class="thumbnail" src="images/JH2016-06-10%2013.34.13_pp.jpg" alt="" title=""/>
                             </div>
                         </div>
                         <h3>Johan HAUTCOEUR</h3>
@@ -104,13 +100,7 @@
                             nullius externi indigens adminiculi indigenis viribus a fundamento ipso carinae ad supremos usque carbasos aedificet onerariam navem
                             omnibusque armamentis instructam mari committat.
 
-                            Ibi victu recreati et quiete, postquam abierat timor, vicos opulentos adorti equestrium adventu cohortium, quae casu propinquabant,
-                            nec
-                            resistere planitie porrecta conati digressi sunt retroque concedentes omne iuventutis robur relictum in sedibus acciverunt.
-
-                            Sed laeditur hic coetuum magnificus splendor levitate paucorum incondita, ubi nati sunt non reputantium, sed tamquam indulta
-                            licentia
-                            vitiis ad errores lapsorum ac lasciviam. ut enim Simonides lyricus docet, beate perfecta ratione vieturo ante alia patriam esse
+                            lapsorum ac lasciviam. ut enim Simonides lyricus docet, beate perfecta ratione vieturo ante alia patriam esse
                             convenit
                             gloriosam.</p>
                     </div>
