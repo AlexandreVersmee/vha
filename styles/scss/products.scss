@@ -1,28 +1,49 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto|Arsenal|PT+Serif");
+@import "variables";
+
 /* ==========================================================================
         DEFAULT - SMALL SCREEN
 ========================================================================== */
-.underHeader-contact-informations {
-  margin-bottom: 10px;
+
+h3 {
+  color: $particulier-font-color;
+
+  span {
+    font-size: 1.5rem !important;
+  }
 }
 
-.slider-row {
-  margin-bottom: 20px;
+.cards-row {
+  margin-bottom: 35px;
 }
 
-.photo-presentation-partners img {
-  border-radius: 3rem;
-  margin-bottom: 20px;
+.cards-title {
+  margin: 15px 0 25px 0;
+}
+
+.products-title {
+  margin: 15px 0 25px 0;
+}
+
+.product {
+  img {
+    margin-bottom: 15px;
+  }
+
+  p {
+    margin-bottom: 40px;
+  }
 }
 
 /* ==========================================================================
         MEDIUM SCREEN
 ========================================================================== */
+
 @media print, screen and (min-width: 40em) {
-  .underHeader-contact-informations {
-    margin-bottom: 0;
-  }
 }
+
 /* ==========================================================================
         LARGE SCREEN
 ========================================================================== */
+
+@media print, screen and (min-width: 64em) {
+}
