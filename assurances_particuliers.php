@@ -110,73 +110,73 @@
                     </h3>
 
                     <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                        <a href="automobile.php" title="Assurance Auto">
+                        <a href="produits/Assurances-Particuliers/automobile.php" title="Assurance Auto">
                             <img class="thumbnail " src="images/particulier/assurance-auto400x250.jpg"/>
                             <p class="text-center">Assurance Auto</p>
                         </a>
                     </div>
                     <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                        <a href="deux-roues.php" title="Assurance 2 Roues">
+                        <a href="produits/Assurances-Particuliers/deux-roues.php" title="Assurance 2 Roues">
                             <img class="thumbnail" src="images/particulier/assurance-moto400x250.jpg"/>
                             <p class="text-center">Assurance 2 Roues</p>
                         </a>
                     </div>
                     <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                        <a href="habitation" title="Assurance Habitation">
+                        <a href="produits/Assurances-Particuliers/habitation" title="Assurance Habitation">
                             <img class="thumbnail" src="images/particulier/habitation%20COM16258-V0916-400x250.jpg"/>
                             <p class="text-center">Assurance Habitation</p>
                         </a>
                     </div>
                     <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                        <a href="resilie-malus-alcoolemie.php" title="Assurance Résilié, Malus, Alcoolémie">
+                        <a href="produits/Assurances-Particuliers/resilie-malus-alcoolemie.php" title="Assurance Résilié, Malus, Alcoolémie">
                              <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image10"/>
                              <p class="text-center">Assurance Résilié, Malus, Alcoolémie</p>
                         </a>
                     </div>
                     <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                        <a href="emprunteur.php" title="Assurance Emprunteur">
+                        <a href="produits/Assurances-Particuliers/emprunteur.php" title="Assurance Emprunteur">
                             <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image4"/>
                             <p class="text-center">Assurance Emprunteur</p>
                         </a>
                     </div>
                     <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                        <a href="garanties-des-accidents-de-la-vie.php" title="Assurance Garantie des Accidents de la vie">
+                        <a href="produits/Assurances-Particuliers/garanties-des-accidents-de-la-vie.php" title="Assurance Garantie des Accidents de la vie">
                             <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image5"/>
                             <p class="text-center">Assurance Garantie des Accidents de la vie</p>
                         </a>
                     </div>
                     <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                        <a href="sante.php" title="Assurance Santé">
+                        <a href="produits/Assurances-Particuliers/sante.php" title="Assurance Santé">
                             <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image6"/>
                             <p class="text-center">Assurance Santé</p>
                         </a>
                     </div>
                     <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                        <a href="prevoyance-obseques-dependances.php" title="Assurance Prévoyance, Obsèques, Dépendance">
+                        <a href="produits/Assurances-Particuliers/prevoyance-obseques-dependances.php" title="Assurance Prévoyance, Obsèques, Dépendance">
                             <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image7"/>
                             <p class="text-center">Assurance Prévoyance, Obsèques, Dépendance</p>
                         </a>
                     </div>
                     <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                        <a href="retraite.php" title="Assurance Retraite">
+                        <a href="produits/Assurances-Particuliers/retraite.php" title="Assurance Retraite">
                             <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image8"/>
                             <p class="text-center">Assurance Retraite</p>
                         </a>
                     </div>
                     <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                        <a href="protection-juridique" title="Assurance Protection Juridique">
+                        <a href="produits/Assurances-Particuliers/protection-juridique" title="Assurance Protection Juridique">
                             <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image9"/>
                             <p class="text-center">Assurance Protection Juridique</p>
                         </a>
                     </div>
                     <div class="small-12 medium-6 large-4 end columns" data-equalizer-watch>
-                        <a href="bateau.php" title="Assurance Bateau">
+                        <a href="produits/Assurances-Particuliers/bateau.php" title="Assurance Bateau">
                             <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image11"/>
                             <p class="text-center">Assurance Bateau</p>
                         </a>
                     </div>
                     <div class="small-12 medium-6 large-4 end columns" data-equalizer-watch>
-                        <a href="chiens-et-chats.php" title="Assurance Chiens et Chats">
+                        <a href="produits/Assurances-Particuliers/chiens-et-chats.php" title="Assurance Chiens et Chats">
                             <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image12"/>
                             <p class="text-center">Assurance Chiens et Chats</p>
                         </a>
