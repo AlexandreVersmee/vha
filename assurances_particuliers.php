@@ -49,7 +49,7 @@
                         A chaque âge ses solutions ...
                     </h3>
 
-                    <div class="small-4 columns">
+                    <div class="small-12 medium-6 large-4 columns">
                         <div class="card">
                             <div class="container">
                                 <div class="front">
@@ -66,7 +66,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="small-4 columns">
+                    <div class="small-12 medium-6 large-4 columns">
                         <div class="card">
                             <div class="container">
                                 <div class="front">
@@ -82,7 +82,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="small-4 columns">
+                    <div class="small-12 medium-offset-3 medium-6 large-offset-0 large-4 end columns last-card">
                         <div class="card">
                             <div class="container">
                                 <div class="front">
@@ -100,7 +100,7 @@
                     </div>
                 </div>
 
-                <div class="row">
+                <div class="row" data-equalizer>
                     <h3 class="products-title">
                         <span class="fa-stack fa-lg particulier">
                             <i class="fa fa-square-o fa-stack-2x"></i>
@@ -109,53 +109,77 @@
                         Les solutions
                     </h3>
 
-                    <div class="small-12 medium-6 large-4 columns product">
-                        <img class="thumbnail " src="images/particulier/assurance-auto400x250.jpg"/>
-                        <p class="text-center">Assurance Auto</p>
+                    <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
+                        <a href="automobile.php" title="Assurance Auto">
+                            <img class="thumbnail " src="images/particulier/assurance-auto400x250.jpg"/>
+                            <p class="text-center">Assurance Auto</p>
+                        </a>
                     </div>
-                    <div class="small-12 medium-6 large-4 columns product">
-                        <img class="thumbnail" src="images/particulier/assurance-moto400x250.jpg"/>
-                        <p class="text-center">Assurance 2 Roues</p>
+                    <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
+                        <a href="deux-roues.php" title="Assurance 2 Roues">
+                            <img class="thumbnail" src="images/particulier/assurance-moto400x250.jpg"/>
+                            <p class="text-center">Assurance 2 Roues</p>
+                        </a>
                     </div>
-                    <div class="small-12 medium-6 large-4 columns product">
-                        <img class="thumbnail" src="images/particulier/habitation%20COM16258-V0916-400x250.jpg"/>
-                        <p class="text-center">Assurance Habitation</p>
+                    <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
+                        <a href="habitation" title="Assurance Habitation">
+                            <img class="thumbnail" src="images/particulier/habitation%20COM16258-V0916-400x250.jpg"/>
+                            <p class="text-center">Assurance Habitation</p>
+                        </a>
                     </div>
-                    <div class="small-12 medium-6 large-4 columns product">
-                         <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image10"/>
-                         <p class="text-center">Assurance Résilié, Malus, Alcoolémie</p>
+                    <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
+                        <a href="resilie-malus-alcoolemie.php" title="Assurance Résilié, Malus, Alcoolémie">
+                             <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image10"/>
+                             <p class="text-center">Assurance Résilié, Malus, Alcoolémie</p>
+                        </a>
                     </div>
-                    <div class="small-12 medium-6 large-4 columns product">
-                        <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image4"/>
-                        <p class="text-center">Assurance Emprunteur</p>
+                    <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
+                        <a href="emprunteur.php" title="Assurance Emprunteur">
+                            <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image4"/>
+                            <p class="text-center">Assurance Emprunteur</p>
+                        </a>
                     </div>
-                    <div class="small-12 medium-6 large-4 columns product">
-                        <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image5"/>
-                        <p class="text-center">Assurance Garantie des Accidents de la vie</p>
+                    <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
+                        <a href="garanties-des-accidents-de-la-vie.php" title="Assurance Garantie des Accidents de la vie">
+                            <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image5"/>
+                            <p class="text-center">Assurance Garantie des Accidents de la vie</p>
+                        </a>
                     </div>
-                    <div class="small-12 medium-6 large-4 columns product">
-                        <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image6"/>
-                        <p class="text-center">Assurance Santé</p>
+                    <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
+                        <a href="sante.php" title="Assurance Santé">
+                            <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image6"/>
+                            <p class="text-center">Assurance Santé</p>
+                        </a>
                     </div>
-                    <div class="small-12 medium-6 large-4 columns product">
-                        <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image7"/>
-                        <p class="text-center">Assurance Prévoyance, Obsèques, Dépendance</p>
+                    <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
+                        <a href="prevoyance-obseques-dependances.php" title="Assurance Prévoyance, Obsèques, Dépendance">
+                            <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image7"/>
+                            <p class="text-center">Assurance Prévoyance, Obsèques, Dépendance</p>
+                        </a>
                     </div>
-                    <div class="small-12 medium-6 large-4 columns product">
-                        <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image8"/>
-                        <p class="text-center">Assurance Retraite</p>
+                    <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
+                        <a href="retraite.php" title="Assurance Retraite">
+                            <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image8"/>
+                            <p class="text-center">Assurance Retraite</p>
+                        </a>
                     </div>
-                    <div class="small-12 medium-6 large-4 columns product">
-                        <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image9"/>
-                        <p class="text-center">Assurance Protection Juridique</p>
+                    <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
+                        <a href="protection-juridique" title="Assurance Protection Juridique">
+                            <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image9"/>
+                            <p class="text-center">Assurance Protection Juridique</p>
+                        </a>
                     </div>
-                    <div class="small-12 medium-6 large-4 end columns">
-                        <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image11"/>
-                        <p class="text-center">Assurance Bateau</p>
+                    <div class="small-12 medium-6 large-4 end columns" data-equalizer-watch>
+                        <a href="bateau.php" title="Assurance Bateau">
+                            <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image11"/>
+                            <p class="text-center">Assurance Bateau</p>
+                        </a>
                     </div>
-                    <div class="small-12 medium-6 large-4 end columns">
-                        <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image12"/>
-                        <p class="text-center">Assurance Chiens et Chats</p>
+                    <div class="small-12 medium-6 large-4 end columns" data-equalizer-watch>
+                        <a href="chiens-et-chats.php" title="Assurance Chiens et Chats">
+                            <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image12"/>
+                            <p class="text-center">Assurance Chiens et Chats</p>
+                        </a>
                     </div>
                 </div>
 

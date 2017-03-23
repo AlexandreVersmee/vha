@@ -5,7 +5,12 @@
 ========================================================================== */
 
 h3 {
-  color: $particulier-font-color;
+  margin-bottom: 25px;
+  text-align: center;
+
+  .fa-stack{
+    color: $particulier-font-color;
+  }
 
   span {
     font-size: 1.5rem !important;
@@ -13,15 +18,11 @@ h3 {
 }
 
 .cards-row {
-  margin-bottom: 35px;
-}
+  margin-bottom: 10px;
 
-.cards-title {
-  margin: 15px 0 25px 0;
-}
-
-.products-title {
-  margin: 15px 0 25px 0;
+  .card {
+    margin-bottom: 15px;
+  }
 }
 
 .product {
@@ -30,7 +31,7 @@ h3 {
   }
 
   p {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
   }
 }
 
@@ -39,6 +40,32 @@ h3 {
 ========================================================================== */
 
 @media print, screen and (min-width: 40em) {
+  h3 {
+    text-align: left;
+  }
+
+
+  .cards-row {
+    margin-bottom: 35px;
+
+    .card {
+      margin-bottom: 0;
+    }
+
+    .last-card{
+      margin-top: 15px;
+    }
+  }
+
+  .product {
+    img {
+      margin-bottom: 15px;
+    }
+
+    p {
+      margin-bottom: 40px;
+    }
+  }
 }
 
 /* ==========================================================================
@@ -46,4 +73,10 @@ h3 {
 ========================================================================== */
 
 @media print, screen and (min-width: 64em) {
+  .cards-row {
+
+      .last-card{
+        margin-top: 0;
+    }
+  }
 }
