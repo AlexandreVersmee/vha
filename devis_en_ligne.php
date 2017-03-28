@@ -8,6 +8,8 @@
 	<?php include 'includes/styles.php' ?>
 
     <link rel="stylesheet" href="styles/css/devis.css">
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 	<?php $code_agence_valenciennes = "h98069" ;
 	$Allianz_path_devis = "https://www.allianz.fr/monagence.html?codeAgence=".$code_agence_valenciennes."&urlRedirect=https://www.allianz.fr"; ?>
     <!--https://www.allianz.fr/monagence.html?codeAgence=h98069&urlRedirect=https://www.allianz.fr//devis-rapide-auto-->
@@ -37,7 +39,7 @@
 
             <!-- CONTENU PRINCIPAL -->
             <main>
-                <div class="row"><div class="small-12 columns"><?php include 'scripts-php/send_email.php' ?></div></div>
+                <div class="row"><?php include 'scripts-php/send_email.php' ?></div>
 
                 <div class="row">
                     <div class="small-12 columns page-title">
@@ -162,6 +164,11 @@
                                     </div>
                                 </div>
                                 <div class="row">
+                                    <div class="small-12 medium-offset-1 medium-10 columns">
+                                        <div class="g-recaptcha" data-sitekey="6LeEQBoUAAAAALEmtZ0saUr11Wj5m1HfQuosOJx1"></div>
+                                    </div>
+                                </div>
+                                <div class="row">
                                     <div class="small-12 medium-offset-1 medium-10 columns text-right">
                                         <button type="submit" class="button" aria-label="Demander à être rappelé">
                                             <i class="fa fa-send fa-padding"></i> Appelez moi
@@ -181,6 +188,7 @@
 
 <!-- SCRIPTS -->
 <?php include 'includes/scripts.php' ?>
+
 <script src="scripts/devis.js"></script>
 
 </body>
