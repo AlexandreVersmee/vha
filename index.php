@@ -42,24 +42,25 @@
                                 <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>&#9664;&#xFE0E;</button>
                                 <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9654;&#xFE0E;</button>
                                 <li class="is-active orbit-slide">
-                                    <div> Actualité
-                                    Nouveauté en matière d'assurance emprunteur....
-
-                                    Vous pouvez désormais résilier vos assurances emprunteur tous les ans....</div>
-
-                                    <figcaption class="orbit-caption">Space, the final frontier.</figcaption>
+                                    <div class="slide-text-background" >
+                                        <h4>Actualité</h4>
+                                        <p>
+                                            Nouveauté en matière d'assurance emprûnteur....<br>
+                                            Vous pouvez désormais résilier vos assurances emprunteur tous les ans....
+                                        </p>
+                                    </div>
                                 </li>
                                 <li class="orbit-slide">
-                                    <iframe width="100%" height="292" src="https://www.youtube.com/embed/V9gkYw35Vws" frameborder="0" allowfullscreen></iframe>
+                                    <img class="orbit-image" src="images/particulier/fotolia_72819777%20400x250.jpg" alt="Space">
+                                    <span class="orbit-caption"><p>Nouveauté en matière d'assurance emprûnteur....<br>
+                                            Vous pouvez désormais résilier vos assurances emprunteur tous les ans...</p></span>
                                 </li>
+
                                 <li class="orbit-slide">
                                     <iframe width="100%" height="292" src="https://www.youtube.com/embed/VAoGOKuxAE8" frameborder="0" allowfullscreen></iframe>
-                                    <figcaption class="orbit-caption">Encapsulating</figcaption>
+                                   <!-- <figcaption class="orbit-caption">Encapsulating</figcaption>-->
                                 </li>
-                                <li class="orbit-slide">
-                                    <img class="orbit-image" src="images/auto-petit-rouleur-280x165%20400x250.jpg" alt="Space">
-                                    <figcaption class="orbit-caption">Outta This World</figcaption>
-                                </li>
+
                             </ul>
                             <nav class="orbit-bullets">
                                 <button class="is-active" data-slide="0"><span class="show-for-sr">First slide details.</span><span class="show-for-sr">Current Slide</span>

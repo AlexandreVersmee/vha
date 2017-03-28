@@ -11,6 +11,56 @@
   margin-bottom: 20px;
 }
 
+.orbit-container {
+  position: relative;
+  height: 500px;
+}
+.orbit-caption {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(10, 10, 10, 0.5);
+}
+.orbit-caption p {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  text-align: center;
+  color: #fefefe;
+  font-size: 48px;
+  font-weight: 900;
+}
+@media screen and (max-width: 39.9375em) {
+  .orbit-caption p{
+    font-size: 12px;
+    font-weight: 400;
+  }
+}
+
+
+.slide-text-background{
+  background-color: #004C92;
+  color: #3adb76;
+  // padding: 15px; 15px partout (haut,bas,gauche et droite)
+  // padding: 15px 20px; 15 haut et bas et 20 droite et gauche
+  // padding: 15px 16px 18px 19px;
+  padding: 15px;
+
+  h4{
+    font-weight: bold;
+
+  }
+
+  p{
+
+  }
+
+}
+
 .photo-presentation-partners {
   img {
     border-radius: 3rem;

@@ -177,7 +177,7 @@
                     </div>
                     <div class="small-12 medium-6 large-4 end columns" data-equalizer-watch>
                         <a href="produits/Assurances-Particuliers/chiens-et-chats.php" title="Assurance Chiens et Chats">
-                            <img class="thumbnail" src="images/particulier/"/>
+                            <img class="thumbnail" src="images/particulier/Chiens%20et%20chats%20400x250.jpg"/>
                             <p class="text-center">Assurance Chiens et Chats</p>
                         </a>
                     </div>
