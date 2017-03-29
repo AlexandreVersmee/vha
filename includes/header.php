@@ -15,7 +15,10 @@
         </div>
         <div class="hide-for-small-only medium-2 columns">
             <a href="index.php" title="Retour à la page d'accueil">
-                <img src="/vha/images/" alt="Logo de l'assurance Versmée & Hautcoeur" >
+                <img src="/vha/images/versmee_hautcoeur_spécialiste_entreprise_flotte_garage.png" alt="Logo de l'assurance Versmée & Hautcoeur" >
+                <br>
+                <img src="/vha/images/allianz_assurance_logo_versmee.png" alt="Logo de l'assurance Versmée & Hautcoeur" >
+
             </a>
         </div>
     </div>
