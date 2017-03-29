@@ -13,6 +13,11 @@
                 <small>Maison fondée en 1929</small>
             </h1>
         </div>
+        <div class="hide-for-small-only medium-2 columns">
+            <a href="index.php" title="Retour à la page d'accueil">
+                <img src="/vha/images/" alt="Logo de l'assurance Versmée & Hautcoeur" >
+            </a>
+        </div>
     </div>
 
     <ul class="header-subnav show-for-medium">
