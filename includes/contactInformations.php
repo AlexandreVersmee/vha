@@ -47,7 +47,7 @@
                 </span>
                 <span id="header-link-patrimoine">
                     <span class="show-for-large">Votre</span> Patrimoine
-                    <span class="show-for-large">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="show-for-large">
                 </span>
             </a>
         </div>

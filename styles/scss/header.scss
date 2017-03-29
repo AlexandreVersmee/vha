@@ -36,13 +36,19 @@
   margin-bottom: 15px;
   padding: 7px 0 !important;
   font-size: 90%;
-  color: $assurance-pages-link-color;
   background: $footer-background-color;
 
   a {
     color: $assurance-pages-link-color;
+    text-transform: uppercase;
+
     &:hover {
-      text-decoration: dotted;
+      font-weight: bold;
+    }
+
+    span:not(:first-child):hover{
+      padding-bottom: 5px;
+      border-bottom: 1px dashed white;
     }
   }
 

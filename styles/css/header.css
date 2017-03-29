@@ -31,14 +31,18 @@
   margin-bottom: 15px;
   padding: 7px 0 !important;
   font-size: 90%;
-  color: #EEF5F3;
   background: #54585A;
 }
 .underHeader-contact-informations a {
   color: #EEF5F3;
+  text-transform: uppercase;
 }
 .underHeader-contact-informations a:hover {
-  text-decoration: dotted;
+  font-weight: bold;
+}
+.underHeader-contact-informations a span:not(:first-child):hover {
+  padding-bottom: 5px;
+  border-bottom: 1px dashed white;
 }
 .underHeader-contact-informations .particulier {
   color: #002F6C;
