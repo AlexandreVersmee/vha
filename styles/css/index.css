@@ -10,12 +10,7 @@
   margin-bottom: 20px;
 }
 
-.orbit-container {
-  position: relative;
-  height: 500px;
-}
-
-.orbit-caption {
+.orbit-overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -24,7 +19,7 @@
   background-color: rgba(10, 10, 10, 0.5);
 }
 
-.orbit-caption p {
+.orbit-overlay p {
   position: relative;
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -32,16 +27,10 @@
   transform: translateY(-50%);
   text-align: center;
   color: #fefefe;
-  font-size: 48px;
-  font-weight: 900;
+  font-size: 12px;
+  font-weight: 400;
 }
 
-@media screen and (max-width: 39.9375em) {
-  .orbit-caption p {
-    font-size: 12px;
-    font-weight: 400;
-  }
-}
 .slide-text-background {
   background-color: #004C92;
   color: #3adb76;
@@ -62,6 +51,11 @@
 @media print, screen and (min-width: 40em) {
   .underHeader-contact-informations {
     margin-bottom: 0;
+  }
+
+  .orbit-overlay p {
+    font-size: 48px;
+    font-weight: 900;
   }
 }
 /* ==========================================================================

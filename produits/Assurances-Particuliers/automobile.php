@@ -32,11 +32,18 @@
 
 			<!-- CONTENU PRINCIPAL -->
 			<main>
+
 				<div class="row">
 					<div class="small-12 columns page-title">
 						<h1><span>Assurances Automobile</span></h1>
 					</div>
 				</div>
+
+                <div class="row">
+                    <div class="small-12 columns">
+
+                    </div>
+                </div>
 
 			</main>
 

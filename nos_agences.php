@@ -102,7 +102,6 @@
 		</div>
 	</div>
 </div>
-<script></script>
 
 <!-- SCRIPTS -->
 <?php include 'includes/scripts.php' ?>

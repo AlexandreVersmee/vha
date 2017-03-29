@@ -78,8 +78,8 @@
     display: inline-block;
   }
   .header .header-subnav li a {
-    padding: 0.9rem 0.33rem;
-    font-size: 1rem;
+    padding: 0.9rem 0.33rem !important;
+    font-size: 1rem !important;
     color: #004C92;
     text-transform: uppercase;
     display: block;

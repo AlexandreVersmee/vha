@@ -41,6 +41,7 @@
                             <ul class="orbit-container">
                                 <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>&#9664;&#xFE0E;</button>
                                 <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9654;&#xFE0E;</button>
+
                                 <li class="is-active orbit-slide">
                                     <div class="slide-text-background" >
                                         <h4>Actualité</h4>
@@ -52,22 +53,18 @@
                                 </li>
                                 <li class="orbit-slide">
                                     <img class="orbit-image" src="images/particulier/fotolia_72819777%20400x250.jpg" alt="Space">
-                                    <span class="orbit-caption"><p>Nouveauté en matière d'assurance emprûnteur....<br>
+                                    <span class="orbit-overlay"><p>Nouveauté en matière d'assurance emprûnteur....<br>
                                             Vous pouvez désormais résilier vos assurances emprunteur tous les ans...</p></span>
                                 </li>
-
                                 <li class="orbit-slide">
-                                    <iframe width="100%" height="292" src="https://www.youtube.com/embed/VAoGOKuxAE8" frameborder="0" allowfullscreen></iframe>
-                                   <!-- <figcaption class="orbit-caption">Encapsulating</figcaption>-->
+                                    <iframe width="100%" height="450" src="https://www.youtube.com/embed/VAoGOKuxAE8" frameborder="0" allowfullscreen></iframe>
+                                    <figcaption class="orbit-caption">Encapsulating</figcaption>
                                 </li>
-
                             </ul>
                             <nav class="orbit-bullets">
-                                <button class="is-active" data-slide="0"><span class="show-for-sr">First slide details.</span><span class="show-for-sr">Current Slide</span>
-                                </button>
+                                <button class="is-active" data-slide="0"><span class="show-for-sr">First slide details.</span><span class="show-for-sr">Current Slide</span></button>
                                 <button data-slide="1"><span class="show-for-sr">Second slide details.</span></button>
                                 <button data-slide="2"><span class="show-for-sr">Third slide details.</span></button>
-                                <button data-slide="3"><span class="show-for-sr">Fourth slide details.</span></button>
                             </nav>
                         </div>
                     </div>
@@ -112,7 +109,7 @@
         </div>
     </div>
 </div>
-<script></script>
+
 
 <!-- SCRIPTS -->
 <?php include 'includes/scripts.php' ?>
