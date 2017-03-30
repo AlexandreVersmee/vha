@@ -38,6 +38,11 @@
                     <div class="small-12 columns page-title">
                         <h1><span>Notre expertise</span></h1>
                     </div>
+                    <div class="front">
+                        <img class="thumbnail" src="images/versmee%20&%20hautcoeur%20%20label_entreprises_2016_2017.png"/>
+                        <img class="thumbnail" src="images/versmee%20&%20hautcoeur%20%20label_construction_2016_2017.png"/>
+                        <img class="thumbnail" src="images/versmee%20&%20hautcoeur%20%20label_flottesGarages_2016_2017.png"/>
+                    </div>
                 </div>
 			</main>
 

@@ -151,7 +151,7 @@
 
                                 <!-- Modal / Reveal -->
                                 <div class="reveal small" id="assurance-habitation" data-reveal>
-									<?php include 'partial/products/Assurances-Particuliers/deux-roues.php' ?>
+									<?php include 'partial/products/Assurances-Particuliers/habitation.php' ?>
                                 </div>
                             </div>
 
