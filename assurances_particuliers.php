@@ -16,7 +16,7 @@
 
         <!-- OFF-CANVAS DISPLAY ON MOBILE -->
 
-		<?php include 'includes/off-canvas.php' ?>
+		<?php include 'partial/off-canvas.php' ?>
 
         <!-- CONTENT OF WEBPAGE -->
         <div class="off-canvas-content" data-off-canvas-content>
@@ -28,9 +28,9 @@
                 </div>
             </div>
 
-			<?php include 'includes/header.php' ?>
+			<?php include 'partial/header.php' ?>
 
-			<?php include 'includes/contactInformations.php' ?>
+			<?php include 'partial/contactInformations.php' ?>
 
             <!-- CONTENU PRINCIPAL -->
             <main>
@@ -51,8 +51,7 @@
                                         <i class="fa fa-square-o fa-stack-2x"></i>
                                         <i class="fa fa-user fa-stack-1x"></i>
                                     </span>
-                                    A chaque âge ses solutions ...
-                                </h3>
+                                    A chaque âge ses solutions ... </h3>
                             </div>
 
                             <div class="small-12 medium-6 large-4 columns">
@@ -109,6 +108,7 @@
                             </div>
                         </div>
 
+
                         <!-- PRODUCTS -->
                         <div class="row" data-equalizer>
                             <div class="small-12 columns">
@@ -117,8 +117,7 @@
                                         <i class="fa fa-square-o fa-stack-2x"></i>
                                         <i class="fa fa-user fa-stack-1x"></i>
                                     </span>
-                                    Les solutions
-                                </h3>
+                                    Les solutions </h3>
                             </div>
 
                             <!-- First Line -->
@@ -130,67 +129,7 @@
 
                                 <!-- Modal / Reveal -->
                                 <div class="reveal small" id="assurance-auto" data-reveal>
-                                    <h1>Assurance auto</h1>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <div class="callout">
-                                                <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
-                                                   autres.</p>
-
-                                                <p>Wery- Caulliez Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
-                                                   Civile
-                                                   circulation,
-                                                   que pour les dommages subis par vous-même avec la garantie du conducteur, et par votre véhicule. Un
-                                                   accompagnement
-                                                   personnalisé pour choisir la formule qui vous correspond.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <h4>Les +</h4>
-                                            <p>> Une solution sur-mesure avec 5 formules d’assurance et des options à la carte, allant de la garantie
-                                               Responsabilité
-                                               Civile
-                                               seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement,</p>
-
-                                            <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
-                                               de
-                                               l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
-
-                                            <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant avec la technologie
-                                               TOMTOM</p>
-
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                        </div>
-                                    </div>
-
-                                    <div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Download</a></div>
-                                    <button class="close-button" data-close aria-label="Close modal" type="button">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
+									<?php include 'partial/products/Assurances-Particuliers/automobile.php' ?>
                                 </div>
                             </div>
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
@@ -201,67 +140,7 @@
 
                                 <!-- Modal / Reveal -->
                                 <div class="reveal small" id="assurance-deux-roues" data-reveal>
-                                    <h1>Assurance Deux roues</h1>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <div class="callout">
-                                                <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
-                                                   autres.</p>
-
-                                                <p>Wery- Caulliez Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
-                                                   Civile
-                                                   circulation,
-                                                   que pour les dommages subis par vous-même avec la garantie du conducteur, et par votre véhicule. Un
-                                                   accompagnement
-                                                   personnalisé pour choisir la formule qui vous correspond.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <h4>Les +</h4>
-                                            <p>> Une solution sur-mesure avec 5 formules d’assurance et des options à la carte, allant de la garantie
-                                               Responsabilité
-                                               Civile
-                                               seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement,</p>
-
-                                            <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
-                                               de
-                                               l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
-
-                                            <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant avec la technologie
-                                               TOMTOM</p>
-
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                        </div>
-                                    </div>
-
-                                    <div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Download</a></div>
-                                    <button class="close-button" data-close aria-label="Close modal" type="button">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
+									<?php include 'partial/products/Assurances-Particuliers/deux-roues.php' ?>
                                 </div>
                             </div>
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
@@ -272,67 +151,7 @@
 
                                 <!-- Modal / Reveal -->
                                 <div class="reveal small" id="assurance-habitation" data-reveal>
-                                    <h1>Assurance habitations</h1>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <div class="callout">
-                                                <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
-                                                   autres.</p>
-
-                                                <p>Wery- Caulliez Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
-                                                   Civile
-                                                   circulation,
-                                                   que pour les dommages subis par vous-même avec la garantie du conducteur, et par votre véhicule. Un
-                                                   accompagnement
-                                                   personnalisé pour choisir la formule qui vous correspond.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <h4>Les +</h4>
-                                            <p>> Une solution sur-mesure avec 5 formules d’assurance et des options à la carte, allant de la garantie
-                                               Responsabilité
-                                               Civile
-                                               seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement,</p>
-
-                                            <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
-                                               de
-                                               l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
-
-                                            <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant avec la technologie
-                                               TOMTOM</p>
-
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                        </div>
-                                    </div>
-
-                                    <div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Download</a></div>
-                                    <button class="close-button" data-close aria-label="Close modal" type="button">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
+									<?php include 'partial/products/Assurances-Particuliers/deux-roues.php' ?>
                                 </div>
                             </div>
 
@@ -345,67 +164,7 @@
 
                                 <!-- Modal / Reveal -->
                                 <div class="reveal small" id="assurance-resiliation" data-reveal>
-                                    <h1>Assurance Résilié, Malus, Alcoolémie</h1>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <div class="callout">
-                                                <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
-                                                   autres.</p>
-
-                                                <p>Wery- Caulliez Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
-                                                   Civile
-                                                   circulation,
-                                                   que pour les dommages subis par vous-même avec la garantie du conducteur, et par votre véhicule. Un
-                                                   accompagnement
-                                                   personnalisé pour choisir la formule qui vous correspond.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <h4>Les +</h4>
-                                            <p>> Une solution sur-mesure avec 5 formules d’assurance et des options à la carte, allant de la garantie
-                                               Responsabilité
-                                               Civile
-                                               seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement,</p>
-
-                                            <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
-                                               de
-                                               l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
-
-                                            <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant avec la technologie
-                                               TOMTOM</p>
-
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                        </div>
-                                    </div>
-
-                                    <div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Download</a></div>
-                                    <button class="close-button" data-close aria-label="Close modal" type="button">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
+									<?php include 'partial/products/Assurances-Particuliers/resilie-malus-alcoolemie.php' ?>
                                 </div>
                             </div>
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
@@ -416,67 +175,7 @@
 
                                 <!-- Modal / Reveal -->
                                 <div class="reveal small" id="assurance-emprunteur" data-reveal>
-                                    <h1>Assurance Emprunteur</h1>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <div class="callout">
-                                                <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
-                                                   autres.</p>
-
-                                                <p>Wery- Caulliez Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
-                                                   Civile
-                                                   circulation,
-                                                   que pour les dommages subis par vous-même avec la garantie du conducteur, et par votre véhicule. Un
-                                                   accompagnement
-                                                   personnalisé pour choisir la formule qui vous correspond.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <h4>Les +</h4>
-                                            <p>> Une solution sur-mesure avec 5 formules d’assurance et des options à la carte, allant de la garantie
-                                               Responsabilité
-                                               Civile
-                                               seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement,</p>
-
-                                            <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
-                                               de
-                                               l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
-
-                                            <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant avec la technologie
-                                               TOMTOM</p>
-
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                        </div>
-                                    </div>
-
-                                    <div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Download</a></div>
-                                    <button class="close-button" data-close aria-label="Close modal" type="button">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
+									<?php include 'partial/products/Assurances-Particuliers/emprunteur.php' ?>
                                 </div>
                             </div>
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
@@ -487,67 +186,7 @@
 
                                 <!-- Modal / Reveal -->
                                 <div class="reveal small" id="assurance-garantie" data-reveal>
-                                    <h1>Assurance Garantie des Accidents de la vie</h1>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <div class="callout">
-                                                <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
-                                                   autres.</p>
-
-                                                <p>Wery- Caulliez Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
-                                                   Civile
-                                                   circulation,
-                                                   que pour les dommages subis par vous-même avec la garantie du conducteur, et par votre véhicule. Un
-                                                   accompagnement
-                                                   personnalisé pour choisir la formule qui vous correspond.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <h4>Les +</h4>
-                                            <p>> Une solution sur-mesure avec 5 formules d’assurance et des options à la carte, allant de la garantie
-                                               Responsabilité
-                                               Civile
-                                               seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement,</p>
-
-                                            <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
-                                               de
-                                               l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
-
-                                            <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant avec la technologie
-                                               TOMTOM</p>
-
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                        </div>
-                                    </div>
-
-                                    <div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Download</a></div>
-                                    <button class="close-button" data-close aria-label="Close modal" type="button">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
+									<?php include 'partial/products/Assurances-Particuliers/garanties-des-accidents-de-la-vie.php' ?>
                                 </div>
                             </div>
 
@@ -560,67 +199,7 @@
 
                                 <!-- Modal / Reveal -->
                                 <div class="reveal small" id="assurance-sante" data-reveal>
-                                    <h1>Assurance Santé</h1>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <div class="callout">
-                                                <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
-                                                   autres.</p>
-
-                                                <p>Wery- Caulliez Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
-                                                   Civile
-                                                   circulation,
-                                                   que pour les dommages subis par vous-même avec la garantie du conducteur, et par votre véhicule. Un
-                                                   accompagnement
-                                                   personnalisé pour choisir la formule qui vous correspond.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <h4>Les +</h4>
-                                            <p>> Une solution sur-mesure avec 5 formules d’assurance et des options à la carte, allant de la garantie
-                                               Responsabilité
-                                               Civile
-                                               seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement,</p>
-
-                                            <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
-                                               de
-                                               l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
-
-                                            <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant avec la technologie
-                                               TOMTOM</p>
-
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                        </div>
-                                    </div>
-
-                                    <div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Download</a></div>
-                                    <button class="close-button" data-close aria-label="Close modal" type="button">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
+									<?php include 'partial/products/Assurances-Particuliers/sante.php' ?>
                                 </div>
                             </div>
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
@@ -631,67 +210,7 @@
 
                                 <!-- Modal / Reveal -->
                                 <div class="reveal small" id="assurance-prevoyance" data-reveal>
-                                    <h1>Assurance Prévoyance, Obsèques, Dépendance</h1>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <div class="callout">
-                                                <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
-                                                   autres.</p>
-
-                                                <p>Wery- Caulliez Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
-                                                   Civile
-                                                   circulation,
-                                                   que pour les dommages subis par vous-même avec la garantie du conducteur, et par votre véhicule. Un
-                                                   accompagnement
-                                                   personnalisé pour choisir la formule qui vous correspond.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <h4>Les +</h4>
-                                            <p>> Une solution sur-mesure avec 5 formules d’assurance et des options à la carte, allant de la garantie
-                                               Responsabilité
-                                               Civile
-                                               seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement,</p>
-
-                                            <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
-                                               de
-                                               l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
-
-                                            <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant avec la technologie
-                                               TOMTOM</p>
-
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                        </div>
-                                    </div>
-
-                                    <div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Download</a></div>
-                                    <button class="close-button" data-close aria-label="Close modal" type="button">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
+									<?php include 'partial/products/Assurances-Particuliers/prevoyance-obseques-dependances.php' ?>
                                 </div>
                             </div>
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
@@ -702,67 +221,7 @@
 
                                 <!-- Modal / Reveal -->
                                 <div class="reveal small" id="assurance-retraite" data-reveal>
-                                    <h1>Assurance Retraite</h1>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <div class="callout">
-                                                <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
-                                                   autres.</p>
-
-                                                <p>Wery- Caulliez Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
-                                                   Civile
-                                                   circulation,
-                                                   que pour les dommages subis par vous-même avec la garantie du conducteur, et par votre véhicule. Un
-                                                   accompagnement
-                                                   personnalisé pour choisir la formule qui vous correspond.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <h4>Les +</h4>
-                                            <p>> Une solution sur-mesure avec 5 formules d’assurance et des options à la carte, allant de la garantie
-                                               Responsabilité
-                                               Civile
-                                               seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement,</p>
-
-                                            <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
-                                               de
-                                               l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
-
-                                            <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant avec la technologie
-                                               TOMTOM</p>
-
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                        </div>
-                                    </div>
-
-                                    <div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Download</a></div>
-                                    <button class="close-button" data-close aria-label="Close modal" type="button">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
+									<?php include 'partial/products/Assurances-Particuliers/retraite.php' ?>
                                 </div>
                             </div>
 
@@ -775,68 +234,8 @@
 
                                 <!-- Modal / Reveal -->
                                 <div class="reveal small" id="assurance-protection" data-reveal>
-                                    <h1>Assurance Protection Juridique</h1>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <div class="callout">
-                                                <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
-                                                   autres.</p>
-
-                                                <p>Wery- Caulliez Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
-                                                   Civile
-                                                   circulation,
-                                                   que pour les dommages subis par vous-même avec la garantie du conducteur, et par votre véhicule. Un
-                                                   accompagnement
-                                                   personnalisé pour choisir la formule qui vous correspond.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <h4>Les +</h4>
-                                            <p>> Une solution sur-mesure avec 5 formules d’assurance et des options à la carte, allant de la garantie
-                                               Responsabilité
-                                               Civile
-                                               seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement,</p>
-
-                                            <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
-                                               de
-                                               l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
-
-                                            <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant avec la technologie
-                                               TOMTOM</p>
-
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                        </div>
-                                    </div>
-
-                                    <div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Download</a></div>
-                                    <button class="close-button" data-close aria-label="Close modal" type="button">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
+									<?php include 'partial/products/Assurances-Particuliers/protection-juridique.php' ?>
+                               </div>
                             </div>
                             <div class="small-12 medium-6 large-4 end columns product" data-equalizer-watch>
                                 <a data-open="assurance-bateau" title="Assurance Bateau">
@@ -846,67 +245,8 @@
 
                                 <!-- Modal / Reveal -->
                                 <div class="reveal small" id="assurance-bateau" data-reveal>
-                                    <h1>Assurance Bateau</h1>
+									<?php include 'partial/products/Assurances-Particuliers/bateau.php' ?>
 
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <div class="callout">
-                                                <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
-                                                   autres.</p>
-
-                                                <p>Wery- Caulliez Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
-                                                   Civile
-                                                   circulation,
-                                                   que pour les dommages subis par vous-même avec la garantie du conducteur, et par votre véhicule. Un
-                                                   accompagnement
-                                                   personnalisé pour choisir la formule qui vous correspond.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <h4>Les +</h4>
-                                            <p>> Une solution sur-mesure avec 5 formules d’assurance et des options à la carte, allant de la garantie
-                                               Responsabilité
-                                               Civile
-                                               seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement,</p>
-
-                                            <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
-                                               de
-                                               l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
-
-                                            <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant avec la technologie
-                                               TOMTOM</p>
-
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                        </div>
-                                    </div>
-
-                                    <div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Download</a></div>
-                                    <button class="close-button" data-close aria-label="Close modal" type="button">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
                                 </div>
                             </div>
                             <div class="small-12 medium-6 large-4 end columns product" data-equalizer-watch>
@@ -917,67 +257,7 @@
 
                                 <!-- Modal / Reveal -->
                                 <div class="reveal small" id="assurance-chiens" data-reveal>
-                                    <h1>Assurance Chiens et Chats</h1>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <div class="callout">
-                                                <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
-                                                   autres.</p>
-
-                                                <p>Wery- Caulliez Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
-                                                   Civile
-                                                   circulation,
-                                                   que pour les dommages subis par vous-même avec la garantie du conducteur, et par votre véhicule. Un
-                                                   accompagnement
-                                                   personnalisé pour choisir la formule qui vous correspond.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row">
-                                        <div class="small-12 columns">
-                                            <h4>Les +</h4>
-                                            <p>> Une solution sur-mesure avec 5 formules d’assurance et des options à la carte, allant de la garantie
-                                               Responsabilité
-                                               Civile
-                                               seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement,</p>
-
-                                            <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
-                                               de
-                                               l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
-
-                                            <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant avec la technologie
-                                               TOMTOM</p>
-
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                            <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-                                        </div>
-                                    </div>
-
-                                    <div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Download</a></div>
-                                    <button class="close-button" data-close aria-label="Close modal" type="button">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
+									<?php include 'partial/products/Assurances-Particuliers/chiens-et-chats.php' ?>
                                 </div>
                             </div>
                         </div>
@@ -987,7 +267,7 @@
 
             </main>
 
-			<?php include 'includes/footer.php' ?>
+			<?php include 'partial/footer.php' ?>
         </div>
     </div>
 </div>

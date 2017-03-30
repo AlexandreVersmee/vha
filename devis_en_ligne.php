@@ -21,7 +21,7 @@
 
         <!-- OFF-CANVAS DISPLAY ON MOBILE -->
 
-		<?php include 'includes/off-canvas.php' ?>
+		<?php include 'partial/off-canvas.php' ?>
 
         <!-- CONTENT OF WEBPAGE -->
         <div class="off-canvas-content" data-off-canvas-content>
@@ -33,9 +33,9 @@
                 </div>
             </div>
 
-			<?php include 'includes/header.php' ?>
+			<?php include 'partial/header.php' ?>
 
-			<?php include 'includes/contactInformations.php' ?>
+			<?php include 'partial/contactInformations.php' ?>
 
             <!-- CONTENU PRINCIPAL -->
             <main>
@@ -180,7 +180,7 @@
                     </div>
             </main>
 
-			<?php include 'includes/footer.php' ?>
+			<?php include 'partial/footer.php' ?>
         </div>
     </div>
 </div>
