@@ -14,8 +14,8 @@
             </h1>
         </div>
         <div class="hide-for-small-only medium-2 columns">
-            <img src="/images/Spécialisation_Entreprise_Flotte.jpg" alt="Logo de l'assurance Versmée & Hautcoeur" >
-            <img src="/images/Spécialisation_Construction_Collectives.jpg" alt="Logo de l'assurance Versmée & Hautcoeur" >
+            <img src="/images/Spécialisation_Entreprise_Flotte.jpg" alt="Spécialité  de l'assurance Versmée & Hautcoeur" >
+            <img src="/images/Spécialisation_Construction_Collectives.jpg" alt="Spécialité de l'assurance Versmée & Hautcoeur" >
         </div>
     </div>
 

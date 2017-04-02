@@ -52,7 +52,7 @@
                                     </div>
                                 </li>
                                 <li class="orbit-slide">
-                                    <img class="orbit-image" src="images/particulier/fotolia_72819777%20400x250.jpg" alt="Space">
+                                    <iframe width="100%" height="450" img class="orbit-image" src="images/particulier/fotolia_72819777%20400x250.jpg" alt="Space"></iframe>
                                     <span class="orbit-overlay"><p>Nouveauté en matière d'assurance emprûnteur....<br>
                                             Vous pouvez désormais résilier vos assurances emprunteur tous les ans...</p></span>
                                 </li>
