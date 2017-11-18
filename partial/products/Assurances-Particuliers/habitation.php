@@ -56,7 +56,7 @@
     </div>
 </div>
 
-<div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Download</a></div>
+<div><a target="_blank" href="partial/products/Dispositions_generales/COM16258_dg_habitation_032016.pdf">Download</a></div>
 <button class="close-button" data-close aria-label="Close modal" type="button">
     <span aria-hidden="true">&times;</span>
 </button>
