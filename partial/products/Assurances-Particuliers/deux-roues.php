@@ -3,7 +3,7 @@
 <div class="row">
     <div class="small-12 columns">
         <div class="callout">
-            <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
+            <p>En France, assurer son véhicule 2 roues est obligatoire. L’assurance  couvre les dommages que vous causez aux
                autres.</p>
 
             <p>Versmée-Hautcoeur Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
