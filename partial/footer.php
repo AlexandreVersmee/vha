@@ -6,7 +6,7 @@
         <div class="medium-4 columns" data-equalizer-watch>
 
             <ul class="footer__vha-links">
-                <li><a href="/vha/nos_agences.php">Nous contacter</a></li>
+                <li><a href="nos_agences.php">Nous contacter</a></li>
                 <li><a href="#">Mentions légales</a></li>
             </ul>
             <p class="copyright hide-for-small-only">© Copyright Versmée & Hautcoeur 2017.</p>

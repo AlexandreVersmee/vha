@@ -84,7 +84,8 @@
                             <br>Plus de 33 ans d'expérience dans l'Assurance.
                             Diplomé de l'A.E.A.<br>
                             A repris le cabinet en 2004, puis l'agence de Douchy-les-Mines en 2016 en vue de l'association avec Johan Hautcoeur.
-                           .</p>
+                           <br>L'assurance avait une tellement mauvaise image quand j'étais jeune, que j'ai décidé de m'y consacrer uniquement <br>
+                            pour défendre l'intérêt des clients qui sont toujours démunis face à la puissance des compagnies...</p>
                     </div>
                     <div class="small-6 columns">
                         <div class="row">

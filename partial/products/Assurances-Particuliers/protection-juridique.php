@@ -6,7 +6,7 @@
             <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
                autres.</p>
 
-            <p>Wery- Caulliez Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
+            <p>Versmée-Hautcoeur Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
                Civile
                circulation,
                que pour les dommages subis par vous-même avec la garantie du conducteur, et par votre véhicule. Un
