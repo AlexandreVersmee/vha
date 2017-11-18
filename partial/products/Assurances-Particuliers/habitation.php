@@ -3,10 +3,13 @@
 <div class="row">
     <div class="small-12 columns">
         <div class="callout">
-            <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
-               autres.</p>
+            <p>Assurer votre logement : couvrir vos biens et votre responsabilité civile.
 
-            <p>Versméé & Hautcoeur Assurances vous propose aussi bien les contrats pour l’assurance habitation un très large éventail de garanties
+                Avec nos solutions d’assurance, en plus des garanties essentielles telles que : Incendie, Dégâts des eaux ou Responsabilité Civile</p>
+
+            <p>Vous composez votre contrat sur mesure : choisissez les garanties qui correspondent le mieux à votre profil (locataire ou propriétaire, seul, en couple, avec ou sans enfants, étudiant, actif ou retraité…) et à votre logement.</p>
+
+            <p>Versmée & Hautcoeur Assurances vous propose aussi bien les contrats pour l’assurance habitation un très large éventail de garanties
 
                 Assurer votre logement : couvrir vos biens et votre responsabilité civile.
 
