@@ -18,44 +18,23 @@
 
 <div class="row">
     <div class="small-12 columns">
-        <h4>Les +</h4>
-        <p>> Une solution sur-mesure avec 5 formules d’assurance et des options à la carte, allant de la garantie
-           Responsabilité
-           Civile
-           seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement,</p>
+        <h4>Les avantages</h4>
+        <p>>
 
-        <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
-           de
-           l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
+            Une mauvaise série peut arriver le risque d’accident au volant est malheureusement fréquent. Même si votre contrat est résilié par un assureur pour non paiement, pour alcoolémie, perte ou annulation du permis, vous avez l’obligation de vous assurer en Responsabilité civile afin que les dommages que vous causez aux autres soient remboursés.
 
-        <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant avec la technologie
-           TOMTOM</p>
+            Pour répondre à votre besoin, VERSMEE & HAUTCOEUR Assurances vous propose une solution sur mesure avec 3 formules d’assurance et des options complémentaires. Vous pouvez même être assuré en tous risques !
+        </p>
 
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
+        <p>>> Un contrat complet : Vous bénéficiez des mêmes garanties qu’un contrat auto classique.
+
+            > Vous êtes protégé : Notre assurance préserve votre famille et vous-même, ainsi que les autres usagers de la route.
+
+            > La confiance retrouvée : Vous continuez à être assuré malgré vos difficultés.</p>
     </div>
 </div>
 
-<div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Download</a></div>
+<div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Dispositions générales</a></div>
 <button class="close-button" data-close aria-label="Close modal" type="button">
     <span aria-hidden="true">&times;</span>
 </button>

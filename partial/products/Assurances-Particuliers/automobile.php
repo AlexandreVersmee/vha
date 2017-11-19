@@ -32,7 +32,7 @@
            de
            l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
 
-        <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant.</p>
+        <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant, </p>
 
 
     </div>

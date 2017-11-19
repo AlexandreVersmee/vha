@@ -36,7 +36,7 @@
 
 </div>
 
-<div><a target="_blank" href="partial/products/Dispositions_generales/BROCHURE_2_ROUES.pdf">Download</a></div>
+<div><a target="_blank" href="partial/products/Dispositions_generales/BROCHURE_2_ROUES.pdf">Dispositions générales</a></div>
 <button class="close-button" data-close aria-label="Close modal" type="button">
     <span aria-hidden="true">&times;</span>
 </button>

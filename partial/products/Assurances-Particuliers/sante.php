@@ -55,7 +55,7 @@
     </div>
 </div>
 
-<div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Download</a></div>
+<div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Dispositions générales</a></div>
 <button class="close-button" data-close aria-label="Close modal" type="button">
     <span aria-hidden="true">&times;</span>
 </button>
