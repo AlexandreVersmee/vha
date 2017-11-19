@@ -33,7 +33,20 @@
     </div>
 </div>
 
-<div><a target="_blank" href="partial\products\Dispositions_generales\habitation_COM16258-V032016.pdf">Dispositions générales</a></div>
+<div class="row">
+    <div class="small-4 columns">
+        <a target="_blank" href="partial\products\Dispositions_generales\habitation_COM16258-V032016.pdf">Dispositions générales</a>
+    </div>
+    <div class="small-4 columns">
+        <a target="_blank" href="partial\products\Brochures\habitation-COM16180.pdf">Brochure</a>
+    </div>
+    <div class="small-4 columns">
+
+    </div>
+</div>
+
+
+
 <button class="close-button" data-close aria-label="Close modal" type="button">
     <span aria-hidden="true">&times;</span>
 </button>

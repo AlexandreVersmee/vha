@@ -36,7 +36,19 @@
     </div>
 </div>
 
-<div><a target="_blank" href="partial\products\Dispositions_generales\DG-Plaisance_COM02302.pdf">Dispositions générales</a></div>
+<div class="row">
+    <div class="small-4 columns">
+        <a target="_blank" href="partial\products\Dispositions_generales\DG-Plaisance_COM02302.pdf">Dispositions générales</a>
+    </div>
+    <div class="small-4 columns">
+        <a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Brochure</a>
+    </div>
+    <div class="small-4 columns">
+
+    </div>
+</div>
+
+
 <button class="close-button" data-close aria-label="Close modal" type="button">
     <span aria-hidden="true">&times;</span>
 </button>
