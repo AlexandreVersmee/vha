@@ -3,8 +3,16 @@
 <div class="row">
     <div class="small-12 columns">
         <div class="callout">
-            <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
-               autres.</p>
+            <p>
+
+                Suite à un souci de santé, les dépenses vétérinaires peuvent vite s’accumuler et peser lourd dans votre budget. Parce que votre animal de compagnie mérite d’être bien soigné en toutes circonstances, nous vous proposons :
+
+                – Une prise en charge de vos dépenses vétérinaires
+
+                – Des formules adaptées à vos besoins
+
+                – Des conseillers clientèle à votre écoute pour répondre à vos questions
+            </p>
 
             <p>Versmée-Hautcoeur Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
                Civile
@@ -18,44 +26,29 @@
 
 <div class="row">
     <div class="small-12 columns">
-        <h4>Les +</h4>
-        <p>> Une solution sur-mesure avec 5 formules d’assurance et des options à la carte, allant de la garantie
-           Responsabilité
-           Civile
-           seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement,</p>
+        <h4>Les avantages</h4>
+        <p>> Des garanties maintenues : Tout au long de la vie de votre animal, les garanties ne changent pas.
 
-        <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
-           de
-           l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
+            > Aucun examen médical : Nous assurons votre animal sans examen médical préalable.
 
-        <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant avec la technologie
-           TOMTOM</p>
+            > Un remboursement rapide : Nous vous remboursons sous 30 jours maximum après acceptation de la feuille de soins.</p>
 
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
+
     </div>
 </div>
 
-<div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Dispositions générales</a></div>
+<div class="row">
+    <div class="small-4 columns">
+        <a target="_blank" href="partial\products\Dispositions_generales\chiens_chats_com18751_dg_v2.pdf">Dispositions générales</a>
+    </div>
+    <div class="small-4 columns">
+        <a target="_blank" href="partial\products\Brochures\chiens_chats_COM18704.pdf">Brochure</a>
+    </div>
+    <div class="small-4 columns">
+
+    </div>
+</div>
+
 <button class="close-button" data-close aria-label="Close modal" type="button">
     <span aria-hidden="true">&times;</span>
 </button>
