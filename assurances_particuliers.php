@@ -204,7 +204,7 @@
                             </div>
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
                                 <a data-open="assurance-prevoyance" title="Assurance Prévoyance, Obsèques, Dépendance">
-                                    <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image7"/>
+                                    <img class="thumbnail" src="images\particulier\Prevoyance_deces_fotolia_112832968.jpg"/>
                                     <p class="text-center">Assurance Prévoyance, Obsèques, Dépendance</p>
                                 </a>
 
@@ -239,7 +239,7 @@
                             </div>
                             <div class="small-12 medium-6 large-4 end columns product" data-equalizer-watch>
                                 <a data-open="assurance-bateau" title="Assurance Bateau">
-                                    <img class="thumbnail" src="https://placehold.it/2000x1000&text=Image11"/>
+                                    <img class="thumbnail" src="images\particulier\assurance_bateau_fotolia_179636746.jpg"/>
                                     <p class="text-center">Assurance Bateau</p>
                                 </a>
 

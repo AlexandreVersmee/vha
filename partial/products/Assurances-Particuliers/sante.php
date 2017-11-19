@@ -3,8 +3,7 @@
 <div class="row">
     <div class="small-12 columns">
         <div class="callout">
-            <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
-               autres.</p>
+            <p>Que vous soyez salarié ou travailleur indépendant, avec ou sans enfants, proche ou encore loin de la retraite, VERSMEE & HAUTCOEUR Assurances vous propose des contrats d’assurance santé souples et innovants qui s’adaptent aux besoins de chacun.</p>
 
             <p>Versmée-Hautcoeur Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
                Civile
@@ -19,43 +18,15 @@
 <div class="row">
     <div class="small-12 columns">
         <h4>Les +</h4>
-        <p>> Une solution sur-mesure avec 5 formules d’assurance et des options à la carte, allant de la garantie
-           Responsabilité
-           Civile
-           seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement,</p>
+        <p>> Vous ajustez votre complémentaire santé à vos besoins réels, avec notamment des garanties Optique et Dentaire complètement indépendantes.
 
-        <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
-           de
-           l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
+            > Vous profitez d’un accès à des professionnels de la santé partenaires, pour des soins de qualité à tarifs négociés avec un prise en charge majorée.
 
-        <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant avec la technologie
-           TOMTOM</p>
-
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
+            > Vous profitez de services santé pour prendre soin de votre santé au quotidien et vous simplifier la vie.</p>
     </div>
 </div>
 
-<div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Dispositions générales</a></div>
+<div><a target="_blank" href="partial\products\Dispositions_generales\Santé-Composio_COM18512-V0215.pdf">Dispositions générales</a></div>
 <button class="close-button" data-close aria-label="Close modal" type="button">
     <span aria-hidden="true">&times;</span>
 </button>

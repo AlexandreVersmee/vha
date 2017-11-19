@@ -33,7 +33,7 @@
     </div>
 </div>
 
-<div><a target="_blank" href="\partial\products\Dispositions_generales\COM16258_dg_habitation_032016.pdf">Dispositions générales</a></div>
+<div><a target="_blank" href="partial\products\Dispositions_generales\habitation_COM16258-V032016.pdf">Dispositions générales</a></div>
 <button class="close-button" data-close aria-label="Close modal" type="button">
     <span aria-hidden="true">&times;</span>
 </button>

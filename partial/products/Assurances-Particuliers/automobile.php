@@ -41,7 +41,7 @@
 
 <div class="row">
     <div class="small-4 columns">
-        <a target="_blank" href="../Dispositions_generales/COM15284_disposition_generale_auto.pdf">Dispositions générales</a>
+        <a target="_blank" href="partial\products\Dispositions_generales\automobile_COM15284.pdf">Dispositions générales</a>
     </div>
     <div class="small-4 columns">
         <a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Brochure</a>

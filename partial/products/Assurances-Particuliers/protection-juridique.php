@@ -3,15 +3,23 @@
 <div class="row">
     <div class="small-12 columns">
         <div class="callout">
-            <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
-               autres.</p>
+            <p>Le recours à la justice entre dans la vie courante et défendre vos droits devient une priorité.
 
-            <p>Versmée-Hautcoeur Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
-               Civile
-               circulation,
-               que pour les dommages subis par vous-même avec la garantie du conducteur, et par votre véhicule. Un
-               accompagnement
-               personnalisé pour choisir la formule qui vous correspond.</p>
+                Vous pensez, peut-être, être déjà couvert en cas de litige (avec votre carte bancaire par exemple), mais malheureusement, la plupart du temps ce n’est pas le cas. Il est pourtant utile de pouvoir bénéficier de l’assistance de professionnels du droit, avec un service accessible, simple et efficace.
+            <p>Versmée-Hautcoeur Assurances vous propose aussi bien les contrats standard que le contrat plus complet comprenant les litiges successoraux et de divorce.</p>
+
+            <p>Pour déclarer un sinistre 4 possibilités :
+
+                soit en nous contactant
+
+                soit à l’adresse postale suivante :
+                Allianz Protection Juridique
+                Centre de Solution Client
+                TSA 63 301 – 92087 Paris La défense Cedex
+
+                soit à l’adresse mail suivante : declaration.protection-juridique@allianz.fr
+
+                soit par téléphone : 0978 978 075 (Appel non surtaxé). </p>
         </div>
     </div>
 </div>
@@ -19,43 +27,13 @@
 <div class="row">
     <div class="small-12 columns">
         <h4>Les +</h4>
-        <p>> Une solution sur-mesure avec 5 formules d’assurance et des options à la carte, allant de la garantie
-           Responsabilité
-           Civile
-           seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement,</p>
+        <p>>Un accompagnement personnalisé par des professionnels jusqu’à la résolution de votre litige
 
-        <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
-           de
-           l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
-
-        <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant avec la technologie
-           TOMTOM</p>
-
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
+            > Une prise en charge de vos frais de justice pouvant aller jusqu’à 20 000 € par litige</p>
     </div>
 </div>
 
-<div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Dispositions générales</a></div>
+<div><a target="_blank" href="\partial\products\Dispositions_generales\pj_vie_quotidienne_-plus_COM17190.pdf">Dispositions générales</a></div>
 <button class="close-button" data-close aria-label="Close modal" type="button">
     <span aria-hidden="true">&times;</span>
 </button>
