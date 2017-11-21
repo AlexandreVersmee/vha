@@ -3,15 +3,9 @@
 <div class="row">
     <div class="small-12 columns">
         <div class="callout">
-            <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
-               autres.</p>
+            <p>n ensemble de garanties conçues pour répondre aux besoins spécifiques de votre famille et lui permettre de faire face financièrement en cas de : Décès prématuré, Arrêt de travail, Invalidité suite à une maladie ou un accident</p>
 
-            <p>Versmée-Hautcoeur Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
-               Civile
-               circulation,
-               que pour les dommages subis par vous-même avec la garantie du conducteur, et par votre véhicule. Un
-               accompagnement
-               personnalisé pour choisir la formule qui vous correspond.</p>
+            <p>Versmée-Hautcoeur Assurances vous propose aussi bien les contrats pour l’assurance du particulier, du commerçant, de l'artisan que le dirigeant avec la garantie Homme-clé, </p>
         </div>
     </div>
 </div>
@@ -19,14 +13,10 @@
 <div class="row">
     <div class="small-12 columns">
         <h4>Les +</h4>
-        <p>> Une solution sur-mesure avec 5 formules d’assurance et des options à la carte, allant de la garantie
-           Responsabilité
-           Civile
-           seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement,</p>
+        <p>> Des solutions sur-mesure avec de nombreuses formules d’assurance et des options à la carte, allant de la garantie décès l'invalidité, l'arrêt de travail, les maladies redoutées, la dépendance...
+           ,</p>
 
-        <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
-           de
-           l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
+        <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier de l’assurance immédiatement en cas d'accident.</p>
 
 
 
