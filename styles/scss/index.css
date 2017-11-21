@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto|Arsenal|PT+Serif");
+/* ==========================================================================
+        DEFAULT - SMALL SCREEN
+========================================================================== */
+.underHeader-contact-informations {
+  margin-bottom: 10px; }
+
+.slider-row {
+  margin-bottom: 20px; }
+
+.orbit-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(10, 10, 10, 0.5); }
+
+.orbit-overlay p {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  text-align: center;
+  color: #fefefe;
+  font-size: 12px;
+  font-weight: 400; }
+
+.slide-text-background {
+  background-color: #004C92;
+  color: #3adb76;
+  padding: 15px; }
+  .slide-text-background h4 {
+    font-weight: bold; }
+
+.photo-presentation-partners img {
+  border-radius: 3rem;
+  margin-bottom: 20px; }
+
+/* ==========================================================================
+        MEDIUM SCREEN
+========================================================================== */
+@media print, screen and (min-width: 40em) {
+  .underHeader-contact-informations {
+    margin-bottom: 0; }
+
+  .orbit-overlay p {
+    font-size: 48px;
+    font-weight: 900; } }
+/* ==========================================================================
+        LARGE SCREEN
+========================================================================== */
+
+/*# sourceMappingURL=index.css.map */

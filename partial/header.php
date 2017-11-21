@@ -4,7 +4,7 @@
     <div class="row">
         <div class="hide-for-small-only medium-2 columns">
             <a href="index.php" title="Retour à la page d'accueil">
-                <img src="images/assurance_versmee_hautcoeur_logo.png" alt="Logo de l'assurance Versmée & Hautcoeur" >
+                <img src="images/assurance_versmee_hautcoeur_logo.jpg" alt="Logo de l'assurance Versmée & Hautcoeur" >
             </a>
         </div>
         <div class="small-12 medium-8 end columns">

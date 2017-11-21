@@ -47,17 +47,19 @@
                                         <h4>Actualité</h4>
                                         <p>
                                             Nouveauté en matière d'assurance emprûnteur....<br>
-                                            Vous pouvez désormais résilier vos assurances emprunteur tous les ans....
+                                            Vous pouvez désormais résilier vos assurances emprunteur tous les ans... et faire des économies.
+                                            Souscrire peut se faire de façon moderne et rapide ! Déclaration d'état de santé sur votre tablette ou votre ordinateur.
+                                            Examens médicaux si besoin en centre médical multi-spécialisé : un seul rendez vous !
                                         </p>
                                     </div>
                                 </li>
                                 <li class="orbit-slide">
-                                    <iframe width="100%" height="450" img class="orbit-image" src="images/particulier/fotolia_72819777%20400x250.jpg" alt="Space"></iframe>
-                                    <span class="orbit-overlay"><p>Nouveauté en matière d'assurance emprûnteur....<br>
-                                            Vous pouvez désormais résilier vos assurances emprunteur tous les ans...</p></span>
+                                    <iframe width="100%" height="400" img class="orbit-image" src="images/carte%20grise%20et%20verte.jpg" alt="Space"></iframe>
+                                    <span class="orbit-overlay"><p> Le savez vous ? Nous pouvons établir votre carte grise rapidement et facilement. Repartez avec tous les papiers nécessaires pour votre véhicule. Simplifiez vous la vie...
+</p></span>
                                 </li>
                                 <li class="orbit-slide">
-                                    <iframe width="100%" height="450" src="https://www.youtube.com/embed/VAoGOKuxAE8" frameborder="0" allowfullscreen></iframe>
+                                    <iframe width="100%" height="400" src="https://www.youtube.com/embed/VAoGOKuxAE8" frameborder="0" allowfullscreen></iframe>
                                     <figcaption class="orbit-caption">Encapsulating</figcaption>
                                 </li>
                             </ul>

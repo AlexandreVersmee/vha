@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto|Arsenal|PT+Serif");
+/* ==========================================================================
+        DEFAULT - SMALL SCREEN
+========================================================================== */
+.header {
+  text-align: center;
+  background: #EFEFEF;
+  background-size: cover;
+  position: relative;
+  overflow: visible;
+  padding-top: 1.5rem;
+  padding-bottom: 1rem; }
+  .header .headline {
+    font-family: "PT Serif", Helvetica, Arial, sans-serif;
+    font-size: 1.9rem;
+    color: #004C92;
+    line-height: 1; }
+    .header .headline small {
+      font-family: "Roboto", Arial, sans-serif;
+      font-style: italic;
+      font-size: 48%;
+      color: #637D8E; }
+  .header .headline-main {
+    display: block; }
+
+.underHeader-contact-informations {
+  margin-bottom: 15px;
+  padding: 7px 0 !important;
+  font-size: 90%;
+  background: #54585A; }
+  .underHeader-contact-informations a {
+    color: #EEF5F3;
+    text-transform: uppercase; }
+    .underHeader-contact-informations a:hover {
+      font-weight: bold; }
+    .underHeader-contact-informations a span:not(:first-child):hover {
+      padding-bottom: 5px;
+      border-bottom: 1px dashed white; }
+  .underHeader-contact-informations .particulier {
+    color: #002F6C; }
+  .underHeader-contact-informations .professionnels {
+    color: #339575; }
+  .underHeader-contact-informations .entreprise {
+    color: #F5BA33;
+    margin-top: 7px; }
+  .underHeader-contact-informations .patrimoine {
+    color: #D8335F;
+    margin-top: 7px; }
+
+/* ==========================================================================
+        MEDIUM SCREEN
+========================================================================== */
+@media print, screen and (min-width: 40em) {
+  .header {
+    padding-bottom: 3.9rem; }
+    .header .headline {
+      font-size: 2.9rem; }
+    .header .header-subnav {
+      float: none;
+      position: absolute;
+      text-align: center;
+      margin: 0 auto;
+      bottom: 0;
+      width: 100%; }
+      .header .header-subnav li {
+        float: none;
+        display: inline-block; }
+        .header .header-subnav li a {
+          padding: 0.9rem 0.33rem !important;
+          font-size: 1rem !important;
+          color: #004C92;
+          text-transform: uppercase;
+          display: block;
+          font-weight: bold;
+          letter-spacing: 1px;
+          transition: all 0.35s ease-in-out; }
+          .header .header-subnav li a.is-active {
+            background: rgba(0, 76, 147, 0.15); }
+          .header .header-subnav li a:hover {
+            background: rgba(0, 76, 147, 0.15);
+            transition: all 0.35s ease-in-out; }
+
+  .underHeader-contact-informations {
+    margin-bottom: 30px; }
+    .underHeader-contact-informations .entreprise {
+      margin: 0; }
+    .underHeader-contact-informations .patrimoine {
+      margin: 0; } }
+/* ==========================================================================
+        LARGE SCREEN
+========================================================================== */
+@media print, screen and (min-width: 64em) {
+  .header {
+    padding-bottom: 4.9rem; }
+    .header .header-subnav li a {
+      padding: 0.9rem 1rem; } }
+
+/*# sourceMappingURL=header.css.map */

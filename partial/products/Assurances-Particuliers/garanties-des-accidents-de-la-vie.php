@@ -9,7 +9,7 @@
 
                 Adulte ou enfant et quel que soit l’âge, chacun peut être victime d’un accident dans le cadre de sa vie privée.
 
-                Seul ou en famille, Wery Caulliez Assurances  vous propose la Garantie des accidents de la vie,  une assurance qui vous indemnise jusqu’à 1 million d’€ par accident et par personne.
+                Seul ou en famille, VERSMEE & HAUTCOEUR Assurances  vous propose la Garantie des accidents de la vie,  une assurance qui vous indemnise jusqu’à 1 million d’€ par accident et par personne.
             </p>
 
             <p>Versmée-Hautcoeur Assurances vous propose .</p>

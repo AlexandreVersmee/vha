@@ -33,7 +33,7 @@
     </div>
 </div>
 
-<div><a target="_blank" href="\partial\products\Dispositions_generales\pj_vie_quotidienne_-plus_COM17190.pdf">Dispositions générales</a></div>
+<div><a target="_blank" href="partial/products/Dispositions_generales/pj_vie_quotidienne_-plus_COM17190.pdf">Dispositions générales</a></div>
 <button class="close-button" data-close aria-label="Close modal" type="button">
     <span aria-hidden="true">&times;</span>
 </button>

@@ -40,9 +40,7 @@
     <div class="small-4 columns">
         <a target="_blank" href="partial\products\Brochures\habitation-COM16180.pdf">Brochure</a>
     </div>
-    <div class="small-4 columns">
 
-    </div>
 </div>
 
 

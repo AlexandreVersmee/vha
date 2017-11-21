@@ -38,7 +38,7 @@
 
 <div class="row">
     <div class="small-4 columns">
-        <a target="_blank" href="partial\products\Dispositions_generales\DG-Plaisance_COM02302.pdf">Dispositions générales</a>
+        <a target="_blank" href="../Dispositions_generales/DG-Plaisance_COM02302.pdf">Dispositions générales</a>
     </div>
     <div class="small-4 columns">
         <a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Brochure</a>
