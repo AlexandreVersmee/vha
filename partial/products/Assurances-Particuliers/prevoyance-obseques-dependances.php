@@ -28,32 +28,12 @@
            de
            l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
 
-        <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant avec la technologie
-           TOMTOM</p>
 
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
+
     </div>
 </div>
+
+
 
 <div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Dispositions générales</a></div>
 <button class="close-button" data-close aria-label="Close modal" type="button">

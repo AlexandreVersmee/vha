@@ -24,38 +24,20 @@
 
             > Une couverture adaptée pour la pratique des sports dangereux dans le cadre de vos loisirs. Si vous pratiquez en qualité d’ amateur de manière régulière ou occasionnelle un sport sous-marin, aérien ou un sport mécanique en compétition ou en essai, vous pourrez être protégé de manière adaptée moyennant une majoration de cotisation.</p>
 
-        <p>> Un tarif ttractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
-           de
-           l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
-
-        <p>> Bénéficier d’Allianz conduite connectée à 1 €/mois, service innovant et sécurisant avec la technologie
-           TOMTOM</p>
-
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
-        <p>> Une aide à la gestion des sinistres dédiée et gérée par des professionnels</p>
+        <p>> Un tarif attractif et adapté à vos besoins.
     </div>
 </div>
 
-<div><a target="_blank" href="partial\products\Dispositions_generales\Garantie-des-accidents-de-la-vie.pdf">Dispositions générales</a></div>
+<div class="row">
+    <div class="small-4 columns">
+        <a target="_blank" href="partial\products\Dispositions_generales\Garantie-des-accidents-de-la-vie.pdf">Dispositions générales</a>
+    </div>
+    <div class="small-4 columns">
+        <a target="_blank" href="../Brochures/depliant_gav_COM16076.pdf">Brochure</a>
+    </div>
+
+</div>
+
 <button class="close-button" data-close aria-label="Close modal" type="button">
     <span aria-hidden="true">&times;</span>
 </button>

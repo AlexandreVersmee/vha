@@ -26,7 +26,7 @@
             Pour répondre à votre besoin, VERSMEE & HAUTCOEUR Assurances vous propose une solution sur mesure avec 3 formules d’assurance et des options complémentaires. Vous pouvez même être assuré en tous risques !
         </p>
 
-        <p>>> Un contrat complet : Vous bénéficiez des mêmes garanties qu’un contrat auto classique.
+        <p>> Un contrat complet : Vous bénéficiez des mêmes garanties qu’un contrat auto classique.
 
             > Vous êtes protégé : Notre assurance préserve votre famille et vous-même, ainsi que les autres usagers de la route.
 
