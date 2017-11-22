@@ -10,26 +10,25 @@
 
             <p>Pour déclarer un sinistre 4 possibilités :
 
-                soit en nous contactant
+                <br>* soit en nous contactant
 
-                soit à l’adresse postale suivante :
+                <br>* soit à l’adresse postale suivante :
                 Allianz Protection Juridique
                 Centre de Solution Client
                 TSA 63 301 – 92087 Paris La défense Cedex
 
-                soit à l’adresse mail suivante : declaration.protection-juridique@allianz.fr
+                <br>* soit à l’adresse mail suivante : declaration.protection-juridique@allianz.fr
 
-                soit par téléphone : 0978 978 075 (Appel non surtaxé). </p>
+                <br>* soit par téléphone : 0978 978 075 (Appel non surtaxé). </p>
         </div>
     </div>
 </div>
 
 <div class="row">
     <div class="small-12 columns">
-        <h4>Les +</h4>
-        <p>>Un accompagnement personnalisé par des professionnels jusqu’à la résolution de votre litige
-
-            > Une prise en charge de vos frais de justice pouvant aller jusqu’à 20 000 € par litige</p>
+        <h4>Les avantages</h4>
+        <p>> Un accompagnement personnalisé par des professionnels jusqu’à la résolution de votre litige</p>
+        <p>> Une prise en charge de vos frais de justice pouvant aller jusqu’à 20 000 € par litige</p>
     </div>
 </div>
 

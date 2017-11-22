@@ -41,7 +41,8 @@
                     <div class="front">
                         <img class="thumbnail" src="images/versmee%20&%20hautcoeur%20%20label_entreprises_2016_2017.png"/>
                         <img class="thumbnail" src="images/versmee%20&%20hautcoeur%20%20label_construction_2016_2017.png"/>
-                        <img class="thumbnail" src="images/versmee%20&%20hautcoeur%20%20label_flottesGarages_2016_2017.png"/>
+                        <img class="thumbnail" src="images/versmee_hautcoeur_flottesGarages_2016_2017.png"/>
+                        <img class="thumbnail" src="images/versmee%20&%20hautcoeur%20%20label_collective_2016_2017.png"/>
                     </div>
                 </div>
 			</main>

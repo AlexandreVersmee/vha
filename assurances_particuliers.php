@@ -66,8 +66,8 @@
                                             <p> ou votre assurance voiture ?
                                                 Une solution pour votre logement étudiant, meublé ou pas avec les garanties essentielles et vos objets
                                                 connectés.
-                                                Pour votre voiture des conditions très avantageuses sont réservées si vos parents sont chez Allianz...
-                                                Pour la santé vous pouvez continuer à bénéficier du contrat de vos parents tant que vous restez étudiant.</p>
+                                                Pour votre voiture des conditions très avantageuses si vos parents sont chez Allianz...
+                                                </p>
                                         </div>
                                     </div>
                                 </div>
