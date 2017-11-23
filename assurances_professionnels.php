@@ -125,8 +125,8 @@
                                 </a>
 
                                 <!-- Modal / Reveal -->
-                                <div class="reveal small" id="assurance-auto" data-reveal>
-                                    <?php include 'partial/products/Assurances-Particuliers/automobile.php' ?>
+                                <div class="reveal small" id="assurance-profilpro" data-reveal>
+                                    <?php include 'partial/products/assurances_professionnels/Profilpro.php' ?>
                                 </div>
                             </div>
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>

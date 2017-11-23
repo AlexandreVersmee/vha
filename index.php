@@ -81,13 +81,10 @@
                             </div>
                         </div>
                         <h3>Frédéric VERSMEE</h3>
-                        <p> Tombé dans le métier de l'assurance dès son plus jeune "âge", petit fils du fondateur, Raymond Versmée, formé à l'école de son père
-                            Pierre Versmée.
-                            <br>Plus de 33 ans d'expérience dans l'Assurance.
-                            Diplomé de l'A.E.A.<br>
+                        <p> Petit fils du fondateur, Raymond Versmée, formé à l'école de son père Pierre Versmée. Depuis 1983 ans dans l'Assurance. Diplomé de l'A.E.A.<br>
                             A repris le cabinet en 2004, puis l'agence de Douchy-les-Mines en 2016 en vue de l'association avec Johan Hautcoeur.
-                           <br>L'assurance avait une tellement mauvaise image quand j'étais jeune, que j'ai décidé de m'y consacrer uniquement <br>
-                            pour défendre l'intérêt des clients qui sont toujours démunis face à la puissance des compagnies...</p>
+                           <br>"L'assurance avait une tellement mauvaise image quand j'étais jeune, que j'ai décidé de m'y consacrer uniquement
+                            pour défendre l'intérêt des clients qui sont toujours démunis face à la puissance des compagnies... J'ai souhaité m'associer avec Johan HAUTCŒUR du fait de son engagement dans l'exercice de notre métier sans concession sur l'exigence de précision et de sérieux, dont il fait preuve."</p>
                     </div>
                     <div class="small-6 columns">
                         <div class="row">
