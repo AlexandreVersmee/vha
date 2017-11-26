@@ -55,16 +55,12 @@
                                 <div class="card">
                                     <div class="container">
                                         <div class="front">
-                                            <img class="thumbnail" src="images/particulier/fotolia_114634643%20400x250.jpg"/>
+                                            <img class="thumbnail" src="images/professionnel/Profil-pro_Esthécienne400x250.jpg"/>
                                         </div>
 
                                         <div class="back">
-                                            <h5>Assurer votre premier logement</h5>
-                                            <p> ou votre assurance voiture ?
-                                                Une solution pour votre logement étudiant, meublé ou pas avec les garanties essentielles et vos objets
-                                                connectés.
-                                                Pour votre voiture des conditions très avantageuses si vos parents sont chez Allianz...
-                                            </p>
+                                            <img class="thumbnail" src="images/professionnel/Profil-pro_Peintre.jpg"/>
+                                            <p>Peindre une façade nécessite <br>également un pinceau.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -73,15 +69,13 @@
                                 <div class="card">
                                     <div class="container">
                                         <div class="front">
-                                            <img class="thumbnail" src="images/particulier/fotolia_93198603-400x250.jpg"/>
+                                            <img class="thumbnail" src="images/professionnel/Profil-pro_commercant.jpg"/>
                                         </div>
 
                                         <div class="back">
-                                            <h5>This is a card.</h5>
-                                            <p>This card shows some content on the front and some on the back, and can be flipped by hovering on a desktop, or
-                                                by
-                                                swiping across on a touch device. swiping across on a touch device. swiping across on a touch device.
-                                                swiping across on a touch device. </p>
+                                            <img class="thumbnail" src="images/professionnel/bt-commerce.jpg"
+                                                 width="280" height="160"/>
+
                                         </div>
                                     </div>
                                 </div>
@@ -90,15 +84,13 @@
                                 <div class="card">
                                     <div class="container">
                                         <div class="front">
-                                            <img class="thumbnail" src="images/particulier/voiture-senior400x250.jpg"/>
+                                            <img class="thumbnail" src="images/professionnel/professionnel-automobile.jpg"/>
                                         </div>
 
                                         <div class="back">
-                                            <h5>This is a card.</h5>
-                                            <p>This card shows some content on the front and some on the back, and can be flipped by hovering on a desktop, or
-                                                by
-                                                swiping across on a touch device. swiping across on a touch device. swiping across on a touch device.
-                                                swiping across on a touch device. </p>
+                                            <img class="thumbnail" src="images/professionnel/artisan-chocolatier.jpg"/>
+                                            <p>Se salir les mains ne signifie pas qu'on fait le même métier.</p>
+
                                         </div>
                                     </div>
                                 </div>
@@ -119,9 +111,21 @@
 
                             <!-- First Line -->
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                                <a data-open="assurance-profilpro" title="Assurance Comerçants-Artisans">
-                                    <img class="thumbnail " src="images/"/>
-                                    <p class="text-center">Assurance Comerçants-Artisans</p>
+                                <a data-open="assurance-decennale" title="Assurance professionnels du Batiment">
+                                    <img class="thumbnail" src="images/professionnel/Artisan_batiment_fotolia_111624158.jpg"/>
+                                    <p class="text-center">Assurance professionnels du Batiment</p>
+                                </a>
+
+                                <!-- Modal / Reveal -->
+                                <div class="reveal small" id="assurance-decennale" data-reveal>
+                                    <?php include 'partial/products/Assurances-Particuliers/deux-roues.php' ?>
+                                </div>
+                            </div>
+
+                            <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
+                                <a data-open="assurance-profilpro" title="Assurance Artisans">
+                                    <img class="thumbnail " src="images/professionnel/artisan_fotolia_91487684.jpg"/>
+                                    <p class="text-center">Assurance Artisans</p>
                                 </a>
 
                                 <!-- Modal / Reveal -->
@@ -129,21 +133,11 @@
                                     <?php include 'partial/products/assurances_professionnels/Profilpro.php' ?>
                                 </div>
                             </div>
-                            <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                                <a data-open="assurance-deux-roues" title="Assurance 2 Roues">
-                                    <img class="thumbnail" src="images/particulier/assurance-moto400x250.jpg"/>
-                                    <p class="text-center">Assurance 2 Roues</p>
-                                </a>
 
-                                <!-- Modal / Reveal -->
-                                <div class="reveal small" id="assurance-deux-roues" data-reveal>
-                                    <?php include 'partial/products/Assurances-Particuliers/deux-roues.php' ?>
-                                </div>
-                            </div>
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                                <a data-open="assurance-habitation" title="Assurance Habitation">
-                                    <img class="thumbnail" src="images/particulier/habitation%20COM16258-V0916-400x250.jpg"/>
-                                    <p class="text-center">Assurance Habitation</p>
+                                <a data-open="assurance-profilpro" title="Assurance Commerçants">
+                                    <img class="thumbnail" src="images/professionnel/commercant_fotolia_117455077.jpg"/>
+                                    <p class="text-center">Assurance Commerçants</p>
                                 </a>
 
                                 <!-- Modal / Reveal -->
