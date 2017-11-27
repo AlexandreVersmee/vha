@@ -117,7 +117,7 @@
                                 </a>
 
                                 <!-- Modal / Reveal -->
-                                <div class="reveal small" id="assurance-decennale" data-reveal>
+                                <div class="reveal small" id="assurance-rc_decennale" data-reveal>
                                     <?php include 'partial/products/Assurances-Particuliers/deux-roues.php' ?>
                                 </div>
                             </div>
@@ -148,9 +148,9 @@
 
                             <!-- Second Line -->
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                                <a data-open="assurance-resiliation" title="Assurance Résilié, Malus, Alcoolémie">
-                                    <img class="thumbnail" src="images/particulier/assurance-auto-resiliee400x250.jpg"/>
-                                    <p class="text-center">Assurance Résilié, Malus, Alcoolémie</p>
+                                <a data-open="assurance-garage" title="Assurance Professionnels de l'autombile">
+                                    <img class="thumbnail" src="images/professionnel/garagiste_fotolia_106760351.jpg"/>
+                                    <p class="text-center">Assurance Professionnels de l'autombile</p>
                                 </a>
 
                                 <!-- Modal / Reveal -->
@@ -159,9 +159,9 @@
                                 </div>
                             </div>
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                                <a data-open="assurance-emprunteur" title="Assurance Emprunteur">
-                                    <img class="thumbnail" src="images/particulier/Assurance-emprunteur400x250.jpg"/>
-                                    <p class="text-center">Assurance Emprunteur</p>
+                                <a data-open="assurance-emprunteur" title="ASSURANCE PROFESSIONNELS DE SANTÉ">
+                                    <img class="thumbnail" src="images/professionnel/professionnel_sante_fotolia_175895764.jpg"/>
+                                    <p class="text-center">Assurance Professionnels de santé</p>
                                 </a>
 
                                 <!-- Modal / Reveal -->
@@ -169,10 +169,11 @@
                                     <?php include 'partial/products/Assurances-Particuliers/emprunteur.php' ?>
                                 </div>
                             </div>
+
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                                <a data-open="assurance-garantie" title="Assurance Garantie des Accidents de la vie">
-                                    <img class="thumbnail" src="images/particulier/fotolia_7436718%20400x250.jpg"/>
-                                    <p class="text-center">Assurance Garantie des Accidents de la vie</p>
+                                <a data-open="assurance-garantie" title="Assurance Associations">
+                                    <img class="thumbnail" src="images/professionnel/association_fotolia_59254044.jpg"/>
+                                    <p class="text-center">Assurance Association</p>
                                 </a>
 
                                 <!-- Modal / Reveal -->
@@ -183,9 +184,9 @@
 
                             <!-- Third Line -->
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                                <a data-open="assurance-sante" title="Assurance Santé">
-                                    <img class="thumbnail" src="images/particulier/fotolia_107798537%20400x250.jpg"/>
-                                    <p class="text-center">Assurance Santé</p>
+                                <a data-open="assurance-sante" title="Assurance Protection Juridique">
+                                    <img class="thumbnail" src="images/professionnel/protection_juridique_fotolia_179197915.jpg"/>
+                                    <p class="text-center">Assurance Protection Juridique</p>
                                 </a>
 
                                 <!-- Modal / Reveal -->
@@ -193,10 +194,11 @@
                                     <?php include 'partial/products/Assurances-Particuliers/sante.php' ?>
                                 </div>
                             </div>
+
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                                <a data-open="assurance-prevoyance" title="Assurance Prévoyance, Obsèques, Dépendance">
-                                    <img class="thumbnail" src="images\particulier\Prevoyance_deces_fotolia_112832968.jpg"/>
-                                    <p class="text-center">Assurance Prévoyance, Obsèques, Dépendance</p>
+                                <a data-open="assurance-prevoyance" title="Assurance Santé, Prévoyance,T.N.S, gérant, Madelin">
+                                    <img class="thumbnail" src="images/professionnel/prévoyance_fotolia_134844994.jpg"/>
+                                    <p class="text-center">Assurance Santé, Prévoyance,T.N.S, gérant, Madelin</p>
                                 </a>
 
                                 <!-- Modal / Reveal -->
@@ -206,7 +208,7 @@
                             </div>
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
                                 <a data-open="assurance-retraite" title="Assurance Retraite">
-                                    <img class="thumbnail" src="images/particulier/fotolia_85504735%20400x250.jpg""/>
+                                    <img class="thumbnail" src="images/professionnel/retraite_fotolia_78878559.jpg""/>
                                     <p class="text-center">Assurance Retraite</p>
                                 </a>
 
@@ -218,9 +220,9 @@
 
                             <!-- Fourth Line -->
                             <div class="small-12 medium-6 large-4 end columns product" data-equalizer-watch>
-                                <a data-open="assurance-protection" title="Assurance Protection Juridique">
-                                    <img class="thumbnail" src="images/particulier/allianz-protection-juridique-particuliers%20400x250.jpg"/>
-                                    <p class="text-center">Assurance Protection Juridique</p>
+                                <a data-open="assurance-protection" title="Assurance Santé Collective">
+                                    <img class="thumbnail" src="images/professionnel/sante_collective_fotolia_152335809.jpg"/>
+                                    <p class="text-center">Assurance Santé Collective</p>
                                 </a>
 
                                 <!-- Modal / Reveal -->
@@ -229,9 +231,9 @@
                                 </div>
                             </div>
                             <div class="small-12 medium-6 large-4 end columns product" data-equalizer-watch>
-                                <a data-open="assurance-bateau" title="Assurance Bateau">
+                                <a data-open="assurance-bateau" title="Assurance Immeuble">
                                     <img class="thumbnail" src="images\particulier\assurance_bateau_fotolia_179636746.jpg"/>
-                                    <p class="text-center">Assurance Bateau</p>
+                                    <p class="text-center">Assurance Immeuble</p>
                                 </a>
 
                                 <!-- Modal / Reveal -->

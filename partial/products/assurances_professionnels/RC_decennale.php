@@ -1,22 +1,18 @@
+<?php
 /**
  * Created by PhpStorm.
  * User: Frédéric
- * Date: 22/11/2017
- * Time: 22:58
+ * Date: 26/11/2017
+ * Time: 23:35
  */
-<h1>Assurance Commerçants, artisans</h1>
+<h1>Assurance du batiment</h1>
 
 <div class="row">
     <div class="small-12 columns">
         <div class="callout">
             <div><img src="../../../../vha/images/professionnel/"></div>
-            <p>Protégez vos locaux professionnels en toutes circonstances.
-                Commerçants, Artisans, Associations, PME-PMI, ALLIANZ a la solution adaptée à votre profil et vos besoins.
-                Selon votre profil, ALLIANZ vous propose 3 contrats différents :
-                – Commerçants Artisans : ALLIANZ PROFIL PRO
-                – Prestataires de Services et Professions libérales : ALLIANZ ACTIF PRO
-                – Associations : ALLIANZ ASSOCIA PRO
-            </p>
+            <p>Protégez votre activité et vos locaux professionnels en toutes circonstances, ALLIANZ a la solution adaptée à votre profil et vos besoins.
+</p>
 
             <p>Versmée-Hautcoeur Assurances vous propose des solutions pour vous aider à consolider vos revenus futurs.</p>
         </div>
