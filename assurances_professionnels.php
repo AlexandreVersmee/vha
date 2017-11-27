@@ -232,7 +232,7 @@
                             </div>
                             <div class="small-12 medium-6 large-4 end columns product" data-equalizer-watch>
                                 <a data-open="assurance-bateau" title="Assurance Immeuble">
-                                    <img class="thumbnail" src="images\particulier\assurance_bateau_fotolia_179636746.jpg"/>
+                                    <img class="thumbnail" src="images/professionnel/immeuble_fotolia_102114644.jpg"/>
                                     <p class="text-center">Assurance Immeuble</p>
                                 </a>
 
