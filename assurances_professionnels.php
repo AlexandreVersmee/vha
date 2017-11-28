@@ -222,7 +222,7 @@
                             <div class="small-12 medium-6 large-4 end columns product" data-equalizer-watch>
                                 <a data-open="assurance-protection" title="Assurance Santé Collective">
                                     <img class="thumbnail" src="images/professionnel/sante_collective_fotolia_152335809.jpg"/>
-                                    <p class="text-center">Assurance Santé Collective</p>
+                                    <p class="text-center">Assurance Santé Collective des salariés</p>
                                 </a>
 
                                 <!-- Modal / Reveal -->
@@ -243,9 +243,9 @@
                                 </div>
                             </div>
                             <div class="small-12 medium-6 large-4 end columns product" data-equalizer-watch>
-                                <a data-open="assurance-chiens" title="Assurance Chiens et Chats">
-                                    <img class="thumbnail" src="images/particulier/Chiens%20et%20chats%20400x250.jpg"/>
-                                    <p class="text-center">Assurance Chiens et Chats</p>
+                                <a data-open="assurance-chiens" title="Assurance des établissements d'enseignement">
+                                    <img class="thumbnail" src="images/professionnel/enseignement_fotolia_61912613.jpg"/>
+                                    <p class="text-center">Assurance des établissements d'enseignement</p>
                                 </a>
 
                                 <!-- Modal / Reveal -->
