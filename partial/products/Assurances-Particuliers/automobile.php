@@ -8,7 +8,7 @@
     <div class="small-12 columns">
         <div class="callout">
             <img class="thumbnail" src="images/particulier/jeunes-couples_auto.jpg" width="120" height="75" />
-            <p>En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
+            <p class="text-justify">En France, assurer son véhicule est obligatoire. L’assurance auto couvre les dommages que vous causez aux
                autres.</p>
 
             <p>Versmée-Hautcoeur Assurances vous propose aussi bien les contrats pour l’assurance obligatoire Responsabilité
@@ -22,7 +22,7 @@
     <div class="small-12 columns">
         <h4>Les avantages</h4>
         <p>> Une solution sur-mesure avec 5 formules d’assurance et des options à la carte, allant de la garantie
-           Responsabilité Civile seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement, Pack Valeur plus, Pack panne</p>
+           Responsabilité Civile seule jusqu’à l’assurance Tous Risques avec dépannage 0 km et véhicule de remplacement, Pack Valeur plus, Pack panne mécanique</p>
 
         <p>> Un tarif attractif et adapté à vos besoins pour réaliser de vraies économies avec la possibilité de bénéficier
            de l’assurance aux kilomètres avec des forfaits de 4000, 7000 ou 9000 kms.</p>
@@ -36,10 +36,10 @@
 
 <div class="row">
     <div class="small-4 columns">
-        <a target="_blank" href="../products/Dispositions_generales/automobile_COM15284.pdf">Dispositions générales</a>
+        <a target="_blank" href="partial/products/Dispositions_generales/automobile_COM15284.pdf">Dispositions générales</a>
     </div>
     <div class="small-4 columns">
-        <a target="_blank" href="../Brochures/auto-COM15425_4_volets_generique.pdf">Brochure</a>
+        <a target="_blank" href="partial/products/Brochures/auto-COM15425_4_volets_generique.pdf">Brochure</a>
     </div>
     <div class="small-4 columns">
 

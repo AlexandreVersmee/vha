@@ -28,7 +28,7 @@
 
 <div class="row">
     <div class="small-4 columns">
-        <a target="_blank" href="partial\products\Dispositions_generales\chiens_chats_com18751_dg_v2.pdf">Dispositions générales</a>
+        <a target="_blank" href="partial/products/Dispositions_generales/chiens_chats_com18751_dg_v2.pdf">Dispositions générales</a>
     </div>
     <div class="small-4 columns">
         <a target="_blank" href="partial\products\Brochures\chiens_chats_COM18704.pdf">Brochure</a>

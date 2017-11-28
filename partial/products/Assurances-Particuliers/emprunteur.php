@@ -35,7 +35,7 @@
     </div>
 </div>
 
-<div><a target="_blank" href="partial\products\Dispositions_generales\vie_emprunteur_COM17070_notice-d-information.pdf">Dispositions générales</a></div>
+<div><a target="_blank" href="partial/products/Dispositions_generales/vie_emprunteur_COM17070_notice-d-information.pdf">Dispositions générales</a></div>
 <button class="close-button" data-close aria-label="Close modal" type="button">
     <span aria-hidden="true">&times;</span>
 </button>

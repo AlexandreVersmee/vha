@@ -8,12 +8,8 @@
                 aux  autres.</p>
 
             <p>Versmée-Hautcoeur Assurances vous propose aussi bien les contrats pour l’assurance obligatoire
-                Responsabilité
-                Civile
-                circulation,
-                que pour les dommages subis par vous-même avec la garantie du conducteur, et par votre véhicule. Un
-                accompagnement
-                personnalisé pour choisir la formule qui vous correspond.</p>
+                Responsabilité Civile circulation, que pour les dommages subis par vous-même avec la garantie du conducteur, et par votre véhicule. Un
+                accompagnement personnalisé pour choisir la formule qui vous correspond.</p>
         </div>
     </div>
 </div>
@@ -32,10 +28,10 @@
 </div>
 <div class="row">
     <div class="small-4 columns">
-        <a target="_blank" href="partial\products\Dispositions_generales\2_ROUES_COM00323-V0116.pdf">Dispositions
+        <a target="_blank" href="partial/products/Dispositions_generales/2_ROUES_COM00323-V0116.pdf">Dispositions
             générales</a></div>
     <div>
-        <a target="_blank" href="../Brochures/2_roues-com11914_v201506.pdf">Brochure</a>
+        <a target="_blank" href="partial/products/Brochures/2_roues-com11914_v201506.pdf">Brochure</a>
     </div>
 </div>
 
