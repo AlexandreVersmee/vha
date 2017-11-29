@@ -41,7 +41,7 @@
         <a target="_blank" href="../Dispositions_generales/DG-Plaisance_COM02302.pdf">Dispositions générales</a>
     </div>
     <div class="small-4 columns">
-        <a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Brochure</a>
+        <a target="_blank" href="../Brochures/Com-Plaisance.pdf">Brochure</a>
     </div>
     <div class="small-4 columns">
 

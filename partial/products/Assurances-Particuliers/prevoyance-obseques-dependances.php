@@ -3,7 +3,7 @@
 <div class="row">
     <div class="small-12 columns">
         <div class="callout">
-            <p>n ensemble de garanties conçues pour répondre aux besoins spécifiques de votre famille et lui permettre de faire face financièrement en cas de : Décès prématuré, Arrêt de travail, Invalidité suite à une maladie ou un accident</p>
+            <p>Un ensemble de garanties conçues pour répondre aux besoins spécifiques de votre famille et lui permettre de faire face financièrement en cas de : Décès prématuré, Arrêt de travail, Invalidité suite à une maladie ou un accident</p>
 
             <p>Versmée-Hautcoeur Assurances vous propose aussi bien les contrats pour l’assurance du particulier, du commerçant, de l'artisan que le dirigeant avec la garantie Homme-clé, </p>
         </div>
