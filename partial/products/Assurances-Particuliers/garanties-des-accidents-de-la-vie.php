@@ -30,14 +30,13 @@
 
 <div class="row">
     <div class="small-4 columns">
-        <a target="_blank" href="partial/products/Dispositions_generales/Garantie-des-accidents-de-la-vie.pdf">Dispositions générales</a>
+        <a target="_blank" href="../Dispositions_generales/Garantie-des-accidents-de-la-vie.pdf">Dispositions générales</a>
     </div>
     <div class="small-4 columns">
         <a target="_blank" href="../Brochures/depliant_gav_COM16076.pdf">Brochure</a>
     </div>
 
 </div>
-
 <button class="close-button" data-close aria-label="Close modal" type="button">
     <span aria-hidden="true">&times;</span>
 </button>

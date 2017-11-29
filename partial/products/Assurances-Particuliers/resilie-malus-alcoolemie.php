@@ -34,7 +34,21 @@
     </div>
 </div>
 
-<div><a target="_blank" href="images/assurance_versmee_hautcoeur_logo">Dispositions générales</a></div>
+
+<div class="row">
+    <div class="small-4 columns">
+        <a target="_blank" href="../Dispositions_generales/vie_emprunteur_COM17070_notice-d-information.pdf">Dispositions
+            générales</a>
+    </div>
+    <div class="small-4 columns">
+        <a target="_blank" href="../Brochures/Assurance-Emprunteur_COM17022.pdf">Brochure</a>
+    </div>
+    <div class="small-4 columns">
+
+    </div>
+</div>
+
+
 <button class="close-button" data-close aria-label="Close modal" type="button">
     <span aria-hidden="true">&times;</span>
 </button>

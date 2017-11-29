@@ -3,6 +3,7 @@
 <div class="row">
     <div class="small-12 columns">
         <div class="callout">
+            <img class="thumbnail" src="../../../images/particulier/habitation%20COM16258-V0916-400x250.jpg" width="120" height="75" />
             <p>Assurer votre logement : couvrir vos biens et votre responsabilité civile.
 
                 Avec nos solutions d’assurance, en plus des garanties essentielles telles que : Incendie, Dégâts des eaux ou Responsabilité Civile</p>
@@ -35,10 +36,10 @@
 
 <div class="row">
     <div class="small-4 columns">
-        <a target="_blank" href="partial/products/Dispositions_generales/habitation_COM16258-V032016.pdf">Dispositions générales</a>
+        <a target="_blank" href="../Dispositions_generales/habitation_COM16258-V032016.pdf">Dispositions générales</a>
     </div>
     <div class="small-4 columns">
-        <a target="_blank" href="partial/products/Brochures/habitation-COM16180.pdf">Brochure</a>
+        <a target="_blank" href="../Brochures/habitation-COM16180.pdf">Brochure</a>
     </div>
 
 </div>

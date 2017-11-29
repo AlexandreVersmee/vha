@@ -23,15 +23,13 @@
 
 <div class="row">
     <div class="small-4 columns">
-        <a target="_blank" href="partial\products\Dispositions_generales\Santé-Composio_COM18512-V0215.pdf">Dispositions générales</a>
+        <a target="_blank" href="../Dispositions_generales/Santé-Composio_COM18512-V0215.pdf">Dispositions générales</a>
     </div>
     <div class="small-4 columns">
         <a target="_blank" href="../Brochures/Bareme_ComposioClassicAdultes_COM18758-avril-2015.pdf">Brochure</a>
     </div>
 
 </div>
-
-
 
 
 <button class="close-button" data-close aria-label="Close modal" type="button">

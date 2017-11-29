@@ -36,10 +36,10 @@
 
 <div class="row">
     <div class="small-4 columns">
-        <a target="_blank" href="partial/products/Dispositions_generales/automobile_COM15284.pdf">Dispositions générales</a>
+        <a target="_blank" href="../Dispositions_generales/automobile_COM15284.pdf">Dispositions générales</a>
     </div>
     <div class="small-4 columns">
-        <a target="_blank" href="partial/products/Brochures/auto-COM15425_4_volets_generique.pdf">Brochure</a>
+        <a target="_blank" href="../Brochures/auto-COM15425_4_volets_generique.pdf">Brochure</a>
     </div>
     <div class="small-4 columns">
 
