@@ -77,7 +77,7 @@
                     <div class="small-6 columns">
                         <div class="row">
                             <div class=" small-6 columns photo-presentation-partners">
-                                <img class="thumbnail" src="images/FV2016-06-10%2013.34.13_pp.jpg" alt="" title=""/>
+                                <img class="thumbnail" src="images/FV2016-06-10%2013.34.13_pp.jpg" alt="" title=""  />
                             </div>
                         </div>
                         <h3>Frédéric VERSMEE</h3>
@@ -85,7 +85,9 @@
                             A repris le cabinet en 2004, puis l'agence de Douchy-les-Mines en 2016 en vue de l'association avec Johan Hautcoeur.
                            <br>"L'assurance avait une tellement mauvaise image quand j'étais jeune, que j'ai décidé de m'y consacrer uniquement
                             pour défendre l'intérêt des clients qui sont toujours démunis face à la puissance des compagnies... J'ai souhaité m'associer avec Johan HAUTCŒUR du fait de son engagement dans l'exercice de notre métier sans concession sur l'exigence de précision et de sérieux, dont il fait preuve."</p>
+                        <a target="_blank" href="../Brochures/Com-Plaisance.pdf">Brochure</a>
                     </div>
+
                     <div class="small-6 columns">
                         <div class="row">
                             <div class="small-offset-5 small-6 columns photo-presentation-partners">
