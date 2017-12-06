@@ -46,10 +46,12 @@
                                     <div class="slide-text-background" >
                                         <h4>Actualité</h4>
                                         <p>
-                                            Nouveauté en matière d'assurance emprûnteur....<br>
-                                            Vous pouvez désormais résilier vos assurances emprunteur tous les ans... et faire des économies.
+                                            <br><em><mark>Nouveauté en matière d'assurance emprûnteur....<mark/><em/><br>
+                                            <img src="images/particulier/Assurance-emprunteur400x250.jpg" style="height:30 width:40" ><br>
+                                            Vous pouvez désormais résilier vos assurances emprunteur tous les ans... et faire des économies.<br>
+
                                             Souscrire peut se faire de façon moderne et rapide ! Déclaration d'état de santé sur votre tablette ou votre ordinateur.
-                                            Examens médicaux si besoin en centre médical multi-spécialisé : un seul rendez vous !
+                                            Examens médicaux si besoin en centre médical multi-spécialisé : un seul rendez vous !<br>
                                         </p>
                                     </div>
                                 </li>
@@ -59,7 +61,7 @@
 </p></span>
                                 </li>
                                 <li class="orbit-slide">
-                                    <iframe width="100%" height="400" src="https://www.youtube.com/embed/VAoGOKuxAE8" frameborder="0" allowfullscreen></iframe>
+                                    <iframe width="100%" height="400" src="https://www.youtube.com/watch?v=qW-LDNR8EsY" frameborder="0" allowfullscreen></iframe>   <- https://www.youtube.com/embed/VAoGOKuxAE8
                                     <figcaption class="orbit-caption">Encapsulating</figcaption>
                                 </li>
                             </ul>
