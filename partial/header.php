@@ -9,8 +9,9 @@
         </div>
         <div class="small-12 medium-8 end columns">
             <h1 class="headline">
-                <span class="headline-main">Versmée & Hautcœur</span>
-                <small>Maison fondée en 1929</small>
+                <span class="headline-main" style="text-justify:inter-word ">VERSMÉE & HAUTCŒUR</span>
+                <a href="index.php" title="Retour à la page d'accueil" >
+                <small>Maison fondée en 1929 par Raymond Versmée, Pierre Versmée, Frédéric Versmée.</small>
             </h1>
 
                 <img src="images/Specialisation_Entreprise_Flotte.jpg"
