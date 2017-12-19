@@ -1,9 +1,9 @@
-<h1>Assurance du batiment</h1>
+<h1>Assurance des Professionnels de l'automobile</h1>
 
 <div class="row">
     <div class="small-12 columns">
         <div class="callout">
-            <div><img src="../../../../vha/images/professionnel/Artisan_batiment_fotolia_111624158.jpg"></div>
+            <div><img src="../../../../vha/images/professionnel/garagiste_fotolia_106760351.jpg"></div>
             <p>Protégez votre activité et vos locaux professionnels en toutes circonstances, ALLIANZ a la solution adaptée à votre profil et vos besoins.</p>
             <p>Versmée-Hautcoeur Assurances vous propose des solutions pour vous aider à consolider vos revenus futurs.</p>
         </div>
@@ -24,15 +24,15 @@
 
 <div class="row">
     <div class="small-4 columns">
-        <a target="_blank" href="../Brochures/Allianz-Solution-BTP_COM09953.pdf">Dispositions générales</a>
+        <a target="_blank" href="../Dispositions_generales/COM07811_DG_Allianz_Professionnels_de_lauto.pdf">Dispositions générales</a>
     </div>
     <div class="small-4 columns">
-        <a target="_blank" href="../Brochures/Allianz-Solution-BTP_COM09953.pdf">Brochure</a>
+        <a target="_blank" href="../Brochures/ProfAuto_03_15.pdf">Brochure</a>
     </div>
     <div class="small-4 columns">
-        <a target="_blank" href="http://online.fliphtml5.com/gjxh/yezy/" >Brochure interactive</a>
 
-</div>
+
+    </div>
 </div>
 
 

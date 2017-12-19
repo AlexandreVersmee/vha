@@ -111,14 +111,14 @@
 
                             <!-- First Line -->
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                                <a data-open="assurance-decennale" title="Assurance professionnels du Batiment">
+                                <a data-open="assurance-rc_decennale" title="Assurance professionnels du Batiment">
                                     <img class="thumbnail" src="images/professionnel/Artisan_batiment_fotolia_111624158.jpg"/>
                                     <p class="text-center">Assurance professionnels du Batiment</p>
                                 </a>
 
                                 <!-- Modal / Reveal -->
                                 <div class="reveal small" id="assurance-rc_decennale" data-reveal>
-                                    <?php include 'partial/products/Assurances-Particuliers/deux-roues.php' ?>
+                                    <?php include 'partial/products/assurances_professionnels/RC_decennale.php' ?>
                                 </div>
                             </div>
 
@@ -154,19 +154,19 @@
                                 </a>
 
                                 <!-- Modal / Reveal -->
-                                <div class="reveal small" id="assurance-resiliation" data-reveal>
-                                    <?php include 'partial/products/Assurances-Particuliers/resilie-malus-alcoolemie.php' ?>
+                                <div class="reveal small" id="assurance-garage" data-reveal>
+                                    <?php include 'partial/products/assurances_professionnels/professionnel_automobille.php' ?>
                                 </div>
                             </div>
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                                <a data-open="assurance-emprunteur" title="ASSURANCE PROFESSIONNELS DE SANTÉ">
+                                <a data-open="assurance-professionnel-sante" title="ASSURANCE PROFESSIONNELS DE SANTÉ">
                                     <img class="thumbnail" src="images/professionnel/professionnel_sante_fotolia_175895764.jpg"/>
                                     <p class="text-center">Assurance Professionnels de santé</p>
                                 </a>
 
                                 <!-- Modal / Reveal -->
-                                <div class="reveal small" id="assurance-emprunteur" data-reveal>
-                                    <?php include 'partial/products/Assurances-Particuliers/emprunteur.php' ?>
+                                <div class="reveal small" id="assurance-professionnel-sante" data-reveal>
+                                    <?php include 'partial/products/assurances_professionnels/professionnel_sante.php' ?>
                                 </div>
                             </div>
 

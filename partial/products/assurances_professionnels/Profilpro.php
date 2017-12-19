@@ -1,9 +1,3 @@
-/**
- * Created by PhpStorm.
- * User: Frédéric
- * Date: 22/11/2017
- * Time: 22:58
- */
 <h1>Assurance Commerçants, artisans</h1>
 
 <div class="row">
