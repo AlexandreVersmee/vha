@@ -1,4 +1,4 @@
-<h1>Assurance Commerçants, artisans</h1>
+<h1>Commerçants, artisans</h1>
 
 <div class="row">
     <div class="small-12 columns">

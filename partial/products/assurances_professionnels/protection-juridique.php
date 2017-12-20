@@ -1,11 +1,11 @@
-<h1>Professionnels de l'automobile</h1>
+<h1>Protection Juridique Professionnelle</h1>
 
 <div class="row">
     <div class="small-12 columns">
         <div class="callout">
-            <div><img src="../../../../vha/images/professionnel/garagiste_fotolia_106760351.jpg"></div>
-            <p>Protégez votre activité et vos locaux professionnels en toutes circonstances, ALLIANZ a la solution adaptée à votre profil et vos besoins.</p>
-            <p> Versmée-Hautcoeur Assurances vous propose un vrai contrat garage sans obligation de déclarer les véhicules...</p>
+            <div><img src="../../../../vha/images/professionnel/protection_juridique_fotolia_179197915.jpg"></div>
+            <p>Défendre vos intérêts et vous conseiller, ALLIANZ a la solution adaptée à votre profil et vos besoins.</p>
+            <p>Versmée-Hautcoeur Assurances vous propose des solutions pour vous aider à réclamer vos créances également.</p>
         </div>
     </div>
 </div>

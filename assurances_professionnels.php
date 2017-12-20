@@ -171,33 +171,33 @@
                             </div>
 
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                                <a data-open="assurance-garantie" title="Assurance Associations">
+                                <a data-open="assurance-association" title="Assurance Associations">
                                     <img class="thumbnail" src="images/professionnel/association_fotolia_59254044.jpg"/>
                                     <p class="text-center">Assurance Association</p>
                                 </a>
 
                                 <!-- Modal / Reveal -->
-                                <div class="reveal small" id="assurance-garantie" data-reveal>
-                                    <?php include 'partial/products/Assurances-Particuliers/garanties-des-accidents-de-la-vie.php' ?>
+                                <div class="reveal small" id="assurance-association" data-reveal>
+                                    <?php include 'partial/products/assurances_professionnels/association.php' ?>
                                 </div>
                             </div>
 
                             <!-- Third Line -->
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
-                                <a data-open="assurance-sante" title="Assurance Protection Juridique">
+                                <a data-open="assurance-protection-juridique" title="Assurance Protection Juridique">
                                     <img class="thumbnail" src="images/professionnel/protection_juridique_fotolia_179197915.jpg"/>
                                     <p class="text-center">Assurance Protection Juridique</p>
                                 </a>
 
                                 <!-- Modal / Reveal -->
-                                <div class="reveal small" id="assurance-sante" data-reveal>
-                                    <?php include 'partial/products/Assurances-Particuliers/sante.php' ?>
+                                <div class="reveal small" id="assurance-protection-juridique" data-reveal>
+                                    <?php include 'partial/products/assurances_professionnels/protection-juridique.php' ?>
                                 </div>
                             </div>
 
                             <div class="small-12 medium-6 large-4 columns product" data-equalizer-watch>
                                 <a data-open="assurance-prevoyance" title="Assurance Santé, Prévoyance,T.N.S, gérant, Madelin">
-                                    <img class="thumbnail" src="images/professionnel/prévoyance_fotolia_134844994.jpg"/>
+                                    <img class="thumbnail" src="images/professionnel/prevoyance_fotolia_134844994.jpg"/>
                                     <p class="text-center">Assurance Santé, Prévoyance,T.N.S, gérant, Madelin</p>
                                 </a>
 
